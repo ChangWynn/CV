@@ -57,6 +57,9 @@ _Sales assistant_
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
+#### Udemy Certifications
+- The Linux Command Line Bootcamp (feb 2023)
+
 #### Cerus Casino Academy (Manchester, UK)
 - Roulette, BlackJack and Three Card Poker
 - Mental Math Skills
