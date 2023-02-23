@@ -58,7 +58,9 @@ _Sales assistant_
 - RSpec, Jasmine
 
 #### Udemy Certifications
-- The Linux Command Line Bootcamp (feb 2023)
+- The Linux Command Line Bootcamp - 16hours (Feb 2023)
+- Testing Ruby with Rspec: The Complete Guide - 7.5hours (Feb 2023)
+- Learn to code with Ruby - 31.5hours (Sept 2022)
 
 #### Cerus Casino Academy (Manchester, UK)
 - Roulette, BlackJack and Three Card Poker
