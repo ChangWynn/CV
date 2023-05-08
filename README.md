@@ -1,13 +1,18 @@
-## Cong-Truong (Chang) Huynh
+# Cong-Truong (Chang) Huynh
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
 
+---
+
 ## Projects
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| Name                         | Description | Tech/tools |
+| ---------------------------- | ------------ | ------------------------------------- |
+| Yahtzee game | An adaptation of the classic dice game set in a cyberpunk universe | React, Node.Js, MongoDB, Express, CSS |
+| Acebook | A light version of the facebook application  | React, Node.Js, MongoDB, Express, CSS |
+| MakersBnB | A clone of the AirBnB application | Ruby, Sinatra, PostgreSQL |
+
+---
 
 ## Work Experience
 
@@ -35,34 +40,77 @@ _Store manager_
 _Sales assistant_
 - Any experience relevent to software development
 
+---
+
 ## Skills
 
 #### Communication
-
+- Excellent verbal and written communication skills developed through my work experience and team projects during the Software Engineer Bootcamp.
+- Proficient in conveying complex technical concepts to both technical and non-technical stakeholders.
 
 #### Teamwork
+- Strong collaborative skills fostered through pair programming and group projects at the Software Engineer Bootcamp.
+- Experience working effectively in diverse teams, valuing different perspectives and contributing to a positive team dynamic.
 
+#### Hard Work
+- Demonstrated dedication and perseverance in completing challenging projects and meeting deadlines.
+- Willingness to put in the extra effort to learn and improve coding skills.
 
-#### Keep calm under pressure
+#### Keep Calm
+- Ability to stay calm and focused under pressure, maintaining productivity and problem-solving effectively.
+- Adaptability and resilience in navigating complex technical challenges.
 
+#### Full Stack Development
+- Proficient in building full-stack web applications using modern frameworks and technologies such as React, Node.js, MongoDB and Express.
+- Experience with front-end development using HTML, CSS, and JavaScript.
+
+#### Test-Driven Development (TDD)
+- Experience with writing test cases and using testing frameworks like RSpec, Jest, and Cypress to ensure code quality and functionality.
+- Understanding of the importance of TDD in producing reliable and maintainable code.
+
+#### Agile Methodologies
+- Familiarity with Agile/XP practices such as Scrum and Kanban.
+- Experience working in iterative development cycles, delivering incremental features and adapting to changing requirements.
+
+#### Version Control
+- Proficient in using Git and GitHub for version control and collaborative development.
+- Comfortable with branching, merging, and resolving conflicts.
+
+#### Linux
+- Proficient in using the Linux command line for development tasks and server management.
+- Familiarity with common Linux utilities and shell scripting.
+
+#### Continuous Learning
+- Enthusiasm for learning new technologies and staying up-to-date with industry trends.
+- Recently completed Udemy certifications in React, JavaScript unit-testing with Jest and Vitest, Testing Ruby with RSpec, and The Linux Command Line Bootcamp, among others.
+- Utilizing the knowledge gained from these certifications to enhance my development skills and deliver high-quality code.
+
+---
 
 ## Education
 
-#### Software Engineer Bpptcamp at MAKERS ACADEMY (London, UK)
+#### Software Engineer Bootcamp at MAKERS ACADEMY (London, UK)
 - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
 - e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
 - you might also mention aspects some other skills/knowledge listed below: 
 - OOP, TDD, MVC, DDD
 - Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- HTML, CSS, Javascript
+- MongoDB, Express, React, Node.js
+- Ruby, Sinatra
+- Rspec, Jest, Cypress
 
 #### Udemy Certifications
-- The Linux Command Line Bootcamp - 16hours (Feb 2023)
-- Testing Ruby with Rspec: The Complete Guide - 7.5hours (Feb 2023)
-- Learn to code with Ruby - 31.5hours (Sept 2022)
+- React - The complete guide (May 2023)
+- JavaScript unit-testing with Jest and Vitest - April 2023
+- Testing Ruby with Rspec: The Complete Guide - Feb 2023
+- The Linux Command Line Bootcamp - Feb 2023
+- Learn to code with Ruby - Sept 2022
+- The complete JavaScript course - oct 2020
+- Advanced CSS and SASS - oct 2020
+- Modern HTML/CSS (including SASS) - sept 2020
 
-#### Cerus Casino Academy (Manchester, UK)
+#### Cerus Casino Academy (Manchester, UK) - January 2016
 - Roulette, BlackJack and Three Card Poker
 - Mental Math Skills
 - Dealing Skills
@@ -70,8 +118,10 @@ _Sales assistant_
 #### IUT de Troyes (Troyes, FRANCE)
 _BTS (BTEC HND) Business Management_
 
-#### Jacques Amyot's school (Auxerre, FRANCE)
-_BACCALAUREAT (A Level) Economy & Sociology_
+#### Jacques Amyot school (Auxerre, FRANCE)
+_BACCALAUREAT (A Level) Economics & Sociology_
+
+---
 
 ## Hobbies
 
