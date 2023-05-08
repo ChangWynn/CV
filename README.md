@@ -56,22 +56,6 @@ _Sales assistant_
 
 ## Skills
 
-#### Communication
-- Excellent verbal and written communication skills developed through my work experience and team projects during the Software Engineer Bootcamp.
-- Proficient in conveying complex technical concepts to both technical and non-technical stakeholders.
-
-#### Teamwork
-- Strong collaborative skills fostered through pair programming and group projects at the Software Engineer Bootcamp.
-- Experience working effectively in diverse teams, valuing different perspectives and contributing to a positive team dynamic.
-
-#### Hard Work
-- Demonstrated dedication and perseverance in completing challenging projects and meeting deadlines.
-- Willingness to put in the extra effort to learn and improve coding skills.
-
-#### Keep Calm
-- Ability to stay calm and focused under pressure, maintaining productivity and problem-solving effectively.
-- Adaptability and resilience in navigating complex technical challenges.
-
 #### Full Stack Development
 - Proficient in building full-stack web applications using modern frameworks and technologies such as React, Node.js, MongoDB and Express.
 - Experience with front-end development using HTML, CSS, and JavaScript.
@@ -97,6 +81,23 @@ _Sales assistant_
 - Recently completed Udemy certifications in React, JavaScript unit-testing with Jest and Vitest, Testing Ruby with RSpec, and The Linux Command Line Bootcamp, among others.
 - Utilizing the knowledge gained from these certifications to enhance my development skills and deliver high-quality code.
 
+#### Communication
+- Excellent verbal and written communication skills developed through my work experience and team projects during the Software Engineer Bootcamp.
+- Proficient in conveying complex technical concepts to both technical and non-technical stakeholders.
+
+#### Teamwork
+- Strong collaborative skills fostered through pair programming and group projects at the Software Engineer Bootcamp.
+- Experience working effectively in diverse teams, valuing different perspectives and contributing to a positive team dynamic.
+
+#### Hard Work
+- Demonstrated dedication and perseverance in completing challenging projects and meeting deadlines.
+- Willingness to put in the extra effort to learn and improve coding skills.
+
+#### Self-Control
+- Ability to stay calm and focused under pressure, maintaining productivity and problem-solving effectively.
+- Adaptability and resilience in navigating complex technical challenges.
+
+
 ---
 
 ## Education
@@ -113,7 +114,7 @@ _Sales assistant_
 - Rspec, Jest, Cypress
 
 #### Udemy Certifications
-- React - The complete guide (May 2023)
+- React, the complete guide - May 2023
 - JavaScript unit-testing with Jest and Vitest - April 2023
 - Testing Ruby with Rspec: The Complete Guide - Feb 2023
 - The Linux Command Line Bootcamp - Feb 2023
