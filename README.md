@@ -1,5 +1,7 @@
 # Cong-Truong (Chang) Huynh
 
+![codewars](https://img.shields.io/badge/Codewars-4kyu-blue?style=for-the-badge&logoColor=red&logo=codewars)
+
 ![html](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logoColor=white&logo=html5)
 ![css](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logoColor=white&logo=css3)
 ![javascript](https://img.shields.io/badge/JAVASCRIPT-yellow?style=for-the-badge&logoColor=white&logo=javascript)
@@ -11,7 +13,11 @@
 ![sinatra](https://img.shields.io/badge/SINATRA-grey?style=for-the-badge&logoColor=white&logo=rubysinatra)
 ![postgresql](https://img.shields.io/badge/POSTGRESQL-blue?style=for-the-badge&logoColor=white&logo=postgresql)
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+I am a passionate and dedicated software engineer with a strong emphasis on teamwork and a deep love for coding. <br/> 
+With a relentless enthusiasm for technology, I am constantly seeking opportunities to learn and grow in the ever-evolving field of software development. <br/> 
+Known for my exceptional performance and contributions, I have consistently been chosen for promotion due to my unwavering dedication and drive to deliver high-quality results. <br/> 
+My passion for coding fuels my motivation to tackle complex challenges, while my enthusiasm for technology inspires me to stay up-to-date with the latest industry trends. <br/> 
+I am excited to be part of a dynamic and innovative tech community, where I can continuously expand my knowledge and contribute to cutting-edge projects.<br/> 
 
 [Projects](#projects) | [Work Experience](#work-experience) | [Skills](#skills) | [Education](#education) | [Hobbies](#hobbies)
 ---
