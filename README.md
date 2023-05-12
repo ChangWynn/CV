@@ -87,14 +87,6 @@ Here are some highlights of my education:
 - Familiarity with Agile/XP practices such as Scrum and Kanban.
 - Experience working in iterative development cycles, delivering incremental features and adapting to changing requirements.
 
-#### Version Control
-- Proficient in using Git and GitHub for version control and collaborative development.
-- Comfortable with branching, merging, and resolving conflicts.
-
-#### Linux
-- Proficient in using the Linux command line for development tasks and server management.
-- Familiarity with common Linux utilities and shell scripting.
-
 #### Continuous Learning
 - Enthusiasm for learning new technologies and staying up-to-date with industry trends.
 - Recently completed Udemy certifications in React, JavaScript unit-testing with Jest and Vitest, Testing Ruby with RSpec, and The Linux Command Line Bootcamp, among others.
