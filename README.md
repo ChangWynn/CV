@@ -2,22 +2,26 @@
 
 ![codewars](https://img.shields.io/badge/Codewars-4kyu-blue?style=for-the-badge&logoColor=red&logo=codewars)
 
+![javascript](https://img.shields.io/badge/JAVASCRIPT-yellow?style=for-the-badge&logoColor=white&logo=javascript)
 ![html](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logoColor=white&logo=html5)
 ![css](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logoColor=white&logo=css3)
-![javascript](https://img.shields.io/badge/JAVASCRIPT-yellow?style=for-the-badge&logoColor=white&logo=javascript)
+
 ![react](https://img.shields.io/badge/REACT-blue?style=for-the-badge&logoColor=white&logo=react)
 ![express](https://img.shields.io/badge/EXPRESS-orange?style=for-the-badge&logoColor=white&logo=express)
 ![mongodb](https://img.shields.io/badge/MONGODB-brightgreen?style=for-the-badge&logoColor=white&logo=mongodb)
 ![nodedotjs](https://img.shields.io/badge/NODE.JS-green?style=for-the-badge&logoColor=white&logo=nodedotjs)
+
 ![ruby](https://img.shields.io/badge/RUBY-red?style=for-the-badge&logoColor=white&logo=ruby)
 ![sinatra](https://img.shields.io/badge/SINATRA-grey?style=for-the-badge&logoColor=white&logo=rubysinatra)
 ![postgresql](https://img.shields.io/badge/POSTGRESQL-blue?style=for-the-badge&logoColor=white&logo=postgresql)
 
 I am a passionate and dedicated software engineer with a strong emphasis on teamwork and a deep love for coding. <br/> 
-With a relentless enthusiasm for technology, I am constantly seeking opportunities to learn and grow in the ever-evolving field of software development. <br/> 
-Known for my exceptional performance and contributions, I have consistently been chosen for promotion due to my unwavering dedication and drive to deliver high-quality results. <br/> 
-My passion for coding fuels my motivation to tackle complex challenges, while my enthusiasm for technology inspires me to stay up-to-date with the latest industry trends. <br/> 
-I am excited to be part of a dynamic and innovative tech community, where I can continuously expand my knowledge and contribute to cutting-edge projects.<br/> 
+
+I thrive on tackling complex challenges head-on. I am known for my ability to break down problems and find innovative solutions.
+
+Keeping up with the latest industry trends is crucial to me, and I continuously strive to expand my knowledge and skills.
+
+I am excited to contribute to a dynamic and innovative tech community where Ican leverage my skills to work on cutting-edge projects. With a growth mindset and an insatiable curiosity, I am ready to take on new challenges, learn from mypeers, and make a meaningful impact.
 
 [Projects](#projects) | [Work Experience](#work-experience) | [Skills](#skills) | [Education](#education) | [Hobbies](#hobbies)
 ---
@@ -26,9 +30,92 @@ I am excited to be part of a dynamic and innovative tech community, where I can 
 
 | Name                         | Description | Tech/tools |
 | ---------------------------- | ------------ | ------------------------------------- |
-| Yahtzee game | An adaptation of the classic dice game set in a cyberpunk universe | React, Node.Js, MongoDB, Express, CSS |
-| Acebook | A light version of the facebook application  | React, Node.Js, MongoDB, Express, CSS |
-| MakersBnB | A clone of the AirBnB application | Ruby, Sinatra, PostgreSQL |
+| Yahtzee game | An adaptation of the classic dice game set in a cyberpunk universe | React, MondoDB, Express, Node.JS, CSS, Jest, Cypress, Cakewalk, Helm, Synth1 |
+| Acebook | A light version of the facebook application  | React, Node.Js, MongoDB, Express, CSS, Jest, Cypress |
+| News Summary | A web app showcasing The Guardian's top 10 headlines through a keyword search feature | JavaScript, HTML, CSS, Jest | 
+| MakersBnB | A clone of the AirBnB application | Ruby, Sinatra, PostgreSQL, Rspec |
+
+---
+
+# TECH EXPERIENCE
+
+#### January-May 2023 (London, UK)
+## Software Engineer Bootcamp at MAKERS ACADEMY
+
+Makers Academy is a prestigious coding bootcamp known for its immersive and collaborative learning environment. <br/> 
+During my time at Makers Academy, I gained extensive hands-on experience and developed a range of technical skills. <br/>
+Here are some highlights of my education:
+
+##### Collaborated in a highly collaborative environment: 
+- Makers Academy places a strong emphasis on pair programming and effective communication.
+- Actively engaged in pair programming, working closely with fellow students to solve problems efficiently, communicate ideas, share knowledge and improve coding skills to deliver high-quality code.
+
+##### Practiced Agile/XP methodologies: 
+- Working within an Agile/XP framework allowed me to adapt quickly, collaborate effectively, and deliver value in iterative development cycles.
+- Actively participated in daily stand-up meetings, where we discussed progress, challenges, and planned the day's work.
+- Contributed to creating and refining user stories, prioritizing tasks, and organizing project backlogs.
+
+##### Applied Test-Driven Development (TDD) and practiced OOP:
+- Gained a strong understanding of Test-Driven Development (TDD) principles and regularly employed it in my coding practices. 
+- By writing tests before implementing functionality, I ensured the quality and reliability of my codebase.
+- Applied Object-Oriented Programming (OOP) concepts to design and structure my code in a modular and maintainable way.
+
+##### Implemented Model-View-Controller (MVC) architecture:
+- Gained a solid understanding of the MVC pattern and its benefits in building scalable and maintainable applications.
+- Learned to separate concerns by designing clear models for data management, implementing views for user interfaces, and creating controllers to handle business logic and user interactions.
+- Applying MVC allowed me to organize code effectively, enhance code reusability, and improve the overall structure and modularity of my projects.
+
+##### Technical Skills and Tools:
+- HTML, CSS, Javascript
+- MongoDB, Express, React, Node.js
+- Ruby, Sinatra
+- Rspec, Jest, Cypress
+
+---
+
+# Skills
+
+#### Full Stack Development
+- Proficient in building full-stack web applications using modern frameworks and technologies such as React, Node.js, MongoDB and Express.
+- Experience with front-end development using HTML, CSS, and JavaScript.
+
+#### Test-Driven Development (TDD)
+- Experience with writing test cases and using testing frameworks like RSpec, Jest, and Cypress to ensure code quality and functionality.
+- Understanding of the importance of TDD in producing reliable and maintainable code.
+
+#### Agile Methodologies
+- Familiarity with Agile/XP practices such as Scrum and Kanban.
+- Experience working in iterative development cycles, delivering incremental features and adapting to changing requirements.
+
+#### Version Control
+- Proficient in using Git and GitHub for version control and collaborative development.
+- Comfortable with branching, merging, and resolving conflicts.
+
+#### Linux
+- Proficient in using the Linux command line for development tasks and server management.
+- Familiarity with common Linux utilities and shell scripting.
+
+#### Continuous Learning
+- Enthusiasm for learning new technologies and staying up-to-date with industry trends.
+- Recently completed Udemy certifications in React, JavaScript unit-testing with Jest and Vitest, Testing Ruby with RSpec, and The Linux Command Line Bootcamp, among others.
+- Utilizing the knowledge gained from these certifications to enhance my development skills and deliver high-quality code.
+
+#### Communication
+- Excellent verbal and written communication skills developed through my work experience and team projects during the Software Engineer Bootcamp.
+- Proficient in conveying complex technical concepts to both technical and non-technical stakeholders.
+
+#### Teamwork
+- Strong collaborative skills fostered through pair programming and group projects at the Software Engineer Bootcamp.
+- Experience working effectively in diverse teams, valuing different perspectives and contributing to a positive team dynamic.
+
+#### Hard Work
+- Demonstrated dedication and perseverance in completing challenging projects and meeting deadlines.
+- Willingness to put in the extra effort to learn and improve coding skills.
+
+#### Self-Control
+- Ability to stay calm and focused under pressure, maintaining productivity and problem-solving effectively.
+- Adaptability and resilience in navigating complex technical challenges.
+
 
 ---
 
@@ -85,84 +172,10 @@ understanding user requirements, and effectively communicating technical concept
 
 ---
 
-# Skills
-
-#### Full Stack Development
-- Proficient in building full-stack web applications using modern frameworks and technologies such as React, Node.js, MongoDB and Express.
-- Experience with front-end development using HTML, CSS, and JavaScript.
-
-#### Test-Driven Development (TDD)
-- Experience with writing test cases and using testing frameworks like RSpec, Jest, and Cypress to ensure code quality and functionality.
-- Understanding of the importance of TDD in producing reliable and maintainable code.
-
-#### Agile Methodologies
-- Familiarity with Agile/XP practices such as Scrum and Kanban.
-- Experience working in iterative development cycles, delivering incremental features and adapting to changing requirements.
-
-#### Version Control
-- Proficient in using Git and GitHub for version control and collaborative development.
-- Comfortable with branching, merging, and resolving conflicts.
-
-#### Linux
-- Proficient in using the Linux command line for development tasks and server management.
-- Familiarity with common Linux utilities and shell scripting.
-
-#### Continuous Learning
-- Enthusiasm for learning new technologies and staying up-to-date with industry trends.
-- Recently completed Udemy certifications in React, JavaScript unit-testing with Jest and Vitest, Testing Ruby with RSpec, and The Linux Command Line Bootcamp, among others.
-- Utilizing the knowledge gained from these certifications to enhance my development skills and deliver high-quality code.
-
-#### Communication
-- Excellent verbal and written communication skills developed through my work experience and team projects during the Software Engineer Bootcamp.
-- Proficient in conveying complex technical concepts to both technical and non-technical stakeholders.
-
-#### Teamwork
-- Strong collaborative skills fostered through pair programming and group projects at the Software Engineer Bootcamp.
-- Experience working effectively in diverse teams, valuing different perspectives and contributing to a positive team dynamic.
-
-#### Hard Work
-- Demonstrated dedication and perseverance in completing challenging projects and meeting deadlines.
-- Willingness to put in the extra effort to learn and improve coding skills.
-
-#### Self-Control
-- Ability to stay calm and focused under pressure, maintaining productivity and problem-solving effectively.
-- Adaptability and resilience in navigating complex technical challenges.
-
-
----
-
 # Education
 
-## Software Engineer Bootcamp at MAKERS ACADEMY (London, UK)
+## Makers Academy
 
-Makers Academy is a prestigious coding bootcamp known for its immersive and collaborative learning environment. <br/> 
-During my time at Makers Academy, I gained extensive hands-on experience and developed a range of technical skills. <br/>
-Here are some highlights of my education:
-
-##### Collaborated in a highly collaborative environment: 
-- Makers Academy places a strong emphasis on pair programming and effective communication.
-- Actively engaged in pair programming, working closely with fellow students to solve problems efficiently, communicate ideas, share knowledge and improve coding skills to deliver high-quality code.
-
-##### Practiced Agile/XP methodologies: 
-- Working within an Agile/XP framework allowed me to adapt quickly, collaborate effectively, and deliver value in iterative development cycles.
-- Actively participated in daily stand-up meetings, where we discussed progress, challenges, and planned the day's work.
-- Contributed to creating and refining user stories, prioritizing tasks, and organizing project backlogs.
-
-##### Applied Test-Driven Development (TDD) and practiced OOP:
-- Gained a strong understanding of Test-Driven Development (TDD) principles and regularly employed it in my coding practices. 
-- By writing tests before implementing functionality, I ensured the quality and reliability of my codebase.
-- Applied Object-Oriented Programming (OOP) concepts to design and structure my code in a modular and maintainable way.
-
-##### Implemented Model-View-Controller (MVC) architecture:
-- Gained a solid understanding of the MVC pattern and its benefits in building scalable and maintainable applications.
-- Learned to separate concerns by designing clear models for data management, implementing views for user interfaces, and creating controllers to handle business logic and user interactions.
-- Applying MVC allowed me to organize code effectively, enhance code reusability, and improve the overall structure and modularity of my projects.
-
-##### Technical Skills and Tools:
-- HTML, CSS, Javascript
-- MongoDB, Express, React, Node.js
-- Ruby, Sinatra
-- Rspec, Jest, Cypress
 
 ## Udemy Certifications
 - React, the complete guide - May 2023
