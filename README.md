@@ -5,8 +5,8 @@
 
 ![codewars](https://img.shields.io/badge/Codewars-4kyu-blue?style=for-the-badge&logoColor=red&logo=codewars)
 
-<!-- 
-![javascript](https://img.shields.io/badge/JAVASCRIPT-yellow?style=for-the-badge&logoColor=white&logo=javascript)
+
+<!-- ![javascript](https://img.shields.io/badge/JAVASCRIPT-yellow?style=for-the-badge&logoColor=white&logo=javascript)
 ![html](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logoColor=white&logo=html5)
 ![css](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logoColor=white&logo=css3)
 
