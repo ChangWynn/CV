@@ -1,4 +1,5 @@
-# Cong-Truong (Chang) Huynh
+# Chang Huynh
+## { Junior Software Engineer }
 
 ![codewars](https://img.shields.io/badge/Codewars-4kyu-blue?style=for-the-badge&logoColor=red&logo=codewars)
 
@@ -23,10 +24,11 @@ Keeping up with the latest industry trends is crucial to me, and I continuously 
 
 I am excited to contribute to a dynamic and innovative tech community where Ican leverage my skills to work on cutting-edge projects. With a growth mindset and an insatiable curiosity, I am ready to take on new challenges, learn from mypeers, and make a meaningful impact.
 
-[Projects](#projects) | [Work Experience](#work-experience) | [Skills](#skills) | [Education](#education) | [Hobbies](#hobbies)
+[Projects](#projects) | [Tech Experience](#tech-experience) | [Skills](#skills) | [Education](#education) | [Hobbies](#hobbies)
 ---
 
-# Projects
+<a name="projects"></a>
+# { Projects }
 
 | Name                         | Description | Tech/tools |
 | ---------------------------- | ------------ | ------------------------------------- |
@@ -37,7 +39,8 @@ I am excited to contribute to a dynamic and innovative tech community where Ican
 
 ---
 
-# TECH EXPERIENCE
+<a name="tech-experience"></a>
+# { TECH EXPERIENCE }
 
 #### January-May 2023 (London, UK)
 ## Software Engineer Bootcamp at MAKERS ACADEMY
