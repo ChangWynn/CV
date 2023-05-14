@@ -36,10 +36,10 @@ I am excited to contribute to a dynamic and innovative tech community where Ican
 ## YAHTZEE
 An adaptation of the classic dice game set in a cyberpunk universe.
 
-<img src='./images/yahtzee-screenshot/yahtzee-screeshot-1.png' width='200px'/>
-<img src='./images/yahtzee-screenshot/yahtzee-screeshot-2.png' width='200px'/>
-<img src='./images/yahtzee-screenshot/yahtzee-screeshot-3.png' width='200px'/>
-<img src='./images/yahtzee-screenshot/yahtzee-screeshot-4.png' width='200px'/>
+<img src='./images/yahtzee-screenshot/yahtzee-screeshot-1.png' width='200px' display='inline'/>
+<img src='./images/yahtzee-screenshot/yahtzee-screeshot-2.png' width='200px' display='inline'/>
+<img src='./images/yahtzee-screenshot/yahtzee-screeshot-3.png' width='200px' display='inline'/>
+<img src='./images/yahtzee-screenshot/yahtzee-screeshot-4.png' width='200px' display='inline'/>
 
 _Technologies used: React, MondoDB, Express, Node.JS, CSS, Jest, Cypress, Cakewalk, Helm, Synth1_
 
