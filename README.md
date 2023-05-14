@@ -84,7 +84,7 @@ _Technologies used: Ruby, Sinatra, PostgreSQL, Rspec_
 # { TECH EXPERIENCE }
 
 ###### January-May 2023 (London, UK)
-## MAKERS ACADEMY
+## > MAKERS ACADEMY_
 ### Software Engineer Bootcamp
 
 
@@ -119,7 +119,7 @@ A 16 weeks curriculum emphasising teamwork and collaboration through pair progra
 
 <br/>
 
-## UDEMY CERTIFICATIONS
+## > UDEMY CERTIFICATIONS_
 - React, the complete guide - May 2023
 - JavaScript unit-testing with Jest and Vitest - April 2023
 - Testing Ruby with Rspec: The Complete Guide - Feb 2023
