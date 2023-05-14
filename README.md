@@ -37,10 +37,10 @@ I am excited to contribute to a dynamic and innovative tech community where Ican
 An adaptation of the classic dice game set in a cyberpunk universe.
 
 <div style="display: flex; justify-content: center; gap: 10px">
- <img src='./images/yahtzee-screenshot/yahtzee-screeshot-1.png' style='width: 200px' alt='screenshot-1'/>
- <img src='./images/yahtzee-screenshot/yahtzee-screeshot-2.png' style='width: 200px' alt='screenshot-2'/>
- <img src='./images/yahtzee-screenshot/yahtzee-screeshot-3.png' style='width: 200px' alt='screenshot-3'/>
- <img src='./images/yahtzee-screenshot/yahtzee-screeshot-4.png' style='width: 200px' alt='screenshot-4'/>
+ <!-- <img src='./images/yahtzee-screenshot/yahtzee-screeshot-1.png' style='width: 200px' alt='screenshot-1'/> -->
+ <img src='./images/yahtzee-screenshot/yahtzee-screeshot-2.png' style='width: 400px' alt='screenshot-2'/>
+ <!-- <img src='./images/yahtzee-screenshot/yahtzee-screeshot-3.png' style='width: 200px' alt='screenshot-3'/> -->
+ <img src='./images/yahtzee-screenshot/yahtzee-screeshot-4.png' style='width: 400px' alt='screenshot-4'/>
 </div>
 
 _Technologies used: React, MondoDB, Express, Node.JS, CSS, Jest, Cypress, Cakewalk, Helm, Synth1_
@@ -51,13 +51,15 @@ _Technologies used: React, MondoDB, Express, Node.JS, CSS, Jest, Cypress, Cakewa
 A light version of the facebook application.
 
 <div style="display: flex; justify-content: center; gap: 10px">
- <img src='./images/acebook-screenshot/acebook-screenshot-1.png' style='width: 200px' alt='screenshot-1'/>
- <img src='./images/acebook-screenshot/acebook-screenshot-2.png' style='width: 200px' alt='screenshot-1'/>
- <img src='./images/acebook-screenshot/acebook-screenshot-3.png' style='width: 200px' alt='screenshot-1'/>
- <img src='./images/acebook-screenshot/acebook-screenshot-4.png' style='width: 200px' alt='screenshot-1'/>
+ <!-- <img src='./images/acebook-screenshot/acebook-screenshot-1.png' style='width: 200px' alt='screenshot-1'/> -->
+ <img src='./images/acebook-screenshot/acebook-screenshot-2.png' style='width: 400px' alt='screenshot-1'/>
+ <img src='./images/acebook-screenshot/acebook-screenshot-3.png' style='width: 400px' alt='screenshot-1'/>
+ <!-- <img src='./images/acebook-screenshot/acebook-screenshot-4.png' style='width: 200px' alt='screenshot-1'/> -->
 </div>
 
 _Technologies used: React, Node.Js, MongoDB, Express, CSS, Jest, Cypress_
+
+<br/>
 
 ## > NEWS SUMMARY_
 A web app showcasing The Guardian's top 10 headlines through a keyword search feature.
