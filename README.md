@@ -1,7 +1,7 @@
 
 
 # Chang Huynh
-## { Junior Software Engineer }
+## { Software Engineer }
 
 ![codewars](https://img.shields.io/badge/Codewars-4kyu-blue?style=for-the-badge&logoColor=red&logo=codewars)
 
@@ -33,27 +33,31 @@ I am excited to contribute to a dynamic and innovative tech community where Ican
 <a name="projects"></a>
 # { PROJECTS }
 
-## YAHTZEE
+## > YAHTZEE_
 An adaptation of the classic dice game set in a cyberpunk universe.
 
-<img src='./images/yahtzee-screenshot/yahtzee-screeshot-1.png' width='200px' display='inline'/>
-<img src='./images/yahtzee-screenshot/yahtzee-screeshot-2.png' width='200px' display='inline'/>
-<img src='./images/yahtzee-screenshot/yahtzee-screeshot-3.png' width='200px' display='inline'/>
-<img src='./images/yahtzee-screenshot/yahtzee-screeshot-4.png' width='200px' display='inline'/>
+<div style="display: flex; justify-content: center; gap: 10px">
+ <img src='./images/yahtzee-screenshot/yahtzee-screeshot-1.png' style='width: 249px' alt='screenshot-1'/>
+ <img src='./images/yahtzee-screenshot/yahtzee-screeshot-2.png' style='width: 249px' alt='screenshot-2'/>
+ <img src='./images/yahtzee-screenshot/yahtzee-screeshot-3.png' style='width: 249px' alt='screenshot-3'/>
+ <img src='./images/yahtzee-screenshot/yahtzee-screeshot-4.png' style='width: 249px' alt='screenshot-4'/>
+</div>
 
 _Technologies used: React, MondoDB, Express, Node.JS, CSS, Jest, Cypress, Cakewalk, Helm, Synth1_
 
-## ACEBOOK
+<br/>
+
+## > ACEBOOK_
 A light version of the facebook application.
 
 _Technologies used: React, Node.Js, MongoDB, Express, CSS, Jest, Cypress_
 
-## NEWS SUMMARY
+## > NEWS SUMMARY_
 A web app showcasing The Guardian's top 10 headlines through a keyword search feature.
 
 _Technologies used: JavaScript, HTML, CSS, Jest_
 
-## MAKERSBnB
+## > MAKERSBnB_
 A clone of the AirBnB application.
 
 _Technologies used: Ruby, Sinatra, PostgreSQL, Rspec_
