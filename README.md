@@ -50,6 +50,13 @@ _Technologies used: React, MondoDB, Express, Node.JS, CSS, Jest, Cypress, Cakewa
 ## > ACEBOOK_
 A light version of the facebook application.
 
+<div style="display: flex; justify-content: center; gap: 10px">
+ <img src='./images/acebook-screenshot/acebook-screenshot-1.png' style='width: 249px' alt='screenshot-1'/>
+ <img src='./images/acebook-screenshot/acebook-screenshot-2.png' style='width: 249px' alt='screenshot-1'/>
+ <img src='./images/acebook-screenshot/acebook-screenshot-3.png' style='width: 249px' alt='screenshot-1'/>
+ <img src='./images/acebook-screenshot/acebook-screenshot-4.png' style='width: 249px' alt='screenshot-1'/>
+</div>
+
 _Technologies used: React, Node.Js, MongoDB, Express, CSS, Jest, Cypress_
 
 ## > NEWS SUMMARY_
