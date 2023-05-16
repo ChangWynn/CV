@@ -35,9 +35,9 @@ I am excited to contribute to a dynamic and innovative tech community where Ican
 
 | NAME | DESCRIPTION | TECH/TOOLS |
 |:----:|:-----------:|:----------:|
-|<h3>YAHTZEE</h3> <br/> <img src='./images/yahtzee-screenshot.png' style='width: 500px' alt='screenshot-2'/> | An adaptation of the classic dice game set in a cyberpunk universe. | Technologies used: React, MondoDB, Express, Node.JS, CSS, Jest, Cypress, Cakewalk, Helm, Synth1 |
-|<h3>ACEBOOK</h3> <br/> <img src='./images/acebook-screenshot-2.png' style='width: 300px' alt='screenshot-1'/> | A light version of the facebook application. | React, Node.Js, MongoDB, Express, CSS, Jest, Cypress |
-|<h3>NEWS SUMMARY</h3> <br/> <img src='./images/news-summary-screenshot.png' style='width: 300px' alt='screenshot-1'/> | A web app showcasing The Guardian's top 10 headlines through a keyword search feature. | JavaScript, HTML, CSS, Jest |
+|<h3>YAHTZEE</h3> <br/> <img src='./images/yahtzee-screenshot-2.png' style='width: 500px' alt='screenshot-2'/> | An adaptation of the classic dice game set in a cyberpunk universe. | Technologies used: React, MondoDB, Express, Node.JS, CSS, Jest, Cypress, Cakewalk, Helm, Synth1 |
+|<h3>ACEBOOK</h3> <br/> <img src='./images/acebook-screenshot-3.png' style='width: 300px' alt='screenshot-1'/> | A light version of the facebook application. | React, Node.Js, MongoDB, Express, CSS, Jest, Cypress |
+|<h3>NEWS SUMMARY</h3> <br/> <img src='./images/news-summary-screenshot-2.png' style='width: 300px' alt='screenshot-1'/> | A web app showcasing The Guardian's top 10 headlines through a keyword search feature. | JavaScript, HTML, CSS, Jest |
 |<h3>MAKERSBnB</h3> <br/> <img src='./images/makersbnb-screenshot.png' style='width: 300px' alt='screenshot-1'/> | A clone of the AirBnB application. | Ruby, Sinatra, PostgreSQL, Rspec, pg, rackup |
 
 <!-- ## > YAHTZEE_
