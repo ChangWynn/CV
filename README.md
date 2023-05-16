@@ -1,6 +1,4 @@
-
-
-# Chang Huynh
+# > CHANG HUYNH_
 ## { Software Engineer }
 
 ![codewars](https://img.shields.io/badge/Codewars-4kyu-blue?style=for-the-badge&logoColor=red&logo=codewars)
@@ -35,52 +33,11 @@ I am excited to contribute to a dynamic and innovative tech community where Ican
 
 | NAME | DESCRIPTION | TECH/TOOLS |
 |:----:|:-----------:|:----------:|
-|<h3>YAHTZEE</h3> <br/> <img src='./images/yahtzee-screenshot-2.png' style='width: 500px' alt='screenshot-2'/> | An adaptation of the classic dice game set in a cyberpunk universe. | Technologies used: React, MondoDB, Express, Node.JS, CSS, Jest, Cypress, Cakewalk, Helm, Synth1 |
-|<h3>ACEBOOK</h3> <br/> <img src='./images/acebook-screenshot-3.png' style='width: 300px' alt='screenshot-1'/> | A light version of the facebook application. | React, Node.Js, MongoDB, Express, CSS, Jest, Cypress |
-|<h3>NEWS SUMMARY</h3> <br/> <img src='./images/news-summary-screenshot-2.png' style='width: 300px' alt='screenshot-1'/> | A web app showcasing The Guardian's top 10 headlines through a keyword search feature. | JavaScript, HTML, CSS, Jest |
-|<h3>MAKERSBnB</h3> <br/> <img src='./images/makersbnb-screenshot.png' style='width: 300px' alt='screenshot-1'/> | A clone of the AirBnB application. | Ruby, Sinatra, PostgreSQL, Rspec, pg, rackup |
+|<h3>YAHTZEE</h3> <br/> <img src='./images/yahtzee-screenshot-1.png' style='width: 500px' alt='screenshot-2'/> | An adaptation of the classic dice game set in a cyberpunk universe where a user can play and save its score, see its ranking in a leaderboard, play with friends via multiplayer mode and also against AI player.  | React, MondoDB, Express, Node.JS, CSS, Jest, Cypress, Cakewalk, Helm, Synth1 |
+|<h3>ACEBOOK</h3> <br/> <img src='./images/acebook-screenshot-2.png' style='width: 500px' alt='screenshot-1'/> | A light version of the facebook application where a user can signup/login, post new messages and photos, like and comment and manage its account. | React, Node.Js, MongoDB, Express, CSS, Jest, Cypress |
+|<h3>NEWS SUMMARY</h3> <br/> <img src='./images/news-summary-screenshot-1.png' style='width: 500px' alt='screenshot-1'/> | A web app showcasing The Guardian's top 10 headlines through a keyword search feature. | JavaScript, HTML, CSS, Jest |
+|<h3>MAKERSBnB</h3> <br/> <img src='./images/makersbnb-screenshot.png' style='width: 500px' alt='screenshot-1'/> | A clone of the AirBnB application where a user can signup/login, list or book a room, search for available rooms by date and manage its bookings. | Ruby, Sinatra, PostgreSQL, CSS, Rspec, pg, rackup |
 
-<!-- ## > YAHTZEE_
-An adaptation of the classic dice game set in a cyberpunk universe.
-
-<div style="display: flex; justify-content: flex-start; gap: 10px">
- <img src='./images/yahtzee-screenshot.png' style='width: 300px' alt='screenshot-2'/>
-</div>
-
-_Technologies used: React, MondoDB, Express, Node.JS, CSS, Jest, Cypress, Cakewalk, Helm, Synth1_
-
-<br/>
-
-## > ACEBOOK_
-A light version of the facebook application.
-
-<div style="display: flex; justify-content: flex-start; gap: 10px">
- <img src='./images/acebook-screenshot-2.png' style='width: 300px' alt='screenshot-1'/>
-</div>
-
-_Technologies used: React, Node.Js, MongoDB, Express, CSS, Jest, Cypress_
-
-<br/>
-
-## > NEWS SUMMARY_
-A web app showcasing The Guardian's top 10 headlines through a keyword search feature.
-
-<div style="display: flex; justify-content: flex-start; gap: 10px">
- <img src='./images/news-summary-screenshot.png' style='width: 300px' alt='screenshot-1'/>
-</div>
-
-_Technologies used: JavaScript, HTML, CSS, Jest_
-
-<br/>
-
-## > MAKERSBnB_
-A clone of the AirBnB application.
-
-<div style="display: flex; justify-content: flex-start; gap: 10px">
- <img src='./images/makersbnb-screenshot.png' style='width: 300px' alt='screenshot-1'/>
-</div>
-
-_Technologies used: Ruby, Sinatra, PostgreSQL, Rspec, pg, rackup_ -->
 
 ---
 
@@ -88,12 +45,12 @@ _Technologies used: Ruby, Sinatra, PostgreSQL, Rspec, pg, rackup_ -->
 # { TECH EXPERIENCE }
 
 ###### January-May 2023 (London, UK)
-## > MAKERS ACADEMY_
+## MAKERS ACADEMY
 ### Software Engineer Bootcamp
 
 
 Makers Academy is a prestigious coding bootcamp known for its immersive and collaborative learning environment. <br/> 
-A 16 weeks curriculum emphasising teamwork and collaboration through pair programming and engineering projects to consistently deliver high-quality code and solutions.
+It offers a 16 weeks curriculum emphasising teamwork and collaboration through pair programming and engineering projects to consistently deliver high-quality code and solutions.
 
 #### Full-Stack Development
 - Planning and organising a full-stack project.
@@ -123,7 +80,7 @@ A 16 weeks curriculum emphasising teamwork and collaboration through pair progra
 
 <br/>
 
-## > UDEMY CERTIFICATIONS_
+## UDEMY CERTIFICATIONS
 - React, the complete guide - May 2023
 - JavaScript unit-testing with Jest and Vitest - April 2023
 - Testing Ruby with Rspec: The Complete Guide - Feb 2023
@@ -132,31 +89,6 @@ A 16 weeks curriculum emphasising teamwork and collaboration through pair progra
 - The complete JavaScript course - oct 2020
 - Advanced CSS and SASS - oct 2020
 - Modern HTML/CSS (including SASS) - sept 2020
-
-<!-- ##### Collaborated in a highly collaborative environment: 
-- Makers Academy places a strong emphasis on pair programming and effective communication.
-- Actively engaged in pair programming, working closely with fellow students to solve problems efficiently, communicate ideas, share knowledge and improve coding skills to deliver high-quality code.
-
-##### Practiced Agile/XP methodologies: 
-- Working within an Agile/XP framework allowed me to adapt quickly, collaborate effectively, and deliver value in iterative development cycles.
-- Actively participated in daily stand-up meetings, where we discussed progress, challenges, and planned the day's work.
-- Contributed to creating and refining user stories, prioritizing tasks, and organizing project backlogs.
-
-##### Applied Test-Driven Development (TDD) and practiced OOP:
-- Gained a strong understanding of Test-Driven Development (TDD) principles and regularly employed it in my coding practices. 
-- By writing tests before implementing functionality, I ensured the quality and reliability of my codebase.
-- Applied Object-Oriented Programming (OOP) concepts to design and structure my code in a modular and maintainable way.
-
-##### Implemented Model-View-Controller (MVC) architecture:
-- Gained a solid understanding of the MVC pattern and its benefits in building scalable and maintainable applications.
-- Learned to separate concerns by designing clear models for data management, implementing views for user interfaces, and creating controllers to handle business logic and user interactions.
-- Applying MVC allowed me to organize code effectively, enhance code reusability, and improve the overall structure and modularity of my projects.
-
-##### Technical Skills and Tools:
-- HTML, CSS, Javascript
-- MongoDB, Express, React, Node.js
-- Ruby, Sinatra
-- Rspec, Jest, Cypress -->
 
 ---
 
@@ -187,41 +119,6 @@ A 16 weeks curriculum emphasising teamwork and collaboration through pair progra
 - Genuine enthusiasm for learning new technologies and staying up-to-date with industry trends.
 - Recently completed Udemy certifications in React, JavaScript testing, Ruby testing, and The Linux Command Line Bootcamp, among others.
 
-
-<!-- #### Full Stack Development
-- Proficient in building full-stack web applications using modern frameworks and technologies such as React, Node.js, MongoDB and Express.
-- Experience with front-end development using HTML, CSS, and JavaScript.
-
-#### Test-Driven Development (TDD)
-- Experience with writing test cases and using testing frameworks like RSpec, Jest, and Cypress to ensure code quality and functionality.
-- Understanding of the importance of TDD in producing reliable and maintainable code.
-
-#### Agile Methodologies
-- Familiarity with Agile/XP practices such as Scrum and Kanban.
-- Experience working in iterative development cycles, delivering incremental features and adapting to changing requirements.
-
-#### Continuous Learning
-- Enthusiasm for learning new technologies and staying up-to-date with industry trends.
-- Recently completed Udemy certifications in React, JavaScript unit-testing with Jest and Vitest, Testing Ruby with RSpec, and The Linux Command Line Bootcamp, among others.
-- Utilizing the knowledge gained from these certifications to enhance my development skills and deliver high-quality code.
-
-#### Communication
-- Excellent verbal and written communication skills developed through my work experience and team projects during the Software Engineer Bootcamp.
-- Proficient in conveying complex technical concepts to both technical and non-technical stakeholders.
-
-#### Teamwork
-- Strong collaborative skills fostered through pair programming and group projects at the Software Engineer Bootcamp.
-- Experience working effectively in diverse teams, valuing different perspectives and contributing to a positive team dynamic.
-
-#### Hard Work
-- Demonstrated dedication and perseverance in completing challenging projects and meeting deadlines.
-- Willingness to put in the extra effort to learn and improve coding skills.
-
-#### Self-Control
-- Ability to stay calm and focused under pressure, maintaining productivity and problem-solving effectively.
-- Adaptability and resilience in navigating complex technical challenges. -->
-
-
 ---
 
 <a name="work-experience"></a>
@@ -237,15 +134,6 @@ A 16 weeks curriculum emphasising teamwork and collaboration through pair progra
 - Collaborated with surveillance teams to identify and investigate any irregularities or potential violations.
 - Resolved customer complaints and disputes related to gaming activities.
 
-
-
-<!-- - Responsible for dealing and inspecting casino games such as American Roulette, Baccarat, BlackJack and Three Card Poker.
-- Developed excellent attention to detail and strong observation skills to ensure fair play and maintain game integrity.
-- Enhanced communication and customer service skills by interacting with diverse clientele. -->
-
-<!-- The role of a Gaming Inspector requires quick thinking, attention to detail, and the ability to handle complex situations effectively. <br/>
-These skills translate well into the field of software engineering, where problem-solving, attention to detail, and communication with team members are vital. -->
-
 ###### 2016-2019
 ## Casino dealer
 **Empire Casino** - *2017-2019*<br/>
@@ -255,17 +143,6 @@ These skills translate well into the field of software engineering, where proble
 - Dealt various casino games, including blackjack, poker, and roulette, ensuring smooth gameplay and accurate payouts.
 - Enforced game rules and procedures, ensuring fair play and game integrity.
 - Provided exceptional customer service by assisting players, answering inquiries, and resolving issues.
-
-<!-- - Performed dealer duties, ensuring accurate gameplay and adherence to casino regulations.
-- Enhanced customer service and interpersonal skills by providing an exceptional gaming experience for patrons.
-- Demonstrated proficiency in managing multiple tasks simultaneously and maintaining composure in fast-paced environments.
-- Developed a high level of concentration, focus, and mental agility to manage multiple game tables.
-- Developed a strong sense of teamwork and collaboration with colleagues.
-
-- Transferable skills: <br/>
-The position of a Dealer requires strong concentration, focus, and the ability to handle complex tasks efficiently <br/>
-which align with the demands of software engineering, where attention to detail, problem-solving, and efficient task management are essential. <br/>
-The experience gained in managing various responsibilities and working effectively with a team can be applied to collaborative software development projects. -->
 
 ###### 2012-2015
 ## Store Manager
@@ -277,15 +154,6 @@ The experience gained in managing various responsibilities and working effective
 - Utilized problem-solving skills to address customer concerns and optimize store operations.
 - Coordinated with suppliers and maintained relationships with key stakeholders.
 
- 
-<!-- - Oversaw the daily operations of a retail store, including inventory management, staff supervision, and customer service at Tel and Com.
-- Developed leadership, organizational, and problem-solving skills in a fast-paced retail environment.
-- Gained experience in managing resources and meeting targets while maintaining a positive work culture.
-
-- Transferable skills: <br/>
-As a Store Manager, you acquired valuable leadership, organizational, and problem-solving skills. <br/> 
-These skills are transferable to software engineering, where managing projects, leading teams, and finding efficient solutions are integral to success. -->
-
 ###### 2010-2012
 ## Sales Assistant
 **Tel and Com**
@@ -294,14 +162,6 @@ These skills are transferable to software engineering, where managing projects, 
 - Developed product knowledge and sales techniques to drive revenue.
 - Provided excellent customer service, ensuring a positive shopping experience.
 - Developed strong communication and interpersonal skills, crucial for effectively communicating technical concepts.
-
-<!-- - Provided sales assistance, customer support, and product knowledge in a retail setting at Tel and Com.
-- Developed excellent communication and interpersonal skills through interactions with customers.
-- Learned to work effectively in a team and prioritize tasks efficiently.
-
-- Transferable skills: <br/>
-As a Sales Assistant, you developed strong communication and interpersonal skills, which are crucial for collaborating with team members, <br/> 
-understanding user requirements, and effectively communicating technical concepts in the software development process. -->
 
 ---
 
@@ -361,4 +221,4 @@ understanding user requirements, and effectively communicating technical concept
 ![video-games](https://img.shields.io/badge/%20-%23video--games%20-9cf?style=for-the-badge)
 ![coding](https://img.shields.io/badge/%20-%23coding%20-9cf?style=for-the-badge)
 ![movies](https://img.shields.io/badge/%20-%23movies%20-9cf?style=for-the-badge)
-![musical](https://img.shields.io/badge/%20-%23musical%20-9cf?style=for-the-badge)
+![musicals](https://img.shields.io/badge/%20-%23musicals%20-9cf?style=for-the-badge)
