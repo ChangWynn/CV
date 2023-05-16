@@ -33,10 +33,10 @@ I am excited to contribute to a dynamic and innovative tech community where Ican
 
 | NAME | DESCRIPTION | TECH/TOOLS |
 |:----:|:-----------:|:----------:|
-|<h3>YAHTZEE</h3> <br/> <img src='./images/yahtzee-screenshot-1.png' style='width: 500px' alt='screenshot-2'/> | An adaptation of the classic dice game set in a cyberpunk universe where a user can play and save its score, see its ranking in a leaderboard, play with friends via multiplayer mode and also against AI player.  | React, MondoDB, Express, Node.JS, CSS, Jest, Cypress, Cakewalk, Helm, Synth1 |
-|<h3>ACEBOOK</h3> <br/> <img src='./images/acebook-screenshot-2.png' style='width: 500px' alt='screenshot-1'/> | A light version of the facebook application where a user can signup/login, post new messages and photos, like and comment and manage its account. | React, Node.Js, MongoDB, Express, CSS, Jest, Cypress |
+|<h3>YAHTZEE</h3> <br/> <img src='./images/yahtzee-screenshot-1.png' style='width: 500px' alt='screenshot-2'/> | An adaptation of the classic dice game set in a cyberpunk universe where users can play and save their score, see their rankings in a leaderboard, play with friends via multiplayer mode and also against an AI player.  | React, MondoDB, Express, Node.JS, CSS, Jest, Cypress, Cakewalk, Helm, Synth1 |
+|<h3>ACEBOOK</h3> <br/> <img src='./images/acebook-screenshot-2.png' style='width: 500px' alt='screenshot-1'/> | A light version of the facebook application where users can signup/login, post new messages and photos, like and comment and manage their accounts. | React, Node.Js, MongoDB, Express, JWT, CSS, Jest, Cypress |
 |<h3>NEWS SUMMARY</h3> <br/> <img src='./images/news-summary-screenshot-1.png' style='width: 500px' alt='screenshot-1'/> | A web app showcasing The Guardian's top 10 headlines through a keyword search feature. | JavaScript, HTML, CSS, Jest |
-|<h3>MAKERSBnB</h3> <br/> <img src='./images/makersbnb-screenshot.png' style='width: 500px' alt='screenshot-1'/> | A clone of the AirBnB application where a user can signup/login, list or book a room, search for available rooms by date and manage its bookings. | Ruby, Sinatra, PostgreSQL, CSS, Rspec, pg, rackup |
+|<h3>MAKERSBnB</h3> <br/> <img src='./images/makersbnb-screenshot.png' style='width: 500px' alt='screenshot-1'/> | A clone of the AirBnB application where users can signup/login, list or book a room, search for available rooms by date and manage their bookings. | Ruby, Sinatra, PostgreSQL, CSS, Rspec, pg, rackup |
 
 
 ---
