@@ -100,7 +100,7 @@ It offers a 16 weeks curriculum emphasising teamwork and collaboration through p
 - Excel in working effectively in diverse teams, valuing different perspectives and contributing to a positive team dynamic.
 
 #### Communication
-- Demonstrated Excellent verbal and written communication skills through team projects during the Software Engineer Bootcamp.
+- Demonstrated excellent verbal and written communication skills through team projects during the Software Engineer Bootcamp.
 - Proficient in conveying complex technical concepts to both technical and non-technical stakeholders.
 
 #### Problem-Solving
