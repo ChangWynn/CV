@@ -52,6 +52,8 @@ I am excited to contribute to a dynamic and innovative tech community where Ican
 Makers Academy is a prestigious coding bootcamp known for its immersive and collaborative learning environment. <br/> 
 It offers a 16 weeks curriculum emphasising teamwork and collaboration through pair programming and engineering projects to consistently deliver high-quality code and solutions.
 
+Here are the highlights of what I have learnt:
+
 #### Full-Stack Development
 - Planning and organising a full-stack project.
 - Designing the software architecture.
