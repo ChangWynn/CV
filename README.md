@@ -23,7 +23,7 @@ I thrive on tackling complex challenges head-on. I am known for my ability to br
 
 Keeping up with the latest industry trends is crucial to me, and I continuously strive to expand my knowledge and skills.
 
-I am excited to contribute to a dynamic and innovative tech community where Ican leverage my skills to work on cutting-edge projects. With a growth mindset and an insatiable curiosity, I am ready to take on new challenges, learn from mypeers, and make a meaningful impact.
+I am excited to contribute to a dynamic and innovative tech community where I can leverage my skills to work on cutting-edge projects. With a growth mindset and an insatiable curiosity, I am ready to take on new challenges, learn from my peers, and make a meaningful impact.
 
 [Projects](#projects) | [Tech Experience](#tech-experience) | [Skills](#skills) | [Work Experience](#work-experience) | [Education](#education) | [Hobbies](#hobbies)
 ---
