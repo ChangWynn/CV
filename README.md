@@ -1,21 +1,34 @@
-# > CHANG HUYNH_
-## { Software Engineer }
-
-![codewars](https://img.shields.io/badge/Codewars-4kyu-blue?style=for-the-badge&logoColor=red&logo=codewars)
 
 
-<!-- ![javascript](https://img.shields.io/badge/JAVASCRIPT-yellow?style=for-the-badge&logoColor=white&logo=javascript)
-![html](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logoColor=white&logo=html5)
-![css](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logoColor=white&logo=css3)
 
-![react](https://img.shields.io/badge/REACT-blue?style=for-the-badge&logoColor=white&logo=react)
-![express](https://img.shields.io/badge/EXPRESS-orange?style=for-the-badge&logoColor=white&logo=express)
-![mongodb](https://img.shields.io/badge/MONGODB-brightgreen?style=for-the-badge&logoColor=white&logo=mongodb)
-![nodedotjs](https://img.shields.io/badge/NODE.JS-green?style=for-the-badge&logoColor=white&logo=nodedotjs)
 
-![ruby](https://img.shields.io/badge/RUBY-red?style=for-the-badge&logoColor=white&logo=ruby)
-![sinatra](https://img.shields.io/badge/SINATRA-grey?style=for-the-badge&logoColor=white&logo=rubysinatra)
-![postgresql](https://img.shields.io/badge/POSTGRESQL-blue?style=for-the-badge&logoColor=white&logo=postgresql) -->
+
+<div align="center" >
+  
+  # CHANG HUYNH
+  ## { Software Engineer }
+<!--   ![codewars](https://img.shields.io/badge/Codewars-4kyu-blue?style=for-the-badge&logoColor=red&logo=codewars) -->
+  
+  ![javascript](https://img.shields.io/badge/JAVASCRIPT-f7df1e?style=flat&logoColor=white&logo=javascript)
+  ![html](https://img.shields.io/badge/HTML-E34F26?style=flat&logoColor=white&logo=html5)
+  ![css](https://img.shields.io/badge/CSS-1572B6?style=flat&logoColor=white&logo=css3) *
+  ![react](https://img.shields.io/badge/REACT-5ed3f3?style=flat&logoColor=white&logo=react)
+  ![nodedotjs](https://img.shields.io/badge/NODE.JS-339933?style=flat&logoColor=white&logo=nodedotjs)
+  ![express](https://img.shields.io/badge/EXPRESS-000000?style=flat&logoColor=white&logo=express)
+  ![mongodb](https://img.shields.io/badge/MONGODB-4EA94B?style=flat&logoColor=white&logo=mongodb)
+  
+  ![ruby](https://img.shields.io/badge/RUBY-CC342D?style=flat&logoColor=white&logo=ruby)
+  ![sinatra](https://img.shields.io/badge/SINATRA-000000?style=flat&logoColor=white&logo=rubysinatra)
+  ![postgresql](https://img.shields.io/badge/POSTGRESQL-316192?style=flat&logoColor=white&logo=postgresql) * 
+  ![rspec](https://img.shields.io/badge/RSPEC-fe405f?style=flat&logoColor=white&logo=rubygems)
+  ![jest](https://img.shields.io/badge/JEST-C21325?style=flat&logoColor=white&logo=jest)
+  
+  ![git](https://img.shields.io/badge/GIT-F05032?style=flat&logoColor=white&logo=git)
+  ![github](https://img.shields.io/badge/GITHUB-181717?style=flat&logoColor=white&logo=github)
+  
+ </div>
+ 
+ ---
 
 I am a passionate and dedicated software engineer with a strong emphasis on teamwork and a deep love for coding. <br/> 
 
