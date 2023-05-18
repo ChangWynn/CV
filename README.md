@@ -131,7 +131,6 @@ I enjoyed working on engineering projects within teams, I actively participated 
 - Excellent verbal and written communication skills demonstrated through team projects during the Software Engineer Bootcamp.
 - Active engagement with communication tools, such as Slack, by consistently interacting with my peers.
 - Proactive sharing of useful information and resources with the team to enhance collaboration and knowledge sharing.
-<!-- - Proficient in conveying complex technical concepts to both technical and non-technical stakeholders. -->
 
 I actively engaged with our communication tools, such as Slack, by consistently asking and answering questions. I made a point to share any information or resources that I found useful or helpful to the team. Recognizing the importance of clear and efficient communication, I proactively initiated calls or meetings when necessary to ensure effective collaboration and alignment among team members.
 
@@ -146,8 +145,6 @@ I have achieved a 4kyu ranking on CodeWars with 800+ honor points and completed 
 #### Growth Mindset
 - Embrace challenges as opportunities for personal growth and professional development.
 - Embrace feedback and constructive criticism to foster improvement.
-<!-- - Consistently seeking opportunities for self-improvement by maintaining curiosity and a thirst for knowledge. -->
-<!-- - Proctively participated in code review sessions assessed by experienced professionals to enhance code quality. -->
 
 I proctively participated in code reviews assessed by experienced professionals to enhance code quality and improve developement process.
 
