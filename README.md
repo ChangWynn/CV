@@ -2,6 +2,7 @@
   
   # CHANG HUYNH
   ## { Software Engineer }
+
 <!--   ![codewars](https://img.shields.io/badge/Codewars-4kyu-blue?style=for-the-badge&logoColor=red&logo=codewars) -->
   
   ![javascript](https://img.shields.io/badge/JAVASCRIPT-f7df1e?style=flat&logoColor=white&logo=javascript)
@@ -32,8 +33,24 @@
 
 </div>
  
- ---
+ <!-- --- -->
 
+
+
+
+---
+
+ <div align="center">
+
+[Intro](#intro) | [Projects](#projects) | [Tech Experience](#tech-experience) | [Skills](#skills) | [Work Experience](#work-experience) | [Education](#education) | [Hobbies](#hobbies)
+
+
+</div>
+
+---
+
+<a name="intro"></a>
+## { INTRO }
 
 I am a passionate and dedicated software engineer with a deep love for coding and a strong drive for learning.
 
@@ -47,19 +64,10 @@ I am excited to contribute to the development community where I can leverage my 
 
 ---
 
- <div align="center">
-
-[Projects](#projects) | [Tech Experience](#tech-experience) | [Skills](#skills) | [Work Experience](#work-experience) | [Education](#education) | [Hobbies](#hobbies)
-
-
-</div>
-
----
-
-
-
 <a name="projects"></a>
-# { PROJECTS }
+## { PROJECTS }
+
+
 
 
 
