@@ -50,7 +50,7 @@ I am excited to contribute to the development community where I can leverage my 
  <div align="center">
 
 [Projects](#projects) | [Tech Experience](#tech-experience) | [Skills](#skills) | [Work Experience](#work-experience) | [Education](#education) | [Hobbies](#hobbies)
----
+
 
 </div>
 
