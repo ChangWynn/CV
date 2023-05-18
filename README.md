@@ -30,13 +30,19 @@
  
  ---
 
-I am a passionate and dedicated software engineer with a strong emphasis on teamwork and a deep love for coding. <br/> 
+<!-- I am a passionate and dedicated software engineer with a strong emphasis on teamwork and a deep love for coding.
 
 I thrive on tackling complex challenges head-on. I am known for my ability to break down problems and find innovative solutions.
 
 Keeping up with the latest industry trends is crucial to me, and I continuously strive to expand my knowledge and skills.
 
-I am excited to contribute to a dynamic and innovative tech community where I can leverage my skills to work on cutting-edge projects. With a growth mindset and an insatiable curiosity, I am ready to take on new challenges, learn from my peers, and make a meaningful impact.
+I am excited to contribute to a dynamic and innovative tech community where I can leverage my skills to work on cutting-edge projects. With a growth mindset and an insatiable curiosity, I am ready to take on new challenges, learn from my peers, and make a meaningful impact. -->
+
+I am a passionate and dedicated software engineer with a deep love for coding and a strong drive for learning.
+
+Throughout my career in the casino industry, I have developed exceptional problem-solving abilities and quick thinking, an acute attention to detail, and the ability to handle high-pressure situations with calmness and precision. These skills have instilled in me a strong sense of adaptability, an analytical mindset, and the ability to excel in collaborative team environments.
+
+I am excited to contribute to the software development community where I can leverage my skills to work on cutting-edge projects. With a growth mindset and an insatiable curiosity, I am ready to take on new challenges, learn from my peers, and make a meaningful impact.
 
 [Projects](#projects) | [Tech Experience](#tech-experience) | [Skills](#skills) | [Work Experience](#work-experience) | [Education](#education) | [Hobbies](#hobbies)
 ---
@@ -65,7 +71,7 @@ I am excited to contribute to a dynamic and innovative tech community where I ca
 Makers Academy is a prestigious coding bootcamp known for its immersive and collaborative learning environment. <br/> 
 It offers a 16 weeks curriculum emphasising teamwork and collaboration through pair programming and engineering projects to consistently deliver high-quality code and solutions.
 
-Here are the highlights of what I have learnt:
+Here are the highlights of what I have learned:
 
 #### Full-Stack Development
 - Planning and organising a full-stack project.
@@ -74,6 +80,7 @@ Here are the highlights of what I have learnt:
 - Defining endpoints and making HTTP requests.
 - Working with databases.
 - Performing unit-tests, integration tests and end-to-end tests (e2e).
+- Utilising Git and GitHub for version control and collaboration
 - Conducting code reviews for quality and adherence to coding standards.
 - Problem-solving and debugging.
 - Deploying and maintaining the software solution.
@@ -104,6 +111,8 @@ Here are the highlights of what I have learnt:
 - The complete JavaScript course - oct 2020
 - Advanced CSS and SASS - oct 2020
 - Modern HTML/CSS (including SASS) - sept 2020
+
+In my wishlist: React Native, Electron.js, GraphQL, C#, Algorithms and Data Structures and more
 
 ---
 
@@ -143,7 +152,7 @@ Here are the highlights of what I have learnt:
 ## Casino Inspector
 **Playboy Club/Metropolitan Mayfair**
 
-- Developed strong attention to detail, analytical skills, and problem-solving abilities.
+<!-- - Developed strong attention to detail, analytical skills, and problem-solving abilities. -->
 - Monitored casino games to ensure compliance with gaming regulations, rules, and procedures.
 - Enforced game rules, procedures, and betting limits to maintain game integrity.
 - Collaborated with surveillance teams to identify and investigate any irregularities or potential violations.
@@ -154,7 +163,7 @@ Here are the highlights of what I have learnt:
 **Empire Casino** - *2017-2019*<br/>
 **Aspers Casino Newcastle** - *2016-2017*
 
-- Developed strong interpersonal and communication skills, essential for collaboration and effective team coordination.
+<!-- - Developed strong interpersonal and communication skills, essential for collaboration and effective team coordination. -->
 - Dealt various casino games, including blackjack, poker, and roulette, ensuring smooth gameplay and accurate payouts.
 - Enforced game rules and procedures, ensuring fair play and game integrity.
 - Provided exceptional customer service by assisting players, answering inquiries, and resolving issues.
@@ -163,7 +172,7 @@ Here are the highlights of what I have learnt:
 ## Store Manager
 **Tel and Com**
 
-- Developed strong leadership and management skills, fostering a positive work environment.
+<!-- - Developed strong leadership and management skills, fostering a positive work environment. -->
 - Managed daily operations of a retail store, including inventory management, sales, and customer service.
 - Led a team of sales associates, providing training, guidance, and performance evaluations.
 - Utilized problem-solving skills to address customer concerns and optimize store operations.
@@ -176,7 +185,7 @@ Here are the highlights of what I have learnt:
 - Assisted customers with product inquiries, recommendations, and purchases.
 - Developed product knowledge and sales techniques to drive revenue.
 - Provided excellent customer service, ensuring a positive shopping experience.
-- Developed strong communication and interpersonal skills, crucial for effectively communicating technical concepts.
+<!-- - Developed strong communication and interpersonal skills, crucial for effectively communicating technical concepts. -->
 
 ---
 
