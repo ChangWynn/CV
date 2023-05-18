@@ -36,9 +36,13 @@
 
 I am a passionate and dedicated software engineer with a deep love for coding and a strong drive for learning.
 
-Throughout my career in the casino industry, I have developed exceptional problem-solving abilities and quick thinking, an acute attention to detail, and the ability to handle high-pressure situations with calmness and precision. These skills have instilled in me a strong sense of adaptability, an analytical mindset, and the ability to excel in collaborative team environments.
+Throughout my career in the casino industry, I have developed exceptional problem-solving abilities and quick thinking, an acute attention to detail, and the ability to handle high-pressure situations with calmness and precision.
 
-I am excited to contribute to the software development community where I can leverage my skills to work on cutting-edge projects. With a growth mindset and an insatiable curiosity, I am ready to take on new challenges, learn from my peers, and make a meaningful impact.
+Recognizing the limitations of growth within this industry, I am now eager to transition to a career in software engineering, which not only aligns with my passion but also offers endless opportunities for advancement and continuous personal and professional development.
+
+<!-- These skills have instilled in me a strong sense of adaptability, an analytical mindset, and the ability to excel in collaborative team environments. -->
+
+I am excited to contribute to the development community where I can leverage my skills to work on cutting-edge projects. With a growth mindset and an insatiable curiosity, I am ready to take on new challenges, learn from my peers, and make a meaningful impact.
 
 [Projects](#projects) | [Tech Experience](#tech-experience) | [Skills](#skills) | [Work Experience](#work-experience) | [Education](#education) | [Hobbies](#hobbies)
 ---
@@ -48,10 +52,10 @@ I am excited to contribute to the software development community where I can lev
 
 | NAME | DESCRIPTION | TECH/TOOLS |
 |:----:|:-----------:|:----------:|
-|<h3>YAHTZEE</h3> <br/> <img src='./images/yahtzee-screenshot-1.png' style='width: 500px' alt='screenshot-2'/> | An adaptation of the classic dice game set in a cyberpunk universe where users can play and save their score, see their rankings in a leaderboard, play with friends via multiplayer mode and also against an AI player.  | React, MondoDB, Express, Node.JS, CSS, Jest, Cypress, Cakewalk, Helm, Synth1 |
-|<h3>ACEBOOK</h3> <br/> <img src='./images/acebook-screenshot-2.png' style='width: 500px' alt='screenshot-1'/> | A light version of the facebook application where users can signup/login, post new messages and photos, like and comment and manage their accounts. | React, Node.Js, MongoDB, Express, JWT, CSS, Jest, Cypress |
-|<h3>NEWS SUMMARY</h3> <br/> <img src='./images/news-summary-screenshot-1.png' style='width: 500px' alt='screenshot-1'/> | A web app showcasing The Guardian's top 10 headlines through a keyword search feature. | JavaScript, HTML, CSS, Jest |
-|<h3>MAKERSBnB</h3> <br/> <img src='./images/makersbnb-screenshot.png' style='width: 500px' alt='screenshot-1'/> | A clone of the AirBnB application where users can signup/login, list or book a room, search for available rooms by date and manage their bookings. | Ruby, Sinatra, PostgreSQL, CSS, Rspec, pg, rackup |
+|<h3>YAHTZEE</h3> <br/> <img src='./images/yahtzee-screenshot-1.png' style='width: 500px' alt='screenshot-2'/> | An adaptation of the classic dice game set in a cyberpunk universe where users can play and save their score, see their rankings in a leaderboard, play with friends via multiplayer mode and also against an AI player. <br/><br/>  [See it on github](https://github.com/ChangWynn/MAKERS-ACADEMY_yahtzee-project) | React, MondoDB, Express, Node.JS, CSS, Jest, Cypress, Cakewalk, Helm, Synth1 |
+|<h3>ACEBOOK</h3> <br/> <img src='./images/acebook-screenshot-2.png' style='width: 500px' alt='screenshot-1'/> | A light version of the facebook application where users can signup/login, post new messages and photos, like and comment and manage their accounts.  <br/><br/>  [See it on github](https://github.com/ChangWynn/MAKERS-ACADEMY_acebook-project) | React, Node.Js, MongoDB, Express, JWT, CSS, Jest, Cypress |
+|<h3>NEWS SUMMARY</h3> <br/> <img src='./images/news-summary-screenshot-1.png' style='width: 500px' alt='screenshot-1'/> | A web app showcasing The Guardian's top 10 headlines through a keyword search feature. <br/><br/>  [See it on github](https://github.com/ChangWynn/news-summary-challenge)| JavaScript, HTML, CSS, Jest |
+|<h3>MAKERSBnB</h3> <br/> <img src='./images/makersbnb-screenshot.png' style='width: 500px' alt='screenshot-1'/> | A clone of the AirBnB application where users can signup/login, list or book a room, search for available rooms by date and manage their bookings. <br/><br/>  [See it on github](https://github.com/ChangWynn/MAKERS-ACADEMY_makerBnB-project)| Ruby, Sinatra, PostgreSQL, CSS, Rspec, pg, rackup |
 
 
 ---
