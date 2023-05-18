@@ -1,8 +1,3 @@
-
-
-
-
-
 <div align="center" >
   
   # CHANG HUYNH
@@ -27,16 +22,17 @@
   ![github](https://img.shields.io/badge/GITHUB-181717?style=flat&logoColor=white&logo=github)
   
  </div>
+
+<h3 align="center">Contact me</h3>
+
+<div align="center">
+
+  <a href='mailto:huynhchang.one@gmail.com' target="_blank" ><img src="https://img.shields.io/badge/Gmail-ea4335?style=flat&logoColor=white&logo=gmail" alt="Gmail" target="_blank"></a>
+  <a href='https://www.linkedin.com/in/chang-huynh-8950811b9/' target="_blank" ><img src="https://img.shields.io/badge/linkedin-0063c2?style=flat&logoColor=white&logo=linkedin" alt="Linkedin" target="_blank"></a>
+
+</div>
  
  ---
-
-<!-- I am a passionate and dedicated software engineer with a strong emphasis on teamwork and a deep love for coding.
-
-I thrive on tackling complex challenges head-on. I am known for my ability to break down problems and find innovative solutions.
-
-Keeping up with the latest industry trends is crucial to me, and I continuously strive to expand my knowledge and skills.
-
-I am excited to contribute to a dynamic and innovative tech community where I can leverage my skills to work on cutting-edge projects. With a growth mindset and an insatiable curiosity, I am ready to take on new challenges, learn from my peers, and make a meaningful impact. -->
 
 I am a passionate and dedicated software engineer with a deep love for coding and a strong drive for learning.
 
@@ -119,29 +115,47 @@ In my wishlist: React Native, Electron.js, GraphQL, C#, Algorithms and Data Stru
 <a name="skills"></a>
 # { SKILLS }
 
+#### Self-Motivation
+- Self-driven attitude and highly disciplined with a strong commitment to setting and achieving objectives.
+
+As someone who enjoys running, I understand the importance of having clear goals as they provide the motivation needed to push through. The absence of defined goals makes it easy to give up when faced with difficulties. This mindset extends beyond running and into my professional endeavors, where I consistently strive for excellence and continued growth by setting clear objectives.
+
+
 #### Teamwork
-- Strong collaborative skills through engaging in pair programming and group projects at the Software Engineer Bootcamp.
-- Excel in working effectively in diverse teams, valuing different perspectives and contributing to a positive team dynamic.
+- Collaborative mindset, I actively engaged in pair programming and engineering projects at the Software Engineer Bootcamp.
+- Excellent ability to work effectively in diverse teams, I value different perspectives and contribute to a positive team dynamic.
+
+I enjoyed working on engineering projects within teams, I actively participated in all stages of the development process. From brainstorming and planning to implementation and testing, I consistently engaged in collaborative decision-making processes. I valued the diverse perspectives, ensuring that the final outcome was a result of collective agreement.
 
 #### Communication
-- Demonstrated excellent verbal and written communication skills through team projects during the Software Engineer Bootcamp.
-- Proficient in conveying complex technical concepts to both technical and non-technical stakeholders.
+- Excellent verbal and written communication skills demonstrated through team projects during the Software Engineer Bootcamp.
+- Active engagement with communication tools, such as Slack, by consistently interacting with my peers.
+- Proactive sharing of useful information and resources with the team to enhance collaboration and knowledge sharing.
+<!-- - Proficient in conveying complex technical concepts to both technical and non-technical stakeholders. -->
+
+I actively engaged with our communication tools, such as Slack, by consistently asking and answering questions. I made a point to share any information or resources that I found useful or helpful to the team. Recognizing the importance of clear and efficient communication, I proactively initiated calls or meetings when necessary to ensure effective collaboration and alignment among team members.
 
 #### Problem-Solving
-- Natural aptitude for breaking down complex problems into manageable components.
-- Performance-oriented mindset, prioritising solutions that account for factors such as time complexity and scalability.
-- Continuously refine problem-solving skills through programming exercise platforms such as CodeWars and CoderBytes.
-- Excel in maintaining composure and focus under pressure, keeping productivity and problem-solving effective.
+- Analytical approach to problem-solving, I have a natural aptitude for breaking down complex problems into manageable components.
+- Performance-oriented mindset, I prioritise solutions that account for factors such as time complexity and scalability.
+- Continuous practice on programming exercise platforms such as CodeWars and CoderBytes to sharpen problem-solving skills.
+- Exceptional resilience, I excel in maintaining composure and focus under pressure, keeping productivity and problem-solving effective.
+
+I have achieved a 4kyu ranking on CodeWars with 800+ honor points and completed over 70 challenges on CoderByte which incorporate the Big O notation to analyze and improve coding efficiency.
 
 #### Growth Mindset
 - Embrace challenges as opportunities for personal growth and professional development.
 - Embrace feedback and constructive criticism to foster improvement.
-- Proactivaly participated in code reviews sessions assessed by experienced professionals.
-- Consistently seeking opportunities for self-improvement by maintaining curiosity and a thirst for knowledge.
+<!-- - Consistently seeking opportunities for self-improvement by maintaining curiosity and a thirst for knowledge. -->
+<!-- - Proctively participated in code review sessions assessed by experienced professionals to enhance code quality. -->
+
+I proctively participated in code reviews assessed by experienced professionals to enhance code quality and improve developement process.
 
 #### Continuous Learning
-- Genuine enthusiasm for learning new technologies and staying up-to-date with industry trends.
+- Genuine enthusiasm for learning new technologies and staying up-to-date with industry trends. 
 - Recently completed Udemy certifications in React, JavaScript testing, Ruby testing, and The Linux Command Line Bootcamp, among others.
+
+I am currently learning advanced concepts of the React Framework and I intend to pursue my learning journey with React Native and GraphQL.
 
 ---
 
@@ -173,19 +187,18 @@ In my wishlist: React Native, Electron.js, GraphQL, C#, Algorithms and Data Stru
 **Tel and Com**
 
 <!-- - Developed strong leadership and management skills, fostering a positive work environment. -->
-- Managed daily operations of a retail store, including inventory management, sales, and customer service.
+- Oversaw the daily operations of a retail store, including inventory management, staff supervision, and customer service.
+- Implemented strategies to achieve sales targets and maximise profitability.
 - Led a team of sales associates, providing training, guidance, and performance evaluations.
-- Utilized problem-solving skills to address customer concerns and optimize store operations.
-- Coordinated with suppliers and maintained relationships with key stakeholders.
 
 ###### 2010-2012
 ## Sales Assistant
 **Tel and Com**
 
-- Assisted customers with product inquiries, recommendations, and purchases.
-- Developed product knowledge and sales techniques to drive revenue.
-- Provided excellent customer service, ensuring a positive shopping experience.
 <!-- - Developed strong communication and interpersonal skills, crucial for effectively communicating technical concepts. -->
+- Provided sales assistance, customer support, and product knowledge.
+- Collaborate with team members to achieve sales targets and meet store objectives.
+- Provided excellent customer service, ensuring a positive shopping experience.
 
 ---
 
@@ -196,7 +209,7 @@ In my wishlist: React Native, Electron.js, GraphQL, C#, Algorithms and Data Stru
 ### Software Engineer Graduate
 
 - Full-stack web development skills, including front-end and back-end technologies.
-- Proficiency in programming languages such as Ruby and JavaScript.
+- Proficiency in programming languages such as JavaScript and Ruby.
 - Understanding of software development best practices, including version control and testing.
 - Problem-solving and critical thinking skills developed through coding challenges.
 - Collaboration and teamwork abilities gained from working on engineering projects.
@@ -234,15 +247,15 @@ In my wishlist: React Native, Electron.js, GraphQL, C#, Algorithms and Data Stru
 <a name="hobbies"></a>
 # { HOBBIES }
 
-![travel](https://img.shields.io/badge/%20-%23travel%20-9cf?style=for-the-badge)
-![photography](https://img.shields.io/badge/%20-%23photography%20-9cf?style=for-the-badge)
-![film-making](https://img.shields.io/badge/%20-%23film--making%20-9cf?style=for-the-badge)
+![travel](https://img.shields.io/badge/%20-%23travel%20-4EA94B?style=flat)
+![photography](https://img.shields.io/badge/%20-%23photography%20-4EA94B?style=flat)
+![film-making](https://img.shields.io/badge/%20-%23film--making%20-4EA94B?style=flat)
 
-![kick-boxing](https://img.shields.io/badge/%20-%23kick--boxing%20-9cf?style=for-the-badge)
-![running](https://img.shields.io/badge/%20-%23running%20-9cf?style=for-the-badge)
-![hiking](https://img.shields.io/badge/%20-%23hiking%20-9cf?style=for-the-badge)
+![kick-boxing](https://img.shields.io/badge/%20-%23kick--boxing%20-4EA94B?style=flat)
+![running](https://img.shields.io/badge/%20-%23running%20-4EA94B?style=flat)
+![hiking](https://img.shields.io/badge/%20-%23hiking%20-4EA94B?style=flat)
 
-![video-games](https://img.shields.io/badge/%20-%23video--games%20-9cf?style=for-the-badge)
-![coding](https://img.shields.io/badge/%20-%23coding%20-9cf?style=for-the-badge)
-![movies](https://img.shields.io/badge/%20-%23movies%20-9cf?style=for-the-badge)
-![musicals](https://img.shields.io/badge/%20-%23musicals%20-9cf?style=for-the-badge)
+![video-games](https://img.shields.io/badge/%20-%23video--games%20-4EA94B?style=flat)
+![coding](https://img.shields.io/badge/%20-%23coding%20-4EA94B?style=flat)
+![movies](https://img.shields.io/badge/%20-%23movies%20-4EA94B?style=flat)
+![musicals](https://img.shields.io/badge/%20-%23musicals%20-4EA94B?style=flat)
