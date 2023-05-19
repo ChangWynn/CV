@@ -28,8 +28,8 @@
 
 <div align="center">
 
-  <a href='mailto:huynhchang.one@gmail.com' target="_blank" ><img src="https://img.shields.io/badge/Gmail-ea4335?style=flat&logoColor=white&logo=gmail" alt="Gmail" target="_blank"></a>
-  <a href='https://www.linkedin.com/in/chang-huynh-8950811b9/' target="_blank" ><img src="https://img.shields.io/badge/linkedin-0063c2?style=flat&logoColor=white&logo=linkedin" alt="Linkedin" target="_blank"></a>
+  <a href='mailto:huynhchang.one@gmail.com' target="_blank" ><img width="40" height="40" src="https://img.icons8.com/color/48/circled-envelope.png" alt="circled-envelope"/></a>
+  <a href='https://www.linkedin.com/in/chang-huynh-8950811b9/' target="_blank" ><img width="40" height="40" src="https://img.icons8.com/color/48/linkedin-circled--v1.png" alt="linkedin-circled--v1"/></a>
 
 </div>
  
@@ -56,11 +56,11 @@ I am a passionate and dedicated software engineer with a deep love for coding an
 
 Throughout my career in the casino industry, I have developed exceptional problem-solving abilities and quick thinking, an acute attention to detail, and the ability to handle high-pressure situations with calmness and precision.
 
-Recognizing the limitations of growth within this industry, I am now eager to transition to a career in software engineering, which not only aligns with my passion but also offers endless opportunities for advancement and continuous personal and professional development.
+Recognizing the limitations of growth within this industry, I am now eager to transition to a career in software engineering, which not only aligns with my passion but also offers endless opportunities for personal and professional development.
 
 <!-- These skills have instilled in me a strong sense of adaptability, an analytical mindset, and the ability to excel in collaborative team environments. -->
 
-I am excited to contribute to the development community where I can leverage my skills to work on cutting-edge projects. With a growth mindset and an insatiable curiosity, I am ready to take on new challenges, learn from my peers, and make a meaningful impact.
+I am excited to contribute to the tech community where I can leverage my skills to work on cutting-edge projects. With a growth mindset and an insatiable curiosity, I am ready to take on new challenges, learn from my peers, and make a meaningful impact.
 
 ---
 
@@ -68,23 +68,12 @@ I am excited to contribute to the development community where I can leverage my 
 ## { PROJECTS }
 
 
-
-
-
-
-
-
 | NAME | DESCRIPTION | TECH/TOOLS |
 |:----:|:-----------:|:----------:|
-|<h3>[YAHTZEE](https://github.com/ChangWynn/MAKERS-ACADEMY_yahtzee-project)</h3> <img src='./images/yahtzee-screenshot-1.png' style='width: 800px' alt='screenshot-2'/>| An adaptation of the classic dice game set in a cyberpunk universe with features including score ranking in a leaderboard, local multiplayer, AI player. | React, MondoDB, Express, Node.JS, CSS, Jest, Cypress, Cakewalk, Helm, Synth1 |
-|<h3>[ACEBOOK](https://github.com/ChangWynn/MAKERS-ACADEMY_acebook-project)</h3><img src='./images/acebook-screenshot-2.png' style='width: 500px' alt='screenshot-1'/>  | A light version of the facebook application introducing the MERN stack where users can signup/login, post new messages and photos, like and comment and manage their accounts. | React, Node.Js, MongoDB, Express, JWT, CSS, Jest, Cypress |
-|<h3>[NEWS SUMMARY](https://github.com/ChangWynn/news-summary-challenge)</h3><img src='./images/news-summary-screenshot-1.png' style='width: 500px' alt='screenshot-1'/>  | A web app showcasing The Guardian's top 10 headlines through a keyword search feature. | JavaScript, HTML, CSS, Jest |
-|<h3>[MAKERSBnB](https://github.com/ChangWynn/MAKERS_ACADEMY_makersBnB-project)</h3><img src='./images/makersbnb-screenshot.png' style='width: 500px' alt='screenshot-1'/> | A clone of the AirBnB application where users can signup/login, list or book a room, search for available rooms by date and manage their bookings. | Ruby, Sinatra, PostgreSQL, CSS, Rspec, Agile, CRUD,  |
-
-  <!-- <img src='./images/yahtzee-screenshot-1.png' style='width: 500px' alt='screenshot-2'/> -->
- <!-- <img src='./images/acebook-screenshot-2.png' style='width: 500px' alt='screenshot-1'/> -->
- <!-- <img src='./images/news-summary-screenshot-1.png' style='width: 500px' alt='screenshot-1'/> -->
- <!-- <img src='./images/makersbnb-screenshot.png' style='width: 500px' alt='screenshot-1'/> -->
+|<h3>[YAHTZEE](https://github.com/ChangWynn/MAKERS-ACADEMY_yahtzee-project)</h3> | An adaptation of the classic dice game set in a cyberpunk universe with features including score ranking in a leaderboard, local multiplayer, AI player. | React, MondoDB, Express, Node.JS, CSS, Jest, Cypress, Cakewalk, Helm, Synth1 |
+|<h3>[ACEBOOK](https://github.com/ChangWynn/MAKERS-ACADEMY_acebook-project)</h3> | A light version of the facebook application where users can signup/login, post new messages and photos, like and comment and manage their accounts. | React, Node.Js, MongoDB, Express, JWT, CSS, Jest, Cypress |
+|<h3>[NEWS SUMMARY](https://github.com/ChangWynn/news-summary-challenge)</h3> | A web app showcasing The Guardian's top 10 headlines through a keyword search feature. | JavaScript, HTML, CSS, Jest |
+|<h3>[MAKERSBnB](https://github.com/ChangWynn/MAKERS_ACADEMY_makersBnB-project)</h3> | A clone of the AirBnB application where users can signup/login, list or book a room, search for available rooms by date and manage their bookings. | Ruby, Sinatra, PostgreSQL, CSS, Rspec |
 
 ---
 
@@ -96,14 +85,14 @@ I am excited to contribute to the development community where I can leverage my 
 ### Software Engineer Bootcamp
 
 
-Makers Academy is a prestigious coding bootcamp known for its immersive and collaborative learning environment. <br/> 
-It offers a 16 weeks curriculum emphasising teamwork and collaboration through pair programming and engineering projects to consistently deliver high-quality code and solutions.
+Makers Academy is a prestigious coding bootcamp known for its immersive learning environment, <br/> 
+featuring a 16-week curriculum emphasising teamwork and collaboration through pair programming and engineering projects to consistently deliver high-quality code and solutions.
 
 Here are the highlights of what I have learned:
 
 #### Full-Stack Development
 - Planning and organising a full-stack project.
-- Designing the software architecture.
+- Designing a software architecture.
 - Building both front-end and back-end components of web applications.
 - Defining endpoints and making HTTP requests.
 - Working with databases.
@@ -113,6 +102,12 @@ Here are the highlights of what I have learned:
 - Problem-solving and debugging.
 - Deploying and maintaining the software solution.
 
+#### Methodologies and Practices
+- Object-Oriented Programming (OOP)
+- Test-Driven Development (TDD)
+- Model-View-Controller (MVC)
+- Agile, Extreme Programming (XP)
+
 #### Technologies
 - **Frontend**: JavaScript, React, HTML, CSS, Ruby, ERB
 - **Backend**: Node.JS, Express, Ruby, Sinatra
@@ -121,26 +116,7 @@ Here are the highlights of what I have learned:
 - **Version Control**: git, github
 - **Dev tools**: PostMan, TablePlus, Jira, Trello
 
-#### Methodologies and Practices
-- Object-Oriented Programming (OOP)
-- Test-Driven Development (TDD)
-- Behaviour-Driven Development (BDD)
-- Model-View-Controller (MVC)
-- Agile, Extreme Programming (XP)
-
 <br/>
-
-## UDEMY CERTIFICATIONS
-- React, the complete guide - May 2023
-- JavaScript unit-testing with Jest and Vitest - April 2023
-- Testing Ruby with Rspec: The Complete Guide - Feb 2023
-- The Linux Command Line Bootcamp - Feb 2023
-- Learn to code with Ruby - Sept 2022
-- The complete JavaScript course - oct 2020
-- Advanced CSS and SASS - oct 2020
-- Modern HTML/CSS (including SASS) - sept 2020
-
-In my wishlist: React Native, Electron.js, GraphQL, C#, Algorithms and Data Structures and more
 
 ---
 
@@ -184,7 +160,7 @@ I proctively participated in code reviews assessed by experienced professionals 
 - Genuine enthusiasm for learning new technologies and staying up-to-date with industry trends. 
 - Recently completed Udemy certifications in React, JavaScript testing, Ruby testing, and The Linux Command Line Bootcamp, among others.
 
-I am currently learning advanced concepts of the React Framework and I intend to pursue my learning journey with React Native and GraphQL.
+I am currently learning advanced concepts of the React Framework and I intend to pursue my learning journey with React Native, GraphQL, AWS and so much more.
 
 ---
 
@@ -234,14 +210,18 @@ I am currently learning advanced concepts of the React Framework and I intend to
 <a name="education"></a>
 # { EDUCATION }
 
-## 2023 - MAKERS ACADEMY - London, UK
-### Software Engineer Graduate
+## UDEMY COURSES
 
-- Full-stack web development skills, including front-end and back-end technologies.
-- Proficiency in programming languages such as JavaScript and Ruby.
-- Understanding of software development best practices, including version control and testing.
-- Problem-solving and critical thinking skills developed through coding challenges.
-- Collaboration and teamwork abilities gained from working on engineering projects.
+- React, the complete guide - May 2023
+- JavaScript unit-testing with Jest and Vitest - April 2023
+- Testing Ruby with Rspec: The Complete Guide - Feb 2023
+- The Linux Command Line Bootcamp - Feb 2023
+- Learn to code with Ruby - Sept 2022
+- The complete JavaScript course - oct 2020
+- Advanced CSS and SASS - oct 2020
+- Modern HTML/CSS (including SASS) - sept 2020
+
+In my wishlist: React Native, Electron.js, GraphQL, C#, Algorithms and Data Structures and more
 
 
 ## 2016 - CERUS CASINO ACADEMY - Manchester, UK
