@@ -172,10 +172,15 @@ I am currently learning advanced concepts of the React Framework and I intend to
 **Playboy Club/Metropolitan Mayfair**
 
 <!-- - Developed strong attention to detail, analytical skills, and problem-solving abilities. -->
-- Monitored casino games to ensure compliance with gaming regulations, rules, and procedures.
-- Enforced game rules, procedures, and betting limits to maintain game integrity.
-- Collaborated with surveillance teams to identify and investigate any irregularities or potential violations.
-- Resolved customer complaints and disputes related to gaming activities.
+- Monitored casino games to ensure compliance with regulations and procedures.
+- Reported relevant gaming activities to the management team.
+- Collaborated with the surveillance team to investigate disputes or disruptions.
+- Supported dealers with accurate payouts and facilitated smooth gaming sessions.
+
+This role demands a **sharp eye for detail**, **observation** and **problem-solving** skills to maintain a seamless and accurate gameplay experience, ultimately enhancing customer satisfaction and gameplay quality. <br/>
+It also requires effective **communication** and **collaboration** skills to fulfil reporting responsibilities to both the management team and the surveillance team, ensuring a transparent and secure gaming environment.
+
+
 
 ###### 2016-2019
 ## Casino dealer
