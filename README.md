@@ -197,7 +197,7 @@ This role demands **quick thinking** and **problem-solving skills** to handle co
 
 **Effective communication** and **teamwork** are essential for reporting relevant gaming activities to the inspector and maintaining a smooth gaming experience. 
 
-Additionally, I consistently demonstrated a **positive** and **upbeat attitude**, delivering excellent customer service.
+Additionally, I consistently demonstrated a **positive** and **upbeat attitude**, delivering excellent customer service but also **strong resilience abilities** to maintain composure and stay calm when facing high-pressure situations.
 
 
 ###### 2012-2015
