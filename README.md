@@ -181,7 +181,7 @@ I am currently learning advanced concepts of the React Framework and I intend to
 **Empire Casino** - *2017-2019*<br/>
 **Aspers Casino Newcastle** - *2016-2017*
 
-- Conducted casino games including Roulette and BlackJack performing quick and accurate payouts and proficient dealing skills, ensuring an optimal game pace and smooth operations of the casino business.
+- Conducted casino games including Roulette and BlackJack performing quick and accurate payouts, ensuring an optimal game pace and smooth operations of the casino business.
 - Collaborated with the inspector through clear commentaries and communicated relevant gaming activities, ensuring a transparent and secure gaming environment.
 - Maintained a positive and upbeat attitude at all time to enhance the overall casino experience and deliver excellent customer service.
 
