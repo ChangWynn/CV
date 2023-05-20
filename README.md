@@ -101,12 +101,11 @@ Here are the highlights of what I have learned:
 - Conducting code reviews for quality and adherence to coding standards.
 - Problem-solving and debugging.
 - Deploying and maintaining the software solution.
-
-#### Methodologies and Practices
-- Object-Oriented Programming (OOP)
-- Test-Driven Development (TDD)
-- Model-View-Controller (MVC)
-- Agile, Extreme Programming (XP)
+- Applied popular methodologies and practices:
+    - Object-Oriented Programming (OOP)
+    - Test-Driven Development (TDD)
+    - Model-View-Controller (MVC)
+    - Agile
 
 #### Technologies
 - **Frontend**: JavaScript, React, HTML, CSS, Ruby, ERB
@@ -121,7 +120,7 @@ Here are the highlights of what I have learned:
 ---
 
 <a name="skills"></a>
-# { SKILLS }
+## { SKILLS }
 
 #### Self-Motivation
 - Self-driven attitude and highly disciplined with a strong commitment to setting and achieving objectives.
@@ -177,7 +176,8 @@ I am currently learning advanced concepts of the React Framework and I intend to
 - Collaborated with the surveillance team to investigate disputes or disruptions.
 - Supported dealers with accurate payouts and facilitated smooth gaming sessions.
 
-This role demands a **sharp eye for detail**, **observation** and **problem-solving** skills to maintain a seamless and accurate gameplay experience, ultimately enhancing customer satisfaction and gameplay quality. <br/>
+This role demands a **sharp eye for detail**, **observation** and **problem-solving** skills to maintain a seamless and accurate gameplay experience, ultimately enhancing customer satisfaction and gameplay quality.
+
 It also requires effective **communication** and **collaboration** skills to fulfil reporting responsibilities to both the management team and the surveillance team, ensuring a transparent and secure gaming environment.
 
 
