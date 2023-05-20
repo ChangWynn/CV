@@ -176,8 +176,6 @@ I am currently learning advanced concepts of the React Framework and I intend to
 - Supported dealers with accurate payouts and facilitated smooth gaming sessions, contributing to customer satisfaction and gameplay quality.
 
 
-
-
 ###### 2016-2019
 ## Casino dealer
 **Empire Casino** - *2017-2019*<br/>
