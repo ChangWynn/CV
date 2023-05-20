@@ -176,7 +176,7 @@ I am currently learning advanced concepts of the React Framework and I intend to
 - Collaborated with the surveillance team to investigate disputes or disruptions.
 - Supported dealers with accurate payouts and facilitated smooth gaming sessions.
 
-In this role, I have developed a **sharp eye for detail**, along with strong **observation** and **problem-solving** skills. These qualities are crucial in maintaining a seamless and accurate gameplay experience, ultimately enhancing customer satisfaction and gameplay quality;
+In this role, I have developed a **sharp eye for detail**, along with strong **observation** and **problem-solving** skills. These qualities are crucial in maintaining a seamless and accurate gameplay experience, ultimately enhancing customer satisfaction and gameplay quality.
 
 Additionally, I have demonstrated  excellent **communication** and **collaboration** skills. These skills are vital for fulfilling reporting responsibilities to both the management team and the surveillance team, ensuring a transparent and secure gaming environment.
 
@@ -188,9 +188,17 @@ Additionally, I have demonstrated  excellent **communication** and **collaborati
 **Aspers Casino Newcastle** - *2016-2017*
 
 <!-- - Developed strong interpersonal and communication skills, essential for collaboration and effective team coordination. -->
-- Dealt various casino games, including blackjack, poker, and roulette, ensuring smooth gameplay and accurate payouts.
-- Enforced game rules and procedures, ensuring fair play and game integrity.
-- Provided exceptional customer service by assisting players, answering inquiries, and resolving issues.
+- Conducted various casino games, including Roulette, Blackjack, and Poker.
+- Maintained an optimal game pace with proficient dealing skills and quick and accurate payouts.
+- Communicated game actions through loud and clear commentaries.
+- Reported relevant gaming activities to the inspector.
+
+This role demands **quick thinking** and **problem-solving skills** to handle complex calculations and ensure an optimal game pace and customer satisfaction. 
+
+**Effective communication** and **teamwork** are essential for reporting relevant gaming activities to the inspector and maintaining a smooth gaming experience. 
+
+Additionally, I consistently demonstrated a **positive** and **upbeat attitude**, delivering excellent customer service.
+
 
 ###### 2012-2015
 ## Store Manager
