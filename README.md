@@ -189,7 +189,7 @@ Additionally, I have demonstrated  excellent **communication** and **collaborati
 
 <!-- - Developed strong interpersonal and communication skills, essential for collaboration and effective team coordination. -->
 - Conducted various casino games, including Roulette, Blackjack, and Poker.
-- Maintained an optimal game pace with proficient dealing skills and quick and accurate payouts.
+- Ensured optimal game pace with proficient dealing skills and quick and accurate payouts.
 - Communicated game actions through loud and clear commentaries.
 - Reported relevant gaming activities to the inspector.
 
