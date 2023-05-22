@@ -82,7 +82,7 @@ I am excited to contribute to the tech community where I can leverage my skills 
 ###### January-May 2023 (London, UK)
 ### MAKERS ACADEMY - Software Engineer Bootcamp
 
-A 16-week immersive curriculum emphasising teamwork and collaboration through pair programming and engineering projects to consistently deliver high-quality code and solutions.
+A 16-week immersive course emphasising teamwork and collaboration through pair programming and engineering projects to consistently deliver high-quality code and solutions.
 
 Here are the highlights of what I have learned:
 
@@ -122,17 +122,16 @@ Here are the highlights of what I have learned:
 ### Casino Gaming Inspector
  - **Playboy Club/Metropolitan Mayfair** - *London, UK*
 
-    - Monitored casino games to ensure compliance with regulations and procedures, maintaining fair and secure gaming environments.
+    - Monitored casino games to ensure compliance with regulations and procedures, maintaining a fair and secure gaming environment.
     - Supported dealers with accurate payouts and facilitated smooth gaming sessions, contributing to customer satisfaction and gameplay quality.
-    - Reported relevant gaming activities to the management team, providing valuable insights for decision-making and maintaining transparency.
-    - Collaborated with the surveillance team to investigate and resolve disputes or disruptions, ensuring a seamless and enjoyable gaming experience.
+    - Reported relevant gaming activities to both the management and surveillance team, providing valuable insights for decision-making and maintaining transparency.
 
 ###### 2016-2019
 ### Casino Game Dealer
 - **Empire Casino** - *London, UK*
 - **Aspers Casino** - *Newcastle, UK*
 
-    - Conducted casino games including Roulette and BlackJack performing quick and accurate payouts, ensuring an optimal game pace and customer satisfaction.
+    - Conducted casino games including Roulette and BlackJack performing with proficient dealing skills, ensuring an optimal game pace and customer satisfaction.
     - Collaborated with the inspector through clear commentaries and communicating relevant gaming activities, ensuring a transparent and secure gaming environments.
 
 ###### 2012-2015
@@ -147,7 +146,7 @@ Here are the highlights of what I have learned:
 ### Sales Associate
 - **Tel and Com** - *Troyes, France*
 
-    - Utilised selling techniques and problem-solving skills to close sales and achieve team weekly targets, contributing to business revenue and profitability.
+    - Utilised selling techniques and problem-solving skills to close sales and achieve collective targets, contributing to business revenue and profitability.
     - Provided personalised customer service by understanding and fulfilling user requirements, offering accurate product and service recommendations.
     - Assisted customers, addressing their needs and resolving issues, ensuring high-levels of customer satisfaction.
 
@@ -159,7 +158,7 @@ Here are the highlights of what I have learned:
 
 ### Positive attitude & Resilience
 - Displayed a positive and upbeat attitude across past experiences to ensure an enjoyable experience for patrons and deliver exceptional customer service.
-- Demonstrated a naturally fierce resilience in handling high-pressure situations encountered while dealing with high-value customers at the Metropolitan Mayfair Casino.
+- Demonstrated a fierce resilience in handling high-pressure situations encountered while dealing with high-value customers at the Metropolitan Mayfair Casino.
 - Awarded 'Role Model' for excellent customer service, exemplary attitude and exceptional dealing skills during employment at the Empire Casino.
 
 ### Growth Mindset
