@@ -162,7 +162,7 @@ Here are the highlights of what I have learned:
 - Awarded the 'Role Model' title for excellent customer service, exemplary attitude and exceptional dealing skills during employment at the Empire Casino.
 
 ### Growth Mindset
-- Self-driven and highly disciplined mindset with a strong commitment to setting and achieving objectives gained through training towards a semi-marathon and various sport competitions.
+- Possess a self-driven and highly disciplined mindset with a strong commitment to setting and achieving objectives developed through training towards a semi-marathon and various sport competitions.
 - Genuine enthusiasm for learning and staying up-to-date with industry trends.
 - Currently learning advanced concepts of the React Framework and eager to explore technologies such as with Typescript, React Native, GraphQL, AWS and more.
 - Acknowledged for continual professional growth, leading to promotions to higher positions in both the retail and gaming industries.
@@ -173,10 +173,9 @@ Here are the highlights of what I have learned:
 - Actively engage with communication tools, such as Slack, by consistently interacting with my peers at Makers Academy.
 
 ### Teamwork & Collaboration
-- Developed strong collaboration skills working alongside dealers or inspectors, ensuring smooth gaming sessions for punters in the casino industry.
+- Developed strong collaboration skills working alongside dealers or inspectors, to ensure smooth gaming sessions for punters in the casino industry.
 - Cultivated a strong teamwork mindset as a sales associate to achieve collective targets at Tel and Com.
 - Actively engage in pair programming and make valuable contributions to engineering projects at Makers Academy.
-
 
 ### Problem-Solving
 - Showcased quick-thinking abilities and excellent problem-solving skills in the casino industry, delivering accurate payouts in a fast-paced environment and ensuring optimal game pace.
@@ -184,8 +183,8 @@ Here are the highlights of what I have learned:
 - Created a technique to rapidly calculate a Baccarat's 225 to 1 payout during employment at the Empire Casino.
 
 ### Programming
-- Possess a deep interest in understanding how a programming language works behind the scenes, contributing to a good understanding of complex concepts and building confidence in coding skills.
-- Developed strong logical thinking abilities through completing numerous challenges on Codewars and Coderbyte.
+- Possess a deep interest in understanding how a programming language works behind the scenes, contributing to a good understanding of complex concepts and building confidence in coding abilities.
+- Developed strong logical thinking through completing numerous challenges on Codewars and Coderbyte.
 - Currently hold a 4kyu rank with over 800 honor on Codewars and I have completed 70+ challenges on Coderbyte.
 
 <!-- #### Self-Motivation
