@@ -35,9 +35,6 @@
  
  <!-- --- -->
 
-
-
-
 ---
 
  <div align="center">
@@ -82,7 +79,8 @@ I am excited to contribute to the tech community where I can leverage my skills 
 ###### January-May 2023 (London, UK)
 ### MAKERS ACADEMY - Software Engineer Bootcamp
 
-A 16-week immersive course emphasising teamwork and collaboration through pair programming and engineering projects to consistently deliver high-quality code and solutions.
+Makers Academy is a prestigious coding bootcamp known for its immersive learning environment,
+featuring a 16-week curriculum emphasising teamwork and collaboration through pair programming and engineering projects to consistently deliver high-quality code and solutions.
 
 Here are the highlights of what I have learned:
 
