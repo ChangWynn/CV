@@ -1,7 +1,7 @@
 <div align="center" >
   
   # CHANG HUYNH
-  ## { Software Engineer }
+  ## Software Engineer
 
 <!--   ![codewars](https://img.shields.io/badge/Codewars-4kyu-blue?style=for-the-badge&logoColor=red&logo=codewars) -->
   
