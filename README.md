@@ -50,7 +50,7 @@
 ---
 
 <a name="intro"></a>
-## { INTRO }
+## INTRO
 
 I am a passionate and dedicated software engineer with a deep love for coding and a strong drive for learning.
 
@@ -65,7 +65,7 @@ I am excited to contribute to the tech community where I can leverage my skills 
 ---
 
 <a name="projects"></a>
-## { PROJECTS }
+## PROJECTS
 
 
 | NAME | DESCRIPTION | TECH/TOOLS |
@@ -78,27 +78,23 @@ I am excited to contribute to the tech community where I can leverage my skills 
 ---
 
 <a name="tech-experience"></a>
-# TECH EXPERIENCE
+## TECH EXPERIENCE
 
 ###### January-May 2023 (London, UK)
-## MAKERS ACADEMY
-### Software Engineer Bootcamp
-
+### MAKERS ACADEMY - Software Engineer Bootcamp
 
 Makers Academy is a prestigious coding bootcamp known for its immersive learning environment, <br/> 
-featuring a 16-week curriculum emphasising teamwork and collaboration through pair programming and engineering projects to consistently deliver high-quality code and solutions.
+featuring a 16-week curriculum and emphasising teamwork and collaboration through pair programming and engineering projects to consistently deliver high-quality code and solutions.
 
 Here are the highlights of what I have learned:
 
 #### Full-Stack Development
 - Planning and organising a full-stack project.
-- Designing a software architecture.
+
 - Building both front-end and back-end components of web applications.
 - Defining endpoints and making HTTP requests.
 - Working with databases.
-- Performing unit-tests, integration tests and end-to-end tests (e2e).
-- Utilising Git and GitHub for version control and collaboration
-- Conducting code reviews for quality and adherence to coding standards.
+- Utilising Git and GitHub for version control and collaboration.
 - Problem-solving and debugging.
 - Deploying and maintaining the software solution.
 - Applied popular methodologies and practices:
@@ -106,6 +102,9 @@ Here are the highlights of what I have learned:
     - Test-Driven Development (TDD)
     - Model-View-Controller (MVC)
     - Agile
+<!-- - Designing a software architecture. -->
+<!-- - Performing unit-tests, integration tests and end-to-end tests (e2e). -->
+<!-- - Conducting code reviews for quality and adherence to coding standards. -->
 
 #### Technologies
 - **Frontend**: JavaScript, React, HTML, CSS, Ruby, ERB
@@ -120,9 +119,9 @@ Here are the highlights of what I have learned:
 ---
 
 <a name="work-experience"></a>
-# WORK EXPERIENCE
+## WORK EXPERIENCE
 
-### Casino Inspector
+### Casino Gaming Inspector
 **Playboy Club/Metropolitan Mayfair** - *2019 to present*
 
 - Monitored casino games to ensure compliance with regulations and procedures, maintaining a fair and secure gaming environment.
@@ -130,7 +129,7 @@ Here are the highlights of what I have learned:
 - Reported relevant gaming activities to the management team, providing valuable insights for decision-making and maintaining transparency.
 - Collaborated with the surveillance team to investigate and resolve disputes or disruptions, ensuring a seamless and enjoyable gaming experience.
 
-### Casino dealer
+### Casino Gaming Dealer
 **Empire Casino** - *2017-2019*<br/>
 **Aspers Casino Newcastle** - *2016-2017*
 
@@ -156,32 +155,29 @@ Here are the highlights of what I have learned:
 ---
 
 <a name="skills"></a>
-# SKILLS
+## SKILLS
 
-## Communication
+### Communication
 - Developed excellent communication skills over the years to effectively report gaming activities to both the management and surveillance team. 
 - Gained proficiency in communicating technical concepts to non-technical parties to efficiently answer customer needs at Tel and Com.
 - Actively engaged with communication tools, such as Slack, by consistently interacting with my peers at Makers Academy.
 
-## Teamwork & Collaboration
+### Teamwork & Collaboration
 - Developed strong collaboration skills as a casino inspector to efficiently report gaming activities to both the management team and surveillance team at Metropolitan Mayfair Casino.
 - Actively engaged in pair programming and engineering projects at the Software Engineer Bootcamp.
 
-## Positive attitude & Resilience
+### Positive attitude & Resilience
 - Possess a positive and upbeat attitude, vital quality accross my past working experience to ensure an enjoyable experience for patrons and delivering an exceptional customer service.
 - With a naturally fierce resilience, I maintain composure in difficult and high-pressure situations—a crucial skill to possess when dealing with high-value customers at the Metropolitan Mayfair Casino.
 
-## Growth Mindset
+### Growth Mindset
 - Self-driven and highly disciplined attitude with a strong commitment to setting and achieving objectives gained through training towards a semi-marathon and various sport competitions.
 - Genuine enthusiasm for learning new technologies and staying up-to-date with industry trends.
 - Currently learning advanced concepts of the React Framework and intention to with various technologies such as with Typescript, React Native, GraphQL, AWS and more.
 
-## Problem-Solving
+### Problem-Solving
 - created a system to keep track of customers accessories orders at Tel and Com.
 - Elaborated a system to rapidly mentally calculate a Baccarat's 225 to 1 payout at the Empire Casino.
-
-
-
 
 <!-- #### Self-Motivation
 - Self-driven attitude and highly disciplined with a strong commitment to setting and achieving objectives.
@@ -225,7 +221,7 @@ I am currently learning advanced concepts of the React Framework and I intend to
 ---
 
 <a name="education"></a>
-# EDUCATION
+## EDUCATION
 
 ### 2020/2023 - UDEMY COURSE CERTIFICATIONS
 ```
@@ -279,7 +275,7 @@ UK equivalent for the french Baccalauréat Economique et Social
 ---
 
 <a name="hobbies"></a>
-# HOBBIES
+## HOBBIES
 
 ![travel](https://img.shields.io/badge/%20-%23travel%20-4EA94B?style=flat)
 ![photography](https://img.shields.io/badge/%20-%23photography%20-4EA94B?style=flat)
