@@ -160,7 +160,7 @@ Here are the highlights of what I have learned:
 ### Positive attitude & Resilience
 - Maintained a positive and upbeat attitude across past experiences to ensure an enjoyable experience for patrons and deliver exceptional customer service.
 - Demonstrated a naturally fierce resilience in handling high-pressure situations encountered while dealing with high-value customers at the Metropolitan Mayfair Casino.
-- Awarded as a role model for excellent customer service, exemplary attitude and exceptional dealing skills during employment at the Empire Casino.
+- Awarded 'Role Model' for excellent customer service, exemplary attitude and exceptional dealing skills during employment at the Empire Casino.
 
 ### Growth Mindset
 - Self-driven and highly disciplined attitude with a strong commitment to setting and achieving objectives gained through training towards a semi-marathon and various sport competitions.
