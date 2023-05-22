@@ -70,10 +70,10 @@ I am excited to contribute to the tech community where I can leverage my skills 
 
 | NAME | DESCRIPTION | TECH/TOOLS |
 |:----:|:-----------:|:----------:|
-|<h3>[YAHTZEE](https://github.com/ChangWynn/MAKERS-ACADEMY_yahtzee-project)</h3> | An adaptation of the classic dice game set in a cyberpunk universe with features including score ranking in a leaderboard, local multiplayer, AI player. | React, MondoDB, Express, Node.JS, CSS, Jest, Cypress, Cakewalk, Helm, Synth1 |
-|<h3>[ACEBOOK](https://github.com/ChangWynn/MAKERS-ACADEMY_acebook-project)</h3> | A light version of the facebook application where users can signup/login, post new messages and photos, like and comment and manage their accounts. | React, Node.Js, MongoDB, Express, JWT, CSS, Jest, Cypress |
-|<h3>[NEWS SUMMARY](https://github.com/ChangWynn/news-summary-challenge)</h3> | A web app showcasing The Guardian's top 10 headlines through a keyword search feature. | JavaScript, HTML, CSS, Jest |
-|<h3>[MAKERSBnB](https://github.com/ChangWynn/MAKERS_ACADEMY_makersBnB-project)</h3> | A clone of the AirBnB application where users can signup/login, list or book a room, search for available rooms by date and manage their bookings. | Ruby, Sinatra, PostgreSQL, CSS, Rspec |
+|[YAHTZEE](https://github.com/ChangWynn/MAKERS-ACADEMY_yahtzee-project) | An adaptation of the classic dice game set in a cyberpunk universe with features including score ranking in a leaderboard, local multiplayer, AI player. | React, MondoDB, Express, Node.JS, CSS, Jest, Cypress, Cakewalk, Helm, Synth1 |
+|[ACEBOOK](https://github.com/ChangWynn/MAKERS-ACADEMY_acebook-project) | A light version of the facebook application where users can signup/login, post new messages and photos, like and comment and manage their accounts. | React, Node.Js, MongoDB, Express, JWT, CSS, Jest, Cypress |
+|[NEWS SUMMARY](https://github.com/ChangWynn/news-summary-challenge) | A web app showcasing The Guardian's top 10 headlines through a keyword search feature. | JavaScript, HTML, CSS, Jest |
+|[MAKERSBnB](https://github.com/ChangWynn/MAKERS_ACADEMY_makersBnB-project) | A clone of the AirBnB application where users can signup/login, list or book a room, search for available rooms by date and manage their bookings. | Ruby, Sinatra, PostgreSQL, CSS, Rspec |
 
 ---
 
@@ -166,18 +166,15 @@ I am currently learning advanced concepts of the React Framework and I intend to
 <a name="work-experience"></a>
 # { WORK EXPERIENCE }
 
-###### 2019 to present
-## Casino Inspector
-**Playboy Club/Metropolitan Mayfair**
+### Casino Inspector
+**Playboy Club/Metropolitan Mayfair** - *2019 to present*
 
 - Monitored casino games to ensure compliance with regulations and procedures, maintaining a fair and secure gaming environment.
 - Reported relevant gaming activities to the management team, providing valuable insights for decision-making and maintaining transparency.
 - Collaborated with the surveillance team to investigate and resolve disputes or disruptions, ensuring a seamless and enjoyable gaming experience.
 - Supported dealers with accurate payouts and facilitated smooth gaming sessions, contributing to customer satisfaction and gameplay quality.
 
-
-###### 2016-2019
-## Casino dealer
+### Casino dealer
 **Empire Casino** - *2017-2019*<br/>
 **Aspers Casino Newcastle** - *2016-2017*
 
@@ -185,30 +182,28 @@ I am currently learning advanced concepts of the React Framework and I intend to
 - Collaborated with the inspector through clear commentaries and communicated relevant gaming activities, ensuring a transparent and secure gaming environment.
 - Maintained a positive and upbeat attitude at all time to enhance the overall casino experience and deliver excellent customer service.
 
-###### 2012-2015
-## Store Manager
-**Tel and Com**
+### Store Manager
+**Tel and Com**  - *2012-2015*
 
-<!-- - Developed strong leadership and management skills, fostering a positive work environment. -->
-- Oversaw the daily operations of a retail store, including inventory management, staff supervision, and customer service.
-- Implemented strategies to achieve sales targets and maximise profitability.
-- Led a team of sales associates, providing training, guidance, and performance evaluations.
+- Oversaw daily operations of the store, including inventory management and staff supervision, ensuring a seamless business operation.
+- Planned and implemented effective sales strategies, leading to the achievement of sales targets and increased profitability.
+- Provided guidance, training, and performance evaluations for a team of sales associates, contributing to their high-performance levels and overall success of the business.
 
-###### 2010-2012
-## Sales Assistant
-**Tel and Com**
+### Sales Associate
+**Tel and Com** - *2010-2012*
 
-<!-- - Developed strong communication and interpersonal skills, crucial for effectively communicating technical concepts. -->
-- Provided sales assistance, customer support, and product knowledge.
-- Collaborate with team members to achieve sales targets and meet store objectives.
-- Provided excellent customer service, ensuring a positive shopping experience.
+- Provided personalised customer service by understanding and fulfilling user requirements, offering accurate product and service recommendations.
+- Maintained a positive and upbeat attitude to create a professional and enjoyable experience for customers, ultimately contributing to their satisfaction.
+- Utilised selling techniques and problem-solving skills to close sales and achieve weekly targets, ensuring business profitability.
+- Assisted and supported customers, addressing their needs and resolving any issues, resulting in high levels of customer satisfaction.
+
 
 ---
 
 <a name="education"></a>
 # { EDUCATION }
 
-## UDEMY COURSES
+### 2020/2023 - UDEMY COURSE CERTIFICATIONS
 
 - React, the complete guide - May 2023
 - JavaScript unit-testing with Jest and Vitest - April 2023
@@ -219,35 +214,43 @@ I am currently learning advanced concepts of the React Framework and I intend to
 - Advanced CSS and SASS - oct 2020
 - Modern HTML/CSS (including SASS) - sept 2020
 
-In my wishlist: React Native, Electron.js, GraphQL, C#, Algorithms and Data Structures and more
+
+In my wishlist: React Native, Electron.js, TypeScript, GraphQL, C#, Algorithms and Data Structures and more
 
 
-## 2016 - CERUS CASINO ACADEMY - Manchester, UK
-### Casino Dealer Graduate
 
-- Developed interpersonal and communication skills from dealing with casino patrons.
-- Developed strong attention to detail and accuracy in managing and calculating bets.
-- Ability to work under pressure and maintain composure in a fast-paced environment.
-- Customer service skills, including resolving conflicts and providing a positive experience for customers.
-- Adaptability and flexibility in handling different casino games and rules.
+### 2016 - CERUS CASINO ACADEMY - Manchester, UK
+
+- Casino Dealer Graduate
 
 
-## 2010 - TROYES UNIVERSITY - France
-### BTEC HND Business Management
-###### UK equivalent for the french BTS Management des Unités Commerciales
+<!-- - UK gaming regulations and procedures.
+- American Roulette, BlackJack and Poker.
+- Mental arithmetic skills -->
 
-- Understanding of management principles.
+
+### 2010 - TROYES UNIVERSITY - France
+
+- BTEC HND Business Management
+
+UK equivalent for the french BTS Management des Unités Commerciales
+
+
+<!-- - Understanding of management principles.
 - Sales and negotiation abilities.
-- Project management skills and the ability to organize and coordinate teams.
-- Presentation and communication skills for delivering reports and presentations.
+- Project management, organisation and team coordination skills.
+- Presentation and communication skills for delivering reports and presentations. -->
 
 
-## 2006 - JACQUES AMYOT HIGH SCHOOL - France
-### A-LEVEL Economics and Social Sciences
-###### UK equivalent for the french Baccalauréat Economique et Social
+### 2006 - JACQUES AMYOT HIGH SCHOOL - France
 
-- Foundation in economics principles and market dynamics.
-- Foundation in social sciences and their impact on society.
+- A-LEVEL Economics and Social Sciences
+
+UK equivalent for the french Baccalauréat Economique et Social
+
+
+<!-- - Foundation in economics principles and market dynamics.
+- Foundation in social sciences and their impact on society. -->
 
 ---
 
