@@ -157,27 +157,29 @@ Here are the highlights of what I have learned:
 <a name="skills"></a>
 ## SKILLS
 
-### Communication
-- Developed excellent communication skills over the years to effectively report gaming activities to both the management and surveillance team. 
-- Gained proficiency in communicating technical concepts to non-technical parties to efficiently answer customer needs at Tel and Com.
-- Actively engaged with communication tools, such as Slack, by consistently interacting with my peers at Makers Academy.
-
-### Teamwork & Collaboration
-- Developed strong collaboration skills as a casino inspector to efficiently report gaming activities to both the management team and surveillance team at Metropolitan Mayfair Casino.
-- Actively engaged in pair programming and engineering projects at the Software Engineer Bootcamp.
-
 ### Positive attitude & Resilience
-- Possess a positive and upbeat attitude, vital quality accross my past working experience to ensure an enjoyable experience for patrons and delivering an exceptional customer service.
-- With a naturally fierce resilience, I maintain composure in difficult and high-pressure situations—a crucial skill to possess when dealing with high-value customers at the Metropolitan Mayfair Casino.
+- Maintained a positive and upbeat attitude accross past experiences to ensure an enjoyable experience for patrons and deliver an exceptional customer service.
+- Demonstrated a naturally fierce resilience in handling difficult high-pressure situations encountered while dealing with high-value customers at the Metropolitan Mayfair Casino.
 
 ### Growth Mindset
 - Self-driven and highly disciplined attitude with a strong commitment to setting and achieving objectives gained through training towards a semi-marathon and various sport competitions.
 - Genuine enthusiasm for learning new technologies and staying up-to-date with industry trends.
-- Currently learning advanced concepts of the React Framework and intention to with various technologies such as with Typescript, React Native, GraphQL, AWS and more.
+- Currently learning advanced concepts of the React Framework and eager to explore technologies such as with Typescript, React Native, GraphQL, AWS and more.
+- Recognized for exemplary attitude and professional improvement, resulting in promotions in both the retail and gaming industries.
+
+### Communication
+- Showcased excellent communication to effectively report gaming activities to both the management and surveillance team at the Metropolitan Mayfair Casino.
+- Proficient in conveying technical concepts to non-technical individuals to address customer needs and requirements at Tel and Com.
+- Actively engaged with communication tools, such as Slack, by consistently interacting with my peers at Makers Academy.
+
+### Teamwork & Collaboration
+- Developed strong collaboration skills working alongside dealers or inspectors to ensure smooth gaming sessions for punters in the casino industry.
+- Applied a strong teamwork mindset as a sales associate to achieve collective targets at Tel and Com.
+- Actively engaged in pair programming and made valuable contributions to engineering projects at Makers Academy.
 
 ### Problem-Solving
-- created a system to keep track of customers accessories orders at Tel and Com.
-- Elaborated a system to rapidly mentally calculate a Baccarat's 225 to 1 payout at the Empire Casino.
+- developed a system to keep track of customers' accessories orders during employment at Tel and Com.
+- created a method for rapid mental calculation of Baccarat's 225 to 1 payout during employment at the Empire Casino.
 
 <!-- #### Self-Motivation
 - Self-driven attitude and highly disciplined with a strong commitment to setting and achieving objectives.
