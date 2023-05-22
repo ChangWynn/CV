@@ -122,34 +122,34 @@ Here are the highlights of what I have learned:
 ## WORK EXPERIENCE
 
 ### Casino Gaming Inspector
-**Playboy Club/Metropolitan Mayfair** - *2019 to present*
+ - **Playboy Club/Metropolitan Mayfair** - *2019 to present*
 
-- Monitored casino games to ensure compliance with regulations and procedures, maintaining a fair and secure gaming environment.
-- Supported dealers with accurate payouts and facilitated smooth gaming sessions, contributing to customer satisfaction and gameplay quality.
-- Reported relevant gaming activities to the management team, providing valuable insights for decision-making and maintaining transparency.
-- Collaborated with the surveillance team to investigate and resolve disputes or disruptions, ensuring a seamless and enjoyable gaming experience.
+    - Monitored casino games to ensure compliance with regulations and procedures, maintaining a fair and secure gaming environment.
+    - Supported dealers with accurate payouts and facilitated smooth gaming sessions, contributing to customer satisfaction and gameplay quality.
+    - Reported relevant gaming activities to the management team, providing valuable insights for decision-making and maintaining transparency.
+    - Collaborated with the surveillance team to investigate and resolve disputes or disruptions, ensuring a seamless and enjoyable gaming experience.
 
 ### Casino Gaming Dealer
-**Empire Casino** - *2017-2019*<br/>
-**Aspers Casino Newcastle** - *2016-2017*
+- **Empire Casino** - *2017-2019*<br/>
+- **Aspers Casino Newcastle** - *2016-2017*
 
-- Conducted casino games including Roulette and BlackJack performing quick and accurate payouts, ensuring an optimal game pace and smooth operations of the casino business.
-- Collaborated with the inspector through clear commentaries and communicated relevant gaming activities, ensuring a transparent and secure gaming environment.
-- Maintained a positive and upbeat attitude at all time to enhance the overall casino experience and deliver excellent customer service.
+    - Conducted casino games including Roulette and BlackJack performing quick and accurate payouts, ensuring an optimal game pace and smooth operations of the casino business.
+    - Collaborated with the inspector through clear commentaries and communicated relevant gaming activities, ensuring a transparent and secure gaming environment.
+    - Maintained a positive and upbeat attitude at all time to enhance the overall casino experience and deliver excellent customer service.
 
 ### Store Manager
-**Tel and Com**  - *2012-2015*
+- **Tel and Com**  - *2012-2015*
 
-- Oversaw daily operations of the store, including inventory management and staff supervision, ensuring seamless business operation.
-- Planned and implemented effective sales strategies, leading to the achievement of sales targets and increased profitability.
-- Provided guidance, training, and performance evaluations for a team of sales associates, contributing to their high-performance levels and overall success of the business.
+    - Oversaw daily operations of the store, including inventory management and staff supervision, ensuring seamless business operation.
+    - Planned and implemented effective sales strategies, leading to the achievement of sales targets and increased profitability.
+    - Provided guidance, training, and performance evaluations for a team of sales associates, contributing to their high-performance levels and overall success of the business.
 
 ### Sales Associate
-**Tel and Com** - *2010-2012*
+- **Tel and Com** - *2010-2012*
 
-- Utilised selling techniques and problem-solving skills to close sales and achieve team weekly targets, contributing to business revenue and profitability.
-- Provided personalised customer service by understanding and fulfilling user requirements, offering accurate product and service recommendations.
-- Assisted customers, addressing their needs and resolving issues, ensuring high-levels of customer satisfaction.
+    - Utilised selling techniques and problem-solving skills to close sales and achieve team weekly targets, contributing to business revenue and profitability.
+    - Provided personalised customer service by understanding and fulfilling user requirements, offering accurate product and service recommendations.
+    - Assisted customers, addressing their needs and resolving issues, ensuring high-levels of customer satisfaction.
 
 
 ---
