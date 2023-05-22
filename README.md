@@ -17,8 +17,7 @@
   ![sinatra](https://img.shields.io/badge/SINATRA-000000?style=flat&logoColor=white&logo=rubysinatra)
   ![postgresql](https://img.shields.io/badge/POSTGRESQL-316192?style=flat&logoColor=white&logo=postgresql) * 
   ![rspec](https://img.shields.io/badge/RSPEC-fe405f?style=flat&logoColor=white&logo=rubygems)
-  ![jest](https://img.shields.io/badge/JEST-C21325?style=flat&logoColor=white&logo=jest)
-  
+  ![jest](https://img.shields.io/badge/JEST-C21325?style=flat&logoColor=white&logo=jest) *
   ![git](https://img.shields.io/badge/GIT-F05032?style=flat&logoColor=white&logo=git)
   ![github](https://img.shields.io/badge/GITHUB-181717?style=flat&logoColor=white&logo=github)
   
@@ -69,11 +68,10 @@ I am excited to contribute to the tech community where I can leverage my skills 
 
 
 | NAME | DESCRIPTION | TECH/TOOLS |
-|:----:|:-----------:|:----------:|
-|[YAHTZEE](https://github.com/ChangWynn/MAKERS-ACADEMY_yahtzee-project) | An adaptation of the classic dice game set in a cyberpunk universe with features including a leaderboard, local multiplayer, AI player. | React, MondoDB, Express, Node.JS, CSS, Jest, Cypress, Cakewalk, Helm, Synth1 |
-|[ACEBOOK](https://github.com/ChangWynn/MAKERS-ACADEMY_acebook-project) | A light version of the facebook application where users can signup/login, post new messages and photos, like and comment and manage their accounts. | React, Node.Js, MongoDB, Express, JWT, CSS, Jest, Cypress |
-|[NEWS SUMMARY](https://github.com/ChangWynn/news-summary-challenge) | A web app showcasing The Guardian's top 10 headlines through a keyword search feature. | JavaScript, HTML, CSS, Jest |
-|[MAKERSBnB](https://github.com/ChangWynn/MAKERS_ACADEMY_makersBnB-project) | A clone of the AirBnB application where users can signup/login, list or book a room, search for available rooms by date and manage their bookings. | Ruby, Sinatra, PostgreSQL, CSS, Rspec |
+|:----:|:-----------|:----------:|
+|[YAHTZEE](https://github.com/ChangWynn/MAKERS-ACADEMY_yahtzee-project) | An adaptation of the classic dice game set in a cyberpunk universe with features including:<br/> <ul><li>leaderboard</li><li>local multiplayer</li><li>AI player</li> | React, MondoDB, Express, Node.JS, CSS, Jest, Cypress, Cakewalk, Helm, Synth1 |
+|[ACEBOOK](https://github.com/ChangWynn/MAKERS-ACADEMY_acebook-project) | A light version of the facebook application where users can:<br/> <ul><li>signup/login</li><li>post new messages and photos</li><li>like and comment</li><li>manage their accounts</li> | React, Node.Js, MongoDB, Express, JWT, CSS, Jest, Cypress |
+|[MAKERSBnB](https://github.com/ChangWynn/MAKERS_ACADEMY_makersBnB-project) | A clone of the AirBnB application where users can:<br/> <ul><li>signup/login</li><li>list or book a room</li><li>search available rooms by date</li><li>manage their bookings</li> | Ruby, Sinatra, PostgreSQL, CSS, Rspec |
 
 ---
 
@@ -83,14 +81,12 @@ I am excited to contribute to the tech community where I can leverage my skills 
 ###### January-May 2023 (London, UK)
 ### MAKERS ACADEMY - Software Engineer Bootcamp
 
-Makers Academy is a prestigious coding bootcamp known for its immersive learning environment, <br/> 
-featuring a 16-week curriculum and emphasising teamwork and collaboration through pair programming and engineering projects to consistently deliver high-quality code and solutions.
+A 16-week immersive curriculum emphasising teamwork and collaboration through pair programming and engineering projects to consistently deliver high-quality code and solutions.
 
 Here are the highlights of what I have learned:
 
 #### Full-Stack Development
-- Planning and organising a full-stack project.
-
+- Planning and organising full-stack projects.
 - Building both front-end and back-end components of web applications.
 - Defining endpoints and making HTTP requests.
 - Working with databases.
@@ -101,7 +97,7 @@ Here are the highlights of what I have learned:
     - Object-Oriented Programming (OOP)
     - Test-Driven Development (TDD)
     - Model-View-Controller (MVC)
-    - Agile
+    - Agile, XP
 <!-- - Designing a software architecture. -->
 <!-- - Performing unit-tests, integration tests and end-to-end tests (e2e). -->
 <!-- - Conducting code reviews for quality and adherence to coding standards. -->
@@ -121,31 +117,34 @@ Here are the highlights of what I have learned:
 <a name="work-experience"></a>
 ## WORK EXPERIENCE
 
+###### 2019-current
 ### Casino Gaming Inspector
- - **Playboy Club/Metropolitan Mayfair** - *2019 to present*
+ - **Playboy Club/Metropolitan Mayfair** - *London, UK*
 
     - Monitored casino games to ensure compliance with regulations and procedures, maintaining a fair and secure gaming environment.
     - Supported dealers with accurate payouts and facilitated smooth gaming sessions, contributing to customer satisfaction and gameplay quality.
     - Reported relevant gaming activities to the management team, providing valuable insights for decision-making and maintaining transparency.
     - Collaborated with the surveillance team to investigate and resolve disputes or disruptions, ensuring a seamless and enjoyable gaming experience.
 
-### Casino Gaming Dealer
-- **Empire Casino** - *2017-2019*<br/>
-- **Aspers Casino Newcastle** - *2016-2017*
+###### 2016-2019
+### Casino Game Dealer
+- **Empire Casino** - *London, UK*
+- **Aspers Casino** - *Newcastle, UK*
 
     - Conducted casino games including Roulette and BlackJack performing quick and accurate payouts, ensuring an optimal game pace and smooth operations of the casino business.
     - Collaborated with the inspector through clear commentaries and communicated relevant gaming activities, ensuring a transparent and secure gaming environment.
-    - Maintained a positive and upbeat attitude at all time to enhance the overall casino experience and deliver excellent customer service.
 
+###### 2012-2015
 ### Store Manager
-- **Tel and Com**  - *2012-2015*
+- **Tel and Com**  - *Troyes, France*
 
     - Oversaw daily operations of the store, including inventory management and staff supervision, ensuring seamless business operation.
     - Planned and implemented effective sales strategies, leading to the achievement of sales targets and increased profitability.
     - Provided guidance, training, and performance evaluations for a team of sales associates, contributing to their high-performance levels and overall success of the business.
 
+###### 2010-2012
 ### Sales Associate
-- **Tel and Com** - *2010-2012*
+- **Tel and Com** - *Troyes, France*
 
     - Utilised selling techniques and problem-solving skills to close sales and achieve team weekly targets, contributing to business revenue and profitability.
     - Provided personalised customer service by understanding and fulfilling user requirements, offering accurate product and service recommendations.
@@ -158,14 +157,15 @@ Here are the highlights of what I have learned:
 ## SKILLS
 
 ### Positive attitude & Resilience
-- Maintained a positive and upbeat attitude accross past experiences to ensure an enjoyable experience for patrons and deliver an exceptional customer service.
+- Maintained a positive and upbeat attitude across past experiences to ensure an enjoyable experience for patrons and deliver exceptional customer service.
 - Demonstrated a naturally fierce resilience in handling difficult high-pressure situations encountered while dealing with high-value customers at the Metropolitan Mayfair Casino.
+- Awarded as a role model for excellent customer service, exemplary attitude and exceptional dealing skills during employment at the Empire Casino.
 
 ### Growth Mindset
 - Self-driven and highly disciplined attitude with a strong commitment to setting and achieving objectives gained through training towards a semi-marathon and various sport competitions.
 - Genuine enthusiasm for learning new technologies and staying up-to-date with industry trends.
 - Currently learning advanced concepts of the React Framework and eager to explore technologies such as with Typescript, React Native, GraphQL, AWS and more.
-- Recognized for exemplary attitude and professional improvement, resulting in promotions in both the retail and gaming industries.
+- Acknowledged for outstanding attitude and continual professional growth, leading to promotions to higher positions in both the retail and gaming industries.
 
 ### Communication
 - Showcased excellent communication to effectively report gaming activities to both the management and surveillance team at the Metropolitan Mayfair Casino.
@@ -177,9 +177,12 @@ Here are the highlights of what I have learned:
 - Applied a strong teamwork mindset as a sales associate to achieve collective targets at Tel and Com.
 - Actively engaged in pair programming and made valuable contributions to engineering projects at Makers Academy.
 
+
 ### Problem-Solving
-- developed a system to keep track of customers' accessories orders during employment at Tel and Com.
-- created a method for rapid mental calculation of Baccarat's 225 to 1 payout during employment at the Empire Casino.
+- Displayed quick-thinking and excellent problem-solving skills in the casino industry to provide quick and accurate payouts in a fast-paced environment, ensuring optimal game pace.
+- Developed a system to keep track of customers' accessories orders during employment at Tel and Com.
+- Created a technique for rapid mental calculation of Baccarat's 225 to 1 payout during employment at the Empire Casino.
+
 
 <!-- #### Self-Motivation
 - Self-driven attitude and highly disciplined with a strong commitment to setting and achieving objectives.
@@ -225,37 +228,28 @@ I am currently learning advanced concepts of the React Framework and I intend to
 <a name="education"></a>
 ## EDUCATION
 
-### 2020/2023 - UDEMY COURSE CERTIFICATIONS
-```
-- React, the complete guide - May 2023
-- JavaScript unit-testing with Jest and Vitest - April 2023
-- Testing Ruby with Rspec: The Complete Guide - Feb 2023
-- The Linux Command Line Bootcamp - Feb 2023
-- Learn to code with Ruby - Sept 2022
-- The complete JavaScript course - oct 2020
-- Advanced CSS and SASS - oct 2020
-- Modern HTML/CSS (including SASS) - sept 2020
+### UDEMY COURSE CERTIFICATIONS
+- React, the complete guide - *May 2023*
+- JavaScript unit-testing with Jest and Vitest - *April 2023*
+- Testing Ruby with Rspec: The Complete Guide - *February 2023*
+- The Linux Command Line Bootcamp - *February 2023*
+- Learn to code with Ruby - *September 2022*
+- The complete JavaScript course - *October 2020*
+- Advanced CSS and SASS - *October 2020*
+- Modern HTML/CSS (including SASS) - *September 2020*
 
 In my wishlist: TypeScript, React Native, GraphQL, Electron.js, C#, 
 Algorithms and Data Structures and more.
-```
-
 
 ### 2016 - CERUS CASINO ACADEMY - Manchester, UK
-```
 - Casino Dealer Graduate
-```
 <!-- - UK gaming regulations and procedures.
 - American Roulette, BlackJack and Poker.
 - Mental arithmetic skills -->
 
 
 ### 2010 - TROYES UNIVERSITY - France
-```
-- BTEC HND Business Management
-
-UK equivalent for the french BTS Management des Unités Commerciales
-```
+- French BTEC HND Business Management
 
 
 <!-- - Understanding of management principles.
@@ -264,12 +258,8 @@ UK equivalent for the french BTS Management des Unités Commerciales
 - Presentation and communication skills for delivering reports and presentations. -->
 
 
-### 2006 - JACQUES AMYOT HIGH SCHOOL - France
-```
-- A-LEVEL Economics and Social Sciences
-
-UK equivalent for the french Baccalauréat Economique et Social
-```
+### 2006 - JACQUES AMYOT HIGH SCHOOL
+- French A-LEVEL Economics and Social Sciences
 
 <!-- - Foundation in economics principles and market dynamics.
 - Foundation in social sciences and their impact on society. -->
@@ -279,15 +269,15 @@ UK equivalent for the french Baccalauréat Economique et Social
 <a name="hobbies"></a>
 ## HOBBIES
 
-![travel](https://img.shields.io/badge/%20-%23travel%20-4EA94B?style=flat)
-![photography](https://img.shields.io/badge/%20-%23photography%20-4EA94B?style=flat)
-![film-making](https://img.shields.io/badge/%20-%23film--making%20-4EA94B?style=flat)
+![travel](https://img.shields.io/badge/%20-%23travel%20-4EA94B?style=for-the-badge)
+![photography](https://img.shields.io/badge/%20-%23photography%20-4EA94B?style=for-the-badge)
+![film-making](https://img.shields.io/badge/%20-%23film--making%20-4EA94B?style=for-the-badge)
 
-![kick-boxing](https://img.shields.io/badge/%20-%23kick--boxing%20-4EA94B?style=flat)
-![running](https://img.shields.io/badge/%20-%23running%20-4EA94B?style=flat)
-![hiking](https://img.shields.io/badge/%20-%23hiking%20-4EA94B?style=flat)
+![kick-boxing](https://img.shields.io/badge/%20-%23kick--boxing%20-4EA94B?style=for-the-badge)
+![running](https://img.shields.io/badge/%20-%23running%20-4EA94B?style=for-the-badge)
+![hiking](https://img.shields.io/badge/%20-%23hiking%20-4EA94B?style=for-the-badge)
 
-![video-games](https://img.shields.io/badge/%20-%23video--games%20-4EA94B?style=flat)
-![coding](https://img.shields.io/badge/%20-%23coding%20-4EA94B?style=flat)
-![movies](https://img.shields.io/badge/%20-%23movies%20-4EA94B?style=flat)
-![musicals](https://img.shields.io/badge/%20-%23musicals%20-4EA94B?style=flat)
+![video-games](https://img.shields.io/badge/%20-%23video--games%20-4EA94B?style=for-the-badge)
+![coding](https://img.shields.io/badge/%20-%23coding%20-4EA94B?style=for-the-badge)
+![movies](https://img.shields.io/badge/%20-%23movies%20-4EA94B?style=for-the-badge)
+![musicals](https://img.shields.io/badge/%20-%23musicals%20-4EA94B?style=for-the-badge)
