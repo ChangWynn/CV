@@ -42,7 +42,7 @@
 
  <div align="center">
 
-[Intro](#intro) | [Projects](#projects) | [Tech Experience](#tech-experience) | [Skills](#skills) | [Work Experience](#work-experience) | [Education](#education) | [Hobbies](#hobbies)
+[Intro](#intro) | [Projects](#projects) | [Tech Experience](#tech-experience) | [Work Experience](#work-experience) | [Skills](#skills) |  [Education](#education) | [Hobbies](#hobbies)
 
 
 </div>
@@ -70,7 +70,7 @@ I am excited to contribute to the tech community where I can leverage my skills 
 
 | NAME | DESCRIPTION | TECH/TOOLS |
 |:----:|:-----------:|:----------:|
-|[YAHTZEE](https://github.com/ChangWynn/MAKERS-ACADEMY_yahtzee-project) | An adaptation of the classic dice game set in a cyberpunk universe with features including score ranking in a leaderboard, local multiplayer, AI player. | React, MondoDB, Express, Node.JS, CSS, Jest, Cypress, Cakewalk, Helm, Synth1 |
+|[YAHTZEE](https://github.com/ChangWynn/MAKERS-ACADEMY_yahtzee-project) | An adaptation of the classic dice game set in a cyberpunk universe with features including a leaderboard, local multiplayer, AI player. | React, MondoDB, Express, Node.JS, CSS, Jest, Cypress, Cakewalk, Helm, Synth1 |
 |[ACEBOOK](https://github.com/ChangWynn/MAKERS-ACADEMY_acebook-project) | A light version of the facebook application where users can signup/login, post new messages and photos, like and comment and manage their accounts. | React, Node.Js, MongoDB, Express, JWT, CSS, Jest, Cypress |
 |[NEWS SUMMARY](https://github.com/ChangWynn/news-summary-challenge) | A web app showcasing The Guardian's top 10 headlines through a keyword search feature. | JavaScript, HTML, CSS, Jest |
 |[MAKERSBnB](https://github.com/ChangWynn/MAKERS_ACADEMY_makersBnB-project) | A clone of the AirBnB application where users can signup/login, list or book a room, search for available rooms by date and manage their bookings. | Ruby, Sinatra, PostgreSQL, CSS, Rspec |
@@ -78,7 +78,7 @@ I am excited to contribute to the tech community where I can leverage my skills 
 ---
 
 <a name="tech-experience"></a>
-# { TECH EXPERIENCE }
+# TECH EXPERIENCE
 
 ###### January-May 2023 (London, UK)
 ## MAKERS ACADEMY
@@ -119,22 +119,83 @@ Here are the highlights of what I have learned:
 
 ---
 
-<a name="skills"></a>
-## { SKILLS }
+<a name="work-experience"></a>
+# WORK EXPERIENCE
 
-#### Self-Motivation
+### Casino Inspector
+**Playboy Club/Metropolitan Mayfair** - *2019 to present*
+
+- Monitored casino games to ensure compliance with regulations and procedures, maintaining a fair and secure gaming environment.
+- Reported relevant gaming activities to the management team, providing valuable insights for decision-making and maintaining transparency.
+- Collaborated with the surveillance team to investigate and resolve disputes or disruptions, ensuring a seamless and enjoyable gaming experience.
+- Supported dealers with accurate payouts and facilitated smooth gaming sessions, contributing to customer satisfaction and gameplay quality.
+
+### Casino dealer
+**Empire Casino** - *2017-2019*<br/>
+**Aspers Casino Newcastle** - *2016-2017*
+
+- Conducted casino games including Roulette and BlackJack performing quick and accurate payouts, ensuring an optimal game pace and smooth operations of the casino business.
+- Collaborated with the inspector through clear commentaries and communicated relevant gaming activities, ensuring a transparent and secure gaming environment.
+- Maintained a positive and upbeat attitude at all time to enhance the overall casino experience and deliver excellent customer service.
+
+### Store Manager
+**Tel and Com**  - *2012-2015*
+
+- Oversaw daily operations of the store, including inventory management and staff supervision, ensuring seamless business operation.
+- Planned and implemented effective sales strategies, leading to the achievement of sales targets and increased profitability.
+- Provided guidance, training, and performance evaluations for a team of sales associates, contributing to their high-performance levels and overall success of the business.
+
+### Sales Associate
+**Tel and Com** - *2010-2012*
+
+- Utilised selling techniques and problem-solving skills to close sales and achieve team weekly targets, contributing to business revenue and profitability.
+- Provided personalised customer service by understanding and fulfilling user requirements, offering accurate product and service recommendations.
+- Assisted customers, addressing their needs and resolving issues, ensuring high-levels of customer satisfaction.
+
+
+---
+
+<a name="skills"></a>
+# SKILLS
+
+## Communication
+- Developed excellent communication skills over the years to effectively report gaming activities to both the management and surveillance team. 
+- Gained proficiency in communicating technical concepts to non-technical parties to efficiently answer customer needs at Tel and Com.
+- Actively engaged with communication tools, such as Slack, by consistently interacting with my peers at Makers Academy.
+
+## Teamwork & Collaboration
+- Developed strong collaboration skills as a casino inspector to efficiently report gaming activities to both the management team and surveillance team at Metropolitan Mayfair Casino.
+- Actively engaged in pair programming and engineering projects at the Software Engineer Bootcamp.
+
+## Positive attitude & Resilience
+- Possess a positive and upbeat attitude, vital quality accross my past working experience to ensure an enjoyable experience for patrons and delivering an exceptional customer service.
+- With a naturally fierce resilience, I maintain composure in difficult and high-pressure situations—a crucial skill to possess when dealing with high-value customers at the Metropolitan Mayfair Casino.
+
+## Growth Mindset
+- Self-driven and highly disciplined attitude with a strong commitment to setting and achieving objectives gained through training towards a semi-marathon and various sport competitions.
+- Genuine enthusiasm for learning new technologies and staying up-to-date with industry trends.
+- Currently learning advanced concepts of the React Framework and intention to with various technologies such as with Typescript, React Native, GraphQL, AWS and more.
+
+## Problem-Solving
+- created a system to keep track of customers accessories orders at Tel and Com.
+- Elaborated a system to rapidly mentally calculate a Baccarat's 225 to 1 payout at the Empire Casino.
+
+
+
+
+<!-- #### Self-Motivation
 - Self-driven attitude and highly disciplined with a strong commitment to setting and achieving objectives.
 
-As someone who enjoys running, I understand the importance of having clear goals as they provide the motivation needed to push through. The absence of defined goals makes it easy to give up when faced with difficulties. This mindset extends beyond running and into my professional endeavors, where I consistently strive for excellence and continued growth by setting clear objectives.
+As someone who enjoys running, I understand the importance of having clear goals as they provide the motivation needed to push through. The absence of defined goals makes it easy to give up when faced with difficulties. This mindset extends beyond running and into my professional endeavors, where I consistently strive for excellence and continued growth by setting clear objectives. -->
 
 
-#### Teamwork
+<!-- #### Teamwork
 - Collaborative mindset, I actively engaged in pair programming and engineering projects at the Software Engineer Bootcamp.
 - Excellent ability to work effectively in diverse teams, I value different perspectives and contribute to a positive team dynamic.
 
-I enjoyed working on engineering projects within teams, I actively participated in all stages of the development process. From brainstorming and planning to implementation and testing, I consistently engaged in collaborative decision-making processes. I valued the diverse perspectives, ensuring that the final outcome was a result of collective agreement.
+I enjoyed working on engineering projects within teams, I actively participated in all stages of the development process. From brainstorming and planning to implementation and testing, I consistently engaged in collaborative decision-making processes. I valued the diverse perspectives, ensuring that the final outcome was a result of collective agreement. -->
 
-#### Communication
+<!-- #### Communication
 - Excellent verbal and written communication skills demonstrated through team projects during the Software Engineer Bootcamp.
 - Active engagement with communication tools, such as Slack, by consistently interacting with my peers.
 - Proactive sharing of useful information and resources with the team to enhance collaboration and knowledge sharing.
@@ -159,52 +220,15 @@ I proctively participated in code reviews assessed by experienced professionals 
 - Genuine enthusiasm for learning new technologies and staying up-to-date with industry trends. 
 - Recently completed Udemy certifications in React, JavaScript testing, Ruby testing, and The Linux Command Line Bootcamp, among others.
 
-I am currently learning advanced concepts of the React Framework and I intend to pursue my learning journey with React Native, GraphQL, AWS and so much more.
-
----
-
-<a name="work-experience"></a>
-# { WORK EXPERIENCE }
-
-### Casino Inspector
-**Playboy Club/Metropolitan Mayfair** - *2019 to present*
-
-- Monitored casino games to ensure compliance with regulations and procedures, maintaining a fair and secure gaming environment.
-- Reported relevant gaming activities to the management team, providing valuable insights for decision-making and maintaining transparency.
-- Collaborated with the surveillance team to investigate and resolve disputes or disruptions, ensuring a seamless and enjoyable gaming experience.
-- Supported dealers with accurate payouts and facilitated smooth gaming sessions, contributing to customer satisfaction and gameplay quality.
-
-### Casino dealer
-**Empire Casino** - *2017-2019*<br/>
-**Aspers Casino Newcastle** - *2016-2017*
-
-- Conducted casino games including Roulette and BlackJack performing quick and accurate payouts, ensuring an optimal game pace and smooth operations of the casino business.
-- Collaborated with the inspector through clear commentaries and communicated relevant gaming activities, ensuring a transparent and secure gaming environment.
-- Maintained a positive and upbeat attitude at all time to enhance the overall casino experience and deliver excellent customer service.
-
-### Store Manager
-**Tel and Com**  - *2012-2015*
-
-- Oversaw daily operations of the store, including inventory management and staff supervision, ensuring a seamless business operation.
-- Planned and implemented effective sales strategies, leading to the achievement of sales targets and increased profitability.
-- Provided guidance, training, and performance evaluations for a team of sales associates, contributing to their high-performance levels and overall success of the business.
-
-### Sales Associate
-**Tel and Com** - *2010-2012*
-
-- Provided personalised customer service by understanding and fulfilling user requirements, offering accurate product and service recommendations.
-- Maintained a positive and upbeat attitude to create a professional and enjoyable experience for customers, ultimately contributing to their satisfaction.
-- Utilised selling techniques and problem-solving skills to close sales and achieve weekly targets, ensuring business profitability.
-- Assisted and supported customers, addressing their needs and resolving any issues, resulting in high levels of customer satisfaction.
-
+I am currently learning advanced concepts of the React Framework and I intend to pursue my learning journey with React Native, GraphQL, AWS and so much more. -->
 
 ---
 
 <a name="education"></a>
-# { EDUCATION }
+# EDUCATION
 
 ### 2020/2023 - UDEMY COURSE CERTIFICATIONS
-
+```
 - React, the complete guide - May 2023
 - JavaScript unit-testing with Jest and Vitest - April 2023
 - Testing Ruby with Rspec: The Complete Guide - Feb 2023
@@ -214,26 +238,26 @@ I am currently learning advanced concepts of the React Framework and I intend to
 - Advanced CSS and SASS - oct 2020
 - Modern HTML/CSS (including SASS) - sept 2020
 
-
-In my wishlist: React Native, Electron.js, TypeScript, GraphQL, C#, Algorithms and Data Structures and more
-
+In my wishlist: TypeScript, React Native, GraphQL, Electron.js, C#, 
+Algorithms and Data Structures and more.
+```
 
 
 ### 2016 - CERUS CASINO ACADEMY - Manchester, UK
-
+```
 - Casino Dealer Graduate
-
-
+```
 <!-- - UK gaming regulations and procedures.
 - American Roulette, BlackJack and Poker.
 - Mental arithmetic skills -->
 
 
 ### 2010 - TROYES UNIVERSITY - France
-
+```
 - BTEC HND Business Management
 
 UK equivalent for the french BTS Management des Unités Commerciales
+```
 
 
 <!-- - Understanding of management principles.
@@ -243,11 +267,11 @@ UK equivalent for the french BTS Management des Unités Commerciales
 
 
 ### 2006 - JACQUES AMYOT HIGH SCHOOL - France
-
+```
 - A-LEVEL Economics and Social Sciences
 
 UK equivalent for the french Baccalauréat Economique et Social
-
+```
 
 <!-- - Foundation in economics principles and market dynamics.
 - Foundation in social sciences and their impact on society. -->
@@ -255,7 +279,7 @@ UK equivalent for the french Baccalauréat Economique et Social
 ---
 
 <a name="hobbies"></a>
-# { HOBBIES }
+# HOBBIES
 
 ![travel](https://img.shields.io/badge/%20-%23travel%20-4EA94B?style=flat)
 ![photography](https://img.shields.io/badge/%20-%23photography%20-4EA94B?style=flat)
