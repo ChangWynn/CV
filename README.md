@@ -158,18 +158,18 @@ Here are the highlights of what I have learned:
 ## SKILLS
 
 ### Positive attitude & Resilience
-- Maintained a positive and upbeat attitude across past experiences to ensure an enjoyable experience for patrons and deliver exceptional customer service.
+- Displayed a positive and upbeat attitude across past experiences to ensure an enjoyable experience for patrons and deliver exceptional customer service.
 - Demonstrated a naturally fierce resilience in handling high-pressure situations encountered while dealing with high-value customers at the Metropolitan Mayfair Casino.
 - Awarded 'Role Model' for excellent customer service, exemplary attitude and exceptional dealing skills during employment at the Empire Casino.
 
 ### Growth Mindset
-- Self-driven and highly disciplined attitude with a strong commitment to setting and achieving objectives gained through training towards a semi-marathon and various sport competitions.
-- Genuine enthusiasm for learning new technologies and staying up-to-date with industry trends.
+- Self-driven and highly disciplined mindset with a strong commitment to setting and achieving objectives gained through training towards a semi-marathon and various sport competitions.
+- Genuine enthusiasm for learning and staying up-to-date with industry trends.
 - Currently learning advanced concepts of the React Framework and eager to explore technologies such as with Typescript, React Native, GraphQL, AWS and more.
-- Acknowledged for outstanding attitude and continual professional growth, leading to promotions to higher positions in both the retail and gaming industries.
+- Acknowledged for continual professional growth, leading to promotions to higher positions in both the retail and gaming industries.
 
 ### Communication
-- Showcased excellent communication to effectively report gaming activities to both the management and surveillance team at the Metropolitan Mayfair Casino.
+- Showcased excellent communication in reporting gaming activities to both the management and surveillance team at the Metropolitan Mayfair Casino.
 - Proficient in conveying technical concepts to non-technical individuals to address customer needs and requirements at Tel and Com.
 - Actively engaged with communication tools, such as Slack, by consistently interacting with my peers at Makers Academy.
 
@@ -180,7 +180,7 @@ Here are the highlights of what I have learned:
 
 
 ### Problem-Solving
-- Displayed quick-thinking and excellent problem-solving skills in the casino industry to provide quick and accurate payouts in a fast-paced environment, ensuring optimal game pace.
+- Showcased quick-thinking and excellent problem-solving skills in the casino industry to deliver accurate payouts in a fast-paced environment, ensuring optimal game pace.
 - Developed a system to keep track of customers' accessories orders during employment at Tel and Com.
 - Created a technique for rapid mental calculation of Baccarat's 225 to 1 payout during employment at the Empire Casino.
 
