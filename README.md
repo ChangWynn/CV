@@ -42,7 +42,7 @@
 
  <div align="center">
 
-[Intro](#intro) | [Projects](#projects) | [Tech Experience](#tech-experience) | [Work Experience](#work-experience) | [Skills](#skills) |  [Education](#education) | [Hobbies](#hobbies)
+[Intro](#intro) | [Projects](#projects) | [Tech Experience](#tech-experience) | [Work Experience](#work-experience) | [Skills](#skills) |  [Education](#education) | [Hobbies](#hobbies) | [Languages](#languages)
 
 
 </div>
@@ -288,8 +288,8 @@ Algorithms and Data Structures and more.
 <a name="languages"></a>
 ## LANGUAGES
 
-![english](https://img.shields.io/badge/english-fluent-4EA94B?style=for-the-badge)
+![english](https://img.shields.io/badge/ENGLISH-Fluent-4EA94B?style=for-the-badge)
   
-![french](https://img.shields.io/badge/french-fluent-4EA94B?style=for-the-badge)
+![french](https://img.shields.io/badge/FRENCH-Fluent-4EA94B?style=for-the-badge)
   
-![vietnamese](https://img.shields.io/badge/vietnamese-intermediate-orange?style=for-the-badge)
+![vietnamese](https://img.shields.io/badge/VIETNAMESE-Intermediate-orange?style=for-the-badge)
