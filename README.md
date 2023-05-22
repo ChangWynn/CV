@@ -17,9 +17,10 @@
   ![sinatra](https://img.shields.io/badge/SINATRA-000000?style=flat&logoColor=white&logo=rubysinatra)
   ![postgresql](https://img.shields.io/badge/POSTGRESQL-316192?style=flat&logoColor=white&logo=postgresql) * 
   ![rspec](https://img.shields.io/badge/RSPEC-fe405f?style=flat&logoColor=white&logo=rubygems)
-  ![jest](https://img.shields.io/badge/JEST-C21325?style=flat&logoColor=white&logo=jest) *
-  ![git](https://img.shields.io/badge/GIT-F05032?style=flat&logoColor=white&logo=git)
-  ![github](https://img.shields.io/badge/GITHUB-181717?style=flat&logoColor=white&logo=github)
+  ![jest](https://img.shields.io/badge/JEST-C21325?style=flat&logoColor=white&logo=jest) 
+  ![cypress](https://img.shields.io/badge/CYPRESS-1ec588?style=flat&logoColor=white&logo=cypress)
+<!--   ![git](https://img.shields.io/badge/GIT-F05032?style=flat&logoColor=white&logo=git)
+  ![github](https://img.shields.io/badge/GITHUB-181717?style=flat&logoColor=white&logo=github) -->
   
  </div>
 
@@ -92,7 +93,7 @@ Here are the highlights of what I have learned:
 - Working with databases.
 - Utilising Git and GitHub for version control and collaboration.
 - Problem-solving and debugging.
-- Deploying and maintaining the software solution.
+- Deploying and maintaining software solutions.
 - Applied popular methodologies and practices:
     - Object-Oriented Programming (OOP)
     - Test-Driven Development (TDD)
@@ -121,7 +122,7 @@ Here are the highlights of what I have learned:
 ### Casino Gaming Inspector
  - **Playboy Club/Metropolitan Mayfair** - *London, UK*
 
-    - Monitored casino games to ensure compliance with regulations and procedures, maintaining a fair and secure gaming environment.
+    - Monitored casino games to ensure compliance with regulations and procedures, maintaining fair and secure gaming environments.
     - Supported dealers with accurate payouts and facilitated smooth gaming sessions, contributing to customer satisfaction and gameplay quality.
     - Reported relevant gaming activities to the management team, providing valuable insights for decision-making and maintaining transparency.
     - Collaborated with the surveillance team to investigate and resolve disputes or disruptions, ensuring a seamless and enjoyable gaming experience.
@@ -131,15 +132,15 @@ Here are the highlights of what I have learned:
 - **Empire Casino** - *London, UK*
 - **Aspers Casino** - *Newcastle, UK*
 
-    - Conducted casino games including Roulette and BlackJack performing quick and accurate payouts, ensuring an optimal game pace and smooth operations of the casino business.
-    - Collaborated with the inspector through clear commentaries and communicated relevant gaming activities, ensuring a transparent and secure gaming environment.
+    - Conducted casino games including Roulette and BlackJack performing quick and accurate payouts, ensuring an optimal game pace and customer satisfaction.
+    - Collaborated with the inspector through clear commentaries and communicating relevant gaming activities, ensuring a transparent and secure gaming environments.
 
 ###### 2012-2015
 ### Store Manager
 - **Tel and Com**  - *Troyes, France*
 
     - Oversaw daily operations of the store, including inventory management and staff supervision, ensuring seamless business operation.
-    - Planned and implemented effective sales strategies, leading to the achievement of sales targets and increased profitability.
+    - Planned and implemented effective sales strategies, ensuring achievement of sales targets and increased profitability.
     - Provided guidance, training, and performance evaluations for a team of sales associates, contributing to their high-performance levels and overall success of the business.
 
 ###### 2010-2012
