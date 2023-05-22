@@ -157,9 +157,9 @@ Here are the highlights of what I have learned:
 ## SKILLS
 
 ### Positive attitude & Resilience
-- Displayed a positive and upbeat attitude across past experiences to ensure an enjoyable experience for patrons and deliver exceptional customer service.
-- Demonstrated a fierce resilience in handling high-pressure situations encountered while dealing with high-value customers at the Metropolitan Mayfair Casino.
-- Awarded 'Role Model' for excellent customer service, exemplary attitude and exceptional dealing skills during employment at the Empire Casino.
+- Consistently displayed a positive and upbeat attitude across past experiences to ensure an enjoyable experience for patrons and deliver exceptional customer service.
+- Demonstrated a fierce resilience in handling high-pressure situations such as dealing to high-value customers at the Metropolitan Mayfair Casino.
+- Awarded the 'Role Model' title for excellent customer service, exemplary attitude and exceptional dealing skills during employment at the Empire Casino.
 
 ### Growth Mindset
 - Self-driven and highly disciplined mindset with a strong commitment to setting and achieving objectives gained through training towards a semi-marathon and various sport competitions.
@@ -168,21 +168,25 @@ Here are the highlights of what I have learned:
 - Acknowledged for continual professional growth, leading to promotions to higher positions in both the retail and gaming industries.
 
 ### Communication
-- Showcased excellent communication in reporting gaming activities to both the management and surveillance team at the Metropolitan Mayfair Casino.
-- Proficient in conveying technical concepts to non-technical individuals to address customer needs and requirements at Tel and Com.
-- Actively engaged with communication tools, such as Slack, by consistently interacting with my peers at Makers Academy.
+- Showcased excellent communication skills in reporting gaming activities to both the management and surveillance team at the Metropolitan Mayfair Casino.
+- Proficient in conveying technical concepts to non-technical individuals, a crucial skill to effectively address customer needs and requirements at Tel and Com.
+- Actively engage with communication tools, such as Slack, by consistently interacting with my peers at Makers Academy.
 
 ### Teamwork & Collaboration
-- Developed strong collaboration skills working alongside dealers or inspectors to ensure smooth gaming sessions for punters in the casino industry.
-- Applied a strong teamwork mindset as a sales associate to achieve collective targets at Tel and Com.
-- Actively engaged in pair programming and made valuable contributions to engineering projects at Makers Academy.
+- Developed strong collaboration skills working alongside dealers or inspectors, ensuring smooth gaming sessions for punters in the casino industry.
+- Cultivated a strong teamwork mindset as a sales associate to achieve collective targets at Tel and Com.
+- Actively engage in pair programming and make valuable contributions to engineering projects at Makers Academy.
 
 
 ### Problem-Solving
-- Showcased quick-thinking and excellent problem-solving skills in the casino industry to deliver accurate payouts in a fast-paced environment, ensuring optimal game pace.
+- Showcased quick-thinking abilities and excellent problem-solving skills in the casino industry, delivering accurate payouts in a fast-paced environment and ensuring optimal game pace.
 - Developed a system to keep track of customers' accessories orders during employment at Tel and Com.
-- Created a technique for rapid mental calculation of Baccarat's 225 to 1 payout during employment at the Empire Casino.
+- Created a technique to rapidly calculate a Baccarat's 225 to 1 payout during employment at the Empire Casino.
 
+### Programming
+- Possess a deep interest in understanding how a programming language works behind the scenes, contributing to a good understanding of complex concepts and building confidence in coding skills.
+- Developed strong logical thinking abilities through completing numerous challenges on Codewars and Coderbyte.
+- Currently hold a 4kyu rank with over 800 honor on Codewars and I have completed 70+ challenges on Coderbyte.
 
 <!-- #### Self-Motivation
 - Self-driven attitude and highly disciplined with a strong commitment to setting and achieving objectives.
