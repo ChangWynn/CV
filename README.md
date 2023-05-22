@@ -126,9 +126,9 @@ Here are the highlights of what I have learned:
 **Playboy Club/Metropolitan Mayfair** - *2019 to present*
 
 - Monitored casino games to ensure compliance with regulations and procedures, maintaining a fair and secure gaming environment.
+- Supported dealers with accurate payouts and facilitated smooth gaming sessions, contributing to customer satisfaction and gameplay quality.
 - Reported relevant gaming activities to the management team, providing valuable insights for decision-making and maintaining transparency.
 - Collaborated with the surveillance team to investigate and resolve disputes or disruptions, ensuring a seamless and enjoyable gaming experience.
-- Supported dealers with accurate payouts and facilitated smooth gaming sessions, contributing to customer satisfaction and gameplay quality.
 
 ### Casino dealer
 **Empire Casino** - *2017-2019*<br/>
