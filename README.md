@@ -282,3 +282,14 @@ Algorithms and Data Structures and more.
 ![coding](https://img.shields.io/badge/%20-%23coding%20-4EA94B?style=for-the-badge)
 ![movies](https://img.shields.io/badge/%20-%23movies%20-4EA94B?style=for-the-badge)
 ![musicals](https://img.shields.io/badge/%20-%23musicals%20-4EA94B?style=for-the-badge)
+  
+---
+
+<a name="languages"></a>
+## LANGUAGES
+
+![english](https://img.shields.io/badge/english-fluent-4EA94B?style=for-the-badge)
+  
+![french](https://img.shields.io/badge/french-fluent-4EA94B?style=for-the-badge)
+  
+![vietnamese](https://img.shields.io/badge/vietnamese-intermediate-orange?style=for-the-badge)
