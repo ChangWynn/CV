@@ -119,18 +119,22 @@ Here are the highlights of what I have learned:
 ###### 2019-current
 ### Casino Gaming Inspector
  - **Playboy Club/Metropolitan Mayfair** - *London, UK*
-
-    - Supervised casino games to ensure compliance with regulations and procedures, maintaining a fair and secure gaming environment.
-    - Supervised and supported dealers with accurate payouts and smooth gaming sessions, contributing to customer satisfaction and optimal game pace.
-    - Collaborated with both the management and surveillance team reporting relevant gaming activities to facilitate decision-making and maintain transparency.
+  
+    - Supervised and supported dealers with delivering accurate payouts and smooth gaming sessions, contributing to customer satisfaction and optimal game pace.
+    - Developed a strong eye for details and analytical thinking skills while monitoring casino games, ensuring strict compliance with rules and procedures to maintain a fair and secure gaming environment.
+    - Demonstrated excellent communication skills in reporting relevant gaming activities to the management team. Providing valuable insights facilitate decision-making and maintain transparency.
+    - Collaborated with the surveillance team to investigate and resolve disputes or disruptions, ensuring a seamless and safe gaming experience.
+  
+<!--     - Supported dealers with delivering accurate payouts and smooth gaming sessions, contributing to customer satisfaction and optimal game pace. -->
+<!--     - Collaborated with both the management and surveillance team reporting relevant gaming activities to facilitate decision-making and maintain transparency. -->
 
 ###### 2016-2019
 ### Casino Game Dealer
 - **Empire Casino** - *London, UK*
 - **Aspers Casino** - *Newcastle, UK*
 
-    - Conducted casino games including Roulette and BlackJack with proficient dealing skills, ensuring an optimal game pace and customer satisfaction.
-    - Collaborated with the inspector through clear commentaries and communication of relevant gaming activities, ensuring transparent and secure gaming environments.
+    - Conducted casino games such as Roulette and BlackJack with proficient dealing skills, ensuring an optimal game pace and customer satisfaction.
+    - Collaborated with the inspector through clear commentaries and communication of relevant gaming activities, ensuring transparency and safe gaming environments.
 
 ###### 2012-2015
 ### Store Manager
