@@ -137,7 +137,7 @@ Here are the highlights of what I have learned:
 - **Tel and Com**  - *Troyes, France*
 
     - Oversaw daily operations of the store, including inventory management and staff supervision, ensuring seamless business operation.
-    - Planned and implemented effective sales strategies, ensuring achievement of sales targets and increased profitability.
+    - Planned and implemented sales strategies, ensuring achievement of sales targets and increased profitability.
     - Provided guidance, training, and performance evaluations for a team of sales associates, contributing to their high-performance levels and overall success of the business.
 
 ###### 2010-2012
