@@ -140,7 +140,7 @@ Aspers Casino - *Newcastle, UK*
 ### Store Manager
 Tel and Com - *Troyes, France*
 
-  - Led a team of sales associates, providing guidance, training, and performance evaluations to contribute to their high-performance levels and professionel development.
+  - Led a team of sales associates, providing guidance, training, and performance evaluations to contribute to their high-performance levels and professional development.
   - Demonstrated efficient analytical thinking and problem solving skills by analysing data and developing action plans to attract customers, increase foot traffic and generate business revenue. 
   - Led the store to consistently be the best regional branch for several weeks by implementing a scheme to reward loyal customers thanks to ability to reflect on past performance, resulting in a streak of overachieved targets.
 
@@ -153,7 +153,7 @@ Tel and Com - *Troyes, France*
 
   - Developed strong problem-solving skills by implementing a digital solution to replace the pen and paper method for tracking customers' accessories orders, resulting in a more effective process, significantly improving productivity.
   - Developed strong logical and analytical thinking skills in understanding and fulfilling user requirements, providing personalised customer service and making accurate product recommendations, resulting in a high-level of customer satisfaction.
-  - Showcased strong resilience in dealing with dissatisfied customers, addressing their requests and resolving issues while maintaining composure and calm demeanor, contributing to maintain customers loyalty. 
+  - Showcased strong resilience in dealing with dissatisfied customers, addressing their requests and resolving issues while maintaining composure and calm demeanour, contributing to maintaining customers loyalty. 
   
 <!--       - Demonstrated a keen teamwork mindset by working closely with coworkers to achieve collective sales targets, contributing to business revenue and profitability. -->
 <br/>
