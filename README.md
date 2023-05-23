@@ -120,38 +120,40 @@ Here are the highlights of what I have learned:
 ### Casino Gaming Inspector
  - **Playboy Club/Metropolitan Mayfair** - *London, UK*
   
-    - Supervised and supported dealers with delivering accurate payouts and smooth gaming sessions, contributing to customer satisfaction and optimising game pace.
-    - Developed a strong eye for details and analytical thinking skills while monitoring casino games, ensuring strict compliance with rules and procedures to maintain a fair and secure gaming environment.
+    - Demonstrated strong problem-solving abilities in creating and sharing a method to rapidly calculate a Baccarat's 225 to 1 payout, building confidence in dealer's skills.
+    - Supervised and supported dealers in delivering accurate payouts and facilitating smooth gaming sessions, ensuring customer satisfaction and optimising game pace.
+    - Developed a strong eye for details and honed analytical thinking skills while monitoring casino games, ensuring strict compliance with rules and procedures to maintain a fair and secure gaming environment.
     - Demonstrated excellent communication skills by reporting relevant gaming activities to the management team, providing valuable insights to facilitate decision-making and maintain transparency.
     - Collaborated with the surveillance team to investigate and resolve disputes or disruptions, ensuring a seamless and safe gaming experience.
-  
-<!--     - Supported dealers with delivering accurate payouts and smooth gaming sessions, contributing to customer satisfaction and optimal game pace. -->
-<!--     - Collaborated with both the management and surveillance team reporting relevant gaming activities to facilitate decision-making and maintain transparency. -->
 
 ###### 2016-2019
 ### Casino Game Dealer
 - **Empire Casino** - *London, UK*
 - **Aspers Casino** - *Newcastle, UK*
 
-    - Conducted casino games such as Roulette and BlackJack with proficient dealing skills, ensuring an optimal game pace and customer satisfaction.
-    - Collaborated with the inspector through clear commentaries and communication of relevant gaming activities, ensuring transparency and safe gaming environments.
+    - Developed quick thinking ability and excellent problem-solving skills to quickly calculate complex payouts in a fast-paced environment, maintaining gaming sessions at an optimal pace.
+    - Consistently displayed a positive and upbeat attitude to enhance the overall casino experience for patrons and deliver excellent customer service.
+    - Demonstrated natural resilience in handling high-pressure situations, such as high-value customers or customers on a losing streak, maintaining composure and professionalism to keep customer service level high.
 
 ###### 2012-2015
 ### Store Manager
 - **Tel and Com**  - *Troyes, France*
 
-    - Oversaw daily operations of the store, including inventory management and staff supervision, ensuring seamless business operation.
-    - Planned and implemented sales strategies, ensuring achievement of sales targets and increased profitability.
-    - Provided guidance, training, and performance evaluations for a team of sales associates, contributing to their high-performance levels and overall success of the business.
+    - Oversaw daily operations of the store such as schedules, inventory management and staff supervisions, ensuring seamless business operation.
+    - Led a team of sales associates, providing guidance, training, and performance evaluations, contributing to their high-performance levels and professionel development.
+    - Demonstrated efficient analytical thinking and problem solving skills reflecting on past performance and setting up plans of actions,   
+    - Designed, planned and implemented sales strategies such as creating bundles or promoting discount to attract customers, ensuring achievement of sales targets and increased profitability.
+    - Led the store to be continously the best regional branch for several weeks setting up a scheme to reward loyal customers thanks to ability to reflect on past performance, resulting in a streak of targets overachieved
+
 
 ###### 2010-2012
 ### Sales Associate
 - **Tel and Com** - *Troyes, France*
 
-    - Leveraged problem-solving skills and selling techniques to close sales and achieve collective targets, contributing to business revenue and profitability.
-    - Provided personalised customer service by understanding and fulfilling user requirements, offering accurate product and service recommendations.
-    - Assisted customers, addressing their needs and resolving issues, ensuring high-levels of customer satisfaction.
-
+    - Implemented a digital solution to replace the pen and paper method for tracking customers' accessories orders, resulting in a more effective process, significantly improving productivity.
+    - Developed strong logical and analytical thinking skills in understanding and fulfilling user requirements, providing personalised customer service and making accurate product recommendations, resulting in a high-level of customer satisfaction.
+    - Demonstrated a keen teamwork mindset by working closely with coworkers to achieve collective sales targets, contributing to business revenue and profitability.
+    - Showcased strong resilience in dealing with dissatisfied customers, addressing their requests and resolving issues while maintaining composure and calm demeanor, contributing to maintain customers loyalty. 
 
 ---
 
