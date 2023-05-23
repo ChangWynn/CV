@@ -118,77 +118,78 @@ Here are the highlights of what I have learned:
 
 ###### 2019-current
 ### Casino Gaming Inspector
- - **Playboy Club/Metropolitan Mayfair** - *London, UK*
+Playboy Club/Metropolitan Mayfair - *London, UK*
   
-    - Supervised and supported dealers in calculating accurate payouts and facilitating smooth gaming sessions, ensuring customer satisfaction and optimising game pace.
-    - Developed a meticulous eye for detail and honed analytical thinking skills while monitoring casino games, ensuring strict compliance with rules and procedures to maintain a fair and secure gaming environment.
-    - Demonstrated excellent communication skills in collaborating with the management and surveillance team, reporting relevant gaming activities, and providing valuable insights to facilitate decision-making and maintain transparency.
+  - Supervised and supported dealers in providing accurate payouts and facilitating smooth gaming sessions, ensuring customer satisfaction and optimising game pace.
+  - Developed a meticulous eye for detail and honed analytical thinking skills while supervising casino games, ensuring strict compliance with rules and procedures to maintain a fair and secure gaming environment.
+  - Demonstrated excellent communication skills in collaborating with the management and surveillance team, reporting relevant gaming activities, and providing valuable insights to facilitate decision-making and maintain transparency.
   
 <!--     - Demonstrated strong problem-solving abilities in creating and sharing a method to rapidly calculate a Baccarat's 225 to 1 payout, building confidence in dealer's skills. -->
 <!--     - Collaborated with the surveillance team to investigate and resolve disputes or disruptions, ensuring a seamless and safe gaming experience. -->
 
 ###### 2016-2019
 ### Casino Game Dealer
-- **Empire Casino** - *London, UK*
-- **Aspers Casino** - *Newcastle, UK*
+Empire Casino - *London, UK* <br/>
+Aspers Casino - *Newcastle, UK*
 
-    - Developed quick thinking ability and excellent problem-solving skills to quickly calculate complex payouts in a fast-paced environment, maintaining gaming sessions at an optimal pace.
-    - Consistently displayed a positive and upbeat attitude to enhance the overall casino experience for patrons and deliver excellent customer service.
-  
-<!--     - Demonstrated natural resilience in handling high-pressure situations, such as high-value customers or customers on a losing streak, maintaining composure and professionalism to keep customer service level high. -->
+  - Developed quick thinking ability and excellent problem-solving skills to quickly calculate complex payouts in a fast-paced environment, maintaining gaming sessions at an optimal pace.
+  - Consistently displayed a positive and upbeat attitude to enhance the overall casino experience for patrons and deliver excellent customer service.
+  - Demonstrated natural resilience in handling high-pressure situations, such as dealing to high-value customers or with customers experiencing losses, maintaining composure and professionalism to keep customer service level high.
 
 ###### 2012-2015
 ### Store Manager
-- **Tel and Com**  - *Troyes, France*
+Tel and Com - *Troyes, France*
 
-    - Oversaw daily store operations, including schedules, inventory management and staff supervision, ensuring seamless business operation.
-    - Led a team of sales associates, providing guidance, training, and performance evaluations, contributing to their high-performance levels and professionel development.
-    - Demonstrated efficient analytical thinking and problem solving skills by analysing available data and setting up action plans. 
-    - Designed, planned and implemented sales strategies such as creating bundles or promoting discount to attract customers, increase foot traffic and generate business revenue.
-    - Led the store to consistently be the best regional branch for several weeks by implementing a scheme to reward loyal customers thanks to ability to reflect on past performance, resulting in a streak of overachieved targets.
+  - Led a team of sales associates, providing guidance, training, and performance evaluations to contribute to their high-performance levels and professionel development.
+  - Demonstrated efficient analytical thinking and problem solving skills by analysing data and developing action plans to attract customers, increase foot traffic and generate business revenue. 
+  - Led the store to consistently be the best regional branch for several weeks by implementing a scheme to reward loyal customers thanks to ability to reflect on past performance, resulting in a streak of overachieved targets.
 
-
+<!--      - Oversaw daily store operations, including schedules, inventory management and staff supervision, ensuring seamless business operation. -->
+<!--     - Designed, planned and implemented sales strategies such as creating bundles or promoting discount to attract customers, increase foot traffic and generate business revenue. -->
+  
 ###### 2010-2012
 ### Sales Associate
-- **Tel and Com** - *Troyes, France*
+Tel and Com - *Troyes, France*
 
-    - Implemented a digital solution to replace the pen and paper method for tracking customers' accessories orders, resulting in a more effective process, significantly improving productivity.
-    - Developed strong logical and analytical thinking skills in understanding and fulfilling user requirements, providing personalised customer service and making accurate product recommendations, resulting in a high-level of customer satisfaction.
-    - Demonstrated a keen teamwork mindset by working closely with coworkers to achieve collective sales targets, contributing to business revenue and profitability.
-    - Showcased strong resilience in dealing with dissatisfied customers, addressing their requests and resolving issues while maintaining composure and calm demeanor, contributing to maintain customers loyalty. 
-
+  - Developed strong problem-solving skills by implementing a digital solution to replace the pen and paper method for tracking customers' accessories orders, resulting in a more effective process, significantly improving productivity.
+  - Developed strong logical and analytical thinking skills in understanding and fulfilling user requirements, providing personalised customer service and making accurate product recommendations, resulting in a high-level of customer satisfaction.
+  - Showcased strong resilience in dealing with dissatisfied customers, addressing their requests and resolving issues while maintaining composure and calm demeanor, contributing to maintain customers loyalty. 
+  
+<!--       - Demonstrated a keen teamwork mindset by working closely with coworkers to achieve collective sales targets, contributing to business revenue and profitability. -->
 <br/>
   
 ---
 
 <a name="skills"></a>
 ## SKILLS
+  
+<!-- ### Problem-Solving
+- Demonstrated quick-thinking abilities and excellent problem-solving skills in the casino industry, delivering accurate payouts in a fast-paced environment and ensuring optimal game pace.
+- Developed a digital solution for tracking customers' accessories orders during employment at Tel and Com.
+- Developed a method to rapidly calculate a Baccarat's 225 to 1 payout during employment at the Empire Casino. -->
+  
 
-### Positive attitude & Resilience
+### Positive attitude
 - Consistently displayed a positive and upbeat attitude across past experiences to ensure an enjoyable experience for patrons and deliver exceptional customer service.
-- Demonstrated a fierce resilience in handling high-pressure situations such as dealing to high-value customers at the Metropolitan Mayfair Casino.
 - Awarded the 'Role Model' title for excellent customer service, exemplary attitude and exceptional dealing skills during employment at the Empire Casino.
 
+<!--   - Demonstrated a fierce resilience in handling high-pressure situations such as dealing to high-value customers at the Metropolitan Mayfair Casino. -->
+  
 ### Growth Mindset
-- Possess a self-driven and highly disciplined mindset with a strong commitment to setting and achieving objectives developed through training towards a semi-marathon and various sport competitions.
+- Possess a self-driven and highly disciplined mindset with a strong commitment to setting and achieving objectives developed through training in various sport competitions such as a semi-marathon.
 - Genuine enthusiasm for learning and staying up-to-date with industry trends.
 - Currently learning advanced concepts of the React Framework and eager to explore technologies such as with Typescript, React Native, GraphQL, AWS and more.
 - Acknowledged for continual professional growth, leading to promotions to higher positions in both the retail and gaming industries.
 
 ### Communication
-- Showcased excellent communication skills in reporting gaming activities to both the management and surveillance team at the Metropolitan Mayfair Casino.
-- Proficient in conveying technical concepts to non-technical individuals, a crucial skill to effectively address customer needs and requirements at Tel and Com.
+- Demonstrated excellent communication skills in reporting relevant gaming activities to both the management and surveillance team at the Metropolitan Mayfair Casino.
+- Showcased proficiency in conveying technical concepts to non-technical individuals to effectively address customer needs and requirements at Tel and Com.
 - Actively engage with communication tools, such as Slack, by consistently interacting with my peers at Makers Academy.
 
 ### Teamwork & Collaboration
 - Developed strong collaboration skills working alongside dealers or inspectors, to ensure smooth gaming sessions for punters in the casino industry.
 - Cultivated a strong teamwork mindset as a sales associate to achieve collective targets at Tel and Com.
 - Actively engage in pair programming and make valuable contributions to engineering projects at Makers Academy.
-
-<!-- ### Problem-Solving
-- Showcased quick-thinking abilities and excellent problem-solving skills in the casino industry, delivering accurate payouts in a fast-paced environment and ensuring optimal game pace.
-- Developed a system to keep track of customers' accessories orders during employment at Tel and Com.
-- Created a technique to rapidly calculate a Baccarat's 225 to 1 payout during employment at the Empire Casino. -->
 
 <!-- ### Programming
 - Possess a deep interest in understanding how a programming language works behind the scenes, contributing to a good understanding of complex concepts and building confidence in coding abilities.
@@ -199,7 +200,6 @@ Here are the highlights of what I have learned:
 - Self-driven attitude and highly disciplined with a strong commitment to setting and achieving objectives.
 
 As someone who enjoys running, I understand the importance of having clear goals as they provide the motivation needed to push through. The absence of defined goals makes it easy to give up when faced with difficulties. This mindset extends beyond running and into my professional endeavors, where I consistently strive for excellence and continued growth by setting clear objectives. -->
-
 
 <!-- #### Teamwork
 - Collaborative mindset, I actively engaged in pair programming and engineering projects at the Software Engineer Bootcamp.
