@@ -139,11 +139,11 @@ Here are the highlights of what I have learned:
 ### Store Manager
 - **Tel and Com**  - *Troyes, France*
 
-    - Oversaw daily operations of the store such as schedules, inventory management and staff supervisions, ensuring seamless business operation.
+    - Oversaw daily store operations, including schedules, inventory management and staff supervision, ensuring seamless business operation.
     - Led a team of sales associates, providing guidance, training, and performance evaluations, contributing to their high-performance levels and professionel development.
-    - Demonstrated efficient analytical thinking and problem solving skills reflecting on past performance and setting up plans of actions,   
-    - Designed, planned and implemented sales strategies such as creating bundles or promoting discount to attract customers, ensuring achievement of sales targets and increased profitability.
-    - Led the store to be continously the best regional branch for several weeks setting up a scheme to reward loyal customers thanks to ability to reflect on past performance, resulting in a streak of targets overachieved
+    - Demonstrated efficient analytical thinking and problem solving skills by analysing available data and setting up action plans. 
+    - Designed, planned and implemented sales strategies such as creating bundles or promoting discount to attract customers, increase foot traffic and generate business revenue.
+    - Led the store to consistently be the best regional branch for several weeks by implementing a scheme to reward loyal customers thanks to ability to reflect on past performance, resulting in a streak of overachieved targets.
 
 
 ###### 2010-2012
@@ -155,6 +155,8 @@ Here are the highlights of what I have learned:
     - Demonstrated a keen teamwork mindset by working closely with coworkers to achieve collective sales targets, contributing to business revenue and profitability.
     - Showcased strong resilience in dealing with dissatisfied customers, addressing their requests and resolving issues while maintaining composure and calm demeanor, contributing to maintain customers loyalty. 
 
+<br/>
+  
 ---
 
 <a name="skills"></a>
