@@ -129,7 +129,7 @@ Here are the highlights of what I have learned:
 - **Empire Casino** - *London, UK*
 - **Aspers Casino** - *Newcastle, UK*
 
-    - Conducted casino games including Roulette and BlackJack performing with proficient dealing skills, ensuring an optimal game pace and customer satisfaction.
+    - Conducted casino games including Roulette and BlackJack with proficient dealing skills, ensuring an optimal game pace and customer satisfaction.
     - Collaborated with the inspector through clear commentaries and communicating relevant gaming activities, ensuring a transparent and secure gaming environments.
 
 ###### 2012-2015
