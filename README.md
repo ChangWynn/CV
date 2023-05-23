@@ -120,9 +120,9 @@ Here are the highlights of what I have learned:
 ### Casino Gaming Inspector
  - **Playboy Club/Metropolitan Mayfair** - *London, UK*
 
-    - Monitored casino games to ensure compliance with regulations and procedures, maintaining a fair and secure gaming environment.
-    - Supported dealers with accurate payouts and facilitated smooth gaming sessions, contributing to customer satisfaction and gameplay quality.
-    - Reported relevant gaming activities to both the management and surveillance team, providing valuable insights for decision-making and maintaining transparency.
+    - Supervised casino games to ensure compliance with regulations and procedures, maintaining a fair and secure gaming environment.
+    - Supervised and supported dealers with accurate payouts and smooth gaming sessions, contributing to customer satisfaction and optimal game pace.
+    - Collaborated with both the management and surveillance team reporting relevant gaming activities to facilitate decision-making and maintain transparency.
 
 ###### 2016-2019
 ### Casino Game Dealer
@@ -130,7 +130,7 @@ Here are the highlights of what I have learned:
 - **Aspers Casino** - *Newcastle, UK*
 
     - Conducted casino games including Roulette and BlackJack with proficient dealing skills, ensuring an optimal game pace and customer satisfaction.
-    - Collaborated with the inspector through clear commentaries and communicating relevant gaming activities, ensuring a transparent and secure gaming environments.
+    - Collaborated with the inspector through clear commentaries and communication of relevant gaming activities, ensuring transparent and secure gaming environments.
 
 ###### 2012-2015
 ### Store Manager
@@ -144,7 +144,7 @@ Here are the highlights of what I have learned:
 ### Sales Associate
 - **Tel and Com** - *Troyes, France*
 
-    - Utilised selling techniques and problem-solving skills to close sales and achieve collective targets, contributing to business revenue and profitability.
+    - Leveraged problem-solving skills and selling techniques to close sales and achieve collective targets, contributing to business revenue and profitability.
     - Provided personalised customer service by understanding and fulfilling user requirements, offering accurate product and service recommendations.
     - Assisted customers, addressing their needs and resolving issues, ensuring high-levels of customer satisfaction.
 
