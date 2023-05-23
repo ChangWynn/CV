@@ -120,11 +120,12 @@ Here are the highlights of what I have learned:
 ### Casino Gaming Inspector
  - **Playboy Club/Metropolitan Mayfair** - *London, UK*
   
-    - Demonstrated strong problem-solving abilities in creating and sharing a method to rapidly calculate a Baccarat's 225 to 1 payout, building confidence in dealer's skills.
     - Supervised and supported dealers in delivering accurate payouts and facilitating smooth gaming sessions, ensuring customer satisfaction and optimising game pace.
     - Developed a strong eye for details and honed analytical thinking skills while monitoring casino games, ensuring strict compliance with rules and procedures to maintain a fair and secure gaming environment.
-    - Demonstrated excellent communication skills by reporting relevant gaming activities to the management team, providing valuable insights to facilitate decision-making and maintain transparency.
-    - Collaborated with the surveillance team to investigate and resolve disputes or disruptions, ensuring a seamless and safe gaming experience.
+    - Demonstrated excellent communication skills in collaborating with the management and surveillance team, reporting relevant gaming activities and providing valuable insights to facilitate decision-making and maintain transparency.
+  
+<!--     - Demonstrated strong problem-solving abilities in creating and sharing a method to rapidly calculate a Baccarat's 225 to 1 payout, building confidence in dealer's skills. -->
+<!--     - Collaborated with the surveillance team to investigate and resolve disputes or disruptions, ensuring a seamless and safe gaming experience. -->
 
 ###### 2016-2019
 ### Casino Game Dealer
@@ -133,7 +134,8 @@ Here are the highlights of what I have learned:
 
     - Developed quick thinking ability and excellent problem-solving skills to quickly calculate complex payouts in a fast-paced environment, maintaining gaming sessions at an optimal pace.
     - Consistently displayed a positive and upbeat attitude to enhance the overall casino experience for patrons and deliver excellent customer service.
-    - Demonstrated natural resilience in handling high-pressure situations, such as high-value customers or customers on a losing streak, maintaining composure and professionalism to keep customer service level high.
+  
+<!--     - Demonstrated natural resilience in handling high-pressure situations, such as high-value customers or customers on a losing streak, maintaining composure and professionalism to keep customer service level high. -->
 
 ###### 2012-2015
 ### Store Manager
@@ -183,15 +185,15 @@ Here are the highlights of what I have learned:
 - Cultivated a strong teamwork mindset as a sales associate to achieve collective targets at Tel and Com.
 - Actively engage in pair programming and make valuable contributions to engineering projects at Makers Academy.
 
-### Problem-Solving
+<!-- ### Problem-Solving
 - Showcased quick-thinking abilities and excellent problem-solving skills in the casino industry, delivering accurate payouts in a fast-paced environment and ensuring optimal game pace.
 - Developed a system to keep track of customers' accessories orders during employment at Tel and Com.
-- Created a technique to rapidly calculate a Baccarat's 225 to 1 payout during employment at the Empire Casino.
+- Created a technique to rapidly calculate a Baccarat's 225 to 1 payout during employment at the Empire Casino. -->
 
-### Programming
+<!-- ### Programming
 - Possess a deep interest in understanding how a programming language works behind the scenes, contributing to a good understanding of complex concepts and building confidence in coding abilities.
 - Developed strong logical thinking through completing numerous challenges on Codewars and Coderbyte.
-- Currently hold a 4kyu rank with over 800 honor on Codewars and I have completed 70+ challenges on Coderbyte.
+- Currently hold a 4kyu rank with over 800 honor on Codewars and I have completed 70+ challenges on Coderbyte. -->
 
 <!-- #### Self-Motivation
 - Self-driven attitude and highly disciplined with a strong commitment to setting and achieving objectives.
