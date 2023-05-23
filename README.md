@@ -120,9 +120,9 @@ Here are the highlights of what I have learned:
 ### Casino Gaming Inspector
  - **Playboy Club/Metropolitan Mayfair** - *London, UK*
   
-    - Supervised and supported dealers in delivering accurate payouts and facilitating smooth gaming sessions, ensuring customer satisfaction and optimising game pace.
-    - Developed a strong eye for details and honed analytical thinking skills while monitoring casino games, ensuring strict compliance with rules and procedures to maintain a fair and secure gaming environment.
-    - Demonstrated excellent communication skills in collaborating with the management and surveillance team, reporting relevant gaming activities and providing valuable insights to facilitate decision-making and maintain transparency.
+    - Supervised and supported dealers in calculating accurate payouts and facilitating smooth gaming sessions, ensuring customer satisfaction and optimising game pace.
+    - Developed a meticulous eye for detail and honed analytical thinking skills while monitoring casino games, ensuring strict compliance with rules and procedures to maintain a fair and secure gaming environment.
+    - Demonstrated excellent communication skills in collaborating with the management and surveillance team, reporting relevant gaming activities, and providing valuable insights to facilitate decision-making and maintain transparency.
   
 <!--     - Demonstrated strong problem-solving abilities in creating and sharing a method to rapidly calculate a Baccarat's 225 to 1 payout, building confidence in dealer's skills. -->
 <!--     - Collaborated with the surveillance team to investigate and resolve disputes or disruptions, ensuring a seamless and safe gaming experience. -->
