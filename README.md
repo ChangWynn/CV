@@ -144,7 +144,7 @@ Playboy Club/Metropolitan Mayfair - *London, UK*
   
   - Supervised and supported dealers with accurate payouts, optimising game pace and ensuring customer satisfaction.
   - Developed a meticulous eye for detail and honed analytical thinking skills to supervise casino games and ensure strict compliance with rules and procedures.
-<!--   - Demonstrated excellent communication skills in collaborating with the management team, providing valuable insights to facilitate decision-making and maintain transparency. -->
+  - Demonstrated excellent communication skills in collaborating with the management team, providing valuable insights to facilitate decision-making and maintain transparency.
   
 <!--     - Demonstrated strong problem-solving abilities in creating and sharing a method to rapidly calculate a Baccarat's 225 to 1 payout, building confidence in dealer's skills. -->
 <!--     - Collaborated with the surveillance team to investigate and resolve disputes or disruptions, ensuring a seamless and safe gaming experience. -->
