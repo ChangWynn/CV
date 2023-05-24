@@ -142,9 +142,9 @@ Here are the highlights of what I have learned:
 ### Casino Gaming Inspector
 Playboy Club/Metropolitan Mayfair - *London, UK*
   
-  - Supervised and supported dealers in providing accurate payouts and facilitating smooth gaming sessions, ensuring customer satisfaction and optimising game pace.
-  - Developed a meticulous eye for detail and honed analytical thinking skills while supervising casino games, ensuring strict compliance with rules and procedures to maintain a fair and secure gaming environment.
-  - Demonstrated excellent communication skills in collaborating with the management and surveillance team, reporting relevant gaming activities, and providing valuable insights to facilitate decision-making and maintain transparency.
+  - Supervised and supported dealers with accurate payouts, optimising game pace and ensuring customer satisfaction.
+  - Developed a meticulous eye for detail and honed analytical thinking skills to supervise casino games, ensuring strict compliance with rules and procedures to maintain a fair and secure gaming environment.
+  - Demonstrated excellent communication skills in collaborating with the management team, reporting relevant gaming activities and providing valuable insights to facilitate decision-making and maintain transparency.
   
 <!--     - Demonstrated strong problem-solving abilities in creating and sharing a method to rapidly calculate a Baccarat's 225 to 1 payout, building confidence in dealer's skills. -->
 <!--     - Collaborated with the surveillance team to investigate and resolve disputes or disruptions, ensuring a seamless and safe gaming experience. -->
@@ -154,17 +154,17 @@ Playboy Club/Metropolitan Mayfair - *London, UK*
 Empire Casino - *London, UK* <br/>
 Aspers Casino - *Newcastle, UK*
 
-  - Developed quick thinking ability and excellent problem-solving skills to quickly calculate complex payouts in a fast-paced environment, maintaining gaming sessions at an optimal pace.
-  - Consistently displayed a positive and upbeat attitude to enhance the overall casino experience for patrons and deliver excellent customer service.
-  - Demonstrated natural resilience in handling high-pressure situations, such as dealing to high-value customers or with customers experiencing losses, maintaining composure and professionalism to keep customer service level high.
+  - Developed quick thinking ability and excellent problem-solving skills to provide accurate payouts in a fast-paced environment, maintaining gaming sessions at an optimal pace.
+  - Consistently displayed a positive and upbeat attitude to deliver excellent customer service.
+  - Demonstrated natural resilience in handling high-pressure situations, such as dealing to high-value customers or with customers experiencing losses to keep customer service level high.
 
 ###### 2012-2015
 ### Store Manager
 Tel and Com - *Troyes, France*
 
-  - Led a team of sales associates, providing guidance, training, and performance evaluations to contribute to their high-performance levels and professional development.
-  - Demonstrated efficient analytical thinking and problem solving skills by analysing data and developing action plans to attract customers, increase foot traffic and generate business revenue. 
-  - Led the store to consistently be the best regional branch for several weeks by implementing a scheme to reward loyal customers thanks to ability to reflect on past performance, resulting in a streak of overachieved targets.
+  - Led a team of sales associates, providing training and performance evaluations to contribute to their professional development.
+  - Demonstrated efficient analytical thinking and problem solving skills by analysing data and developing action plans to attract customers and generate business revenue. 
+  - Led the store to consistently be the best regional branch for several weeks by implementing a scheme to reward loyal customers, resulting in a streak of overachieved targets.
 
 <!--      - Oversaw daily store operations, including schedules, inventory management and staff supervision, ensuring seamless business operation. -->
 <!--     - Designed, planned and implemented sales strategies such as creating bundles or promoting discount to attract customers, increase foot traffic and generate business revenue. -->
@@ -173,8 +173,8 @@ Tel and Com - *Troyes, France*
 ### Sales Associate
 Tel and Com - *Troyes, France*
 
-  - Demonstrated strong problem-solving skills by implementing a digital solution to replace the pen and paper method for tracking customers' accessories orders, resulting in a more effective process, significantly improving productivity.
-  - Developed excellent logical and analytical thinking skills in understanding and fulfilling user requirements, providing personalised customer service and making accurate product recommendations, resulting in a high-level of customer satisfaction.
+  - Demonstrated strong problem-solving skills by implementing a digital solution for tracking customers' accessories orders, significantly improving productivity.
+  - Developed excellent logical and analytical thinking skills in understanding and fulfilling user requirements, providing personalised customer service and making accurate product recommendations, resulting in an increase of the customer loyalty and satisfaction.
   - Displayed high resilience in dealing with dissatisfied customers, addressing their requests and resolving issues while maintaining composure and calm demeanour, contributing to maintaining customers loyalty. 
   
 <!--       - Demonstrated a keen teamwork mindset by working closely with coworkers to achieve collective sales targets, contributing to business revenue and profitability. -->
