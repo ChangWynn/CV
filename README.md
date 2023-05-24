@@ -143,8 +143,8 @@ Here are the highlights of what I have learned:
 Playboy Club/Metropolitan Mayfair - *London, UK*
   
   - Supervised and supported dealers with accurate payouts, optimising game pace and ensuring customer satisfaction.
-  - Developed a meticulous eye for detail and honed analytical thinking skills to supervise casino games, ensuring strict compliance with rules and procedures to maintain a fair and secure gaming environment.
-  - Demonstrated excellent communication skills in collaborating with the management team, reporting relevant gaming activities and providing valuable insights to facilitate decision-making and maintain transparency.
+  - Developed a meticulous eye for detail and honed analytical thinking skills to supervise casino games and ensure strict compliance with rules and procedures.
+  - Demonstrated excellent communication skills in collaborating with the management team, providing valuable insights to facilitate decision-making and maintain transparency.
   
 <!--     - Demonstrated strong problem-solving abilities in creating and sharing a method to rapidly calculate a Baccarat's 225 to 1 payout, building confidence in dealer's skills. -->
 <!--     - Collaborated with the surveillance team to investigate and resolve disputes or disruptions, ensuring a seamless and safe gaming experience. -->
@@ -154,9 +154,9 @@ Playboy Club/Metropolitan Mayfair - *London, UK*
 Empire Casino - *London, UK* <br/>
 Aspers Casino - *Newcastle, UK*
 
-  - Developed quick thinking ability and excellent problem-solving skills to provide accurate payouts in a fast-paced environment, maintaining gaming sessions at an optimal pace.
+  - Developed quick thinking ability and excellent problem-solving skills to provide fast and accurate payouts, maintaining gaming sessions at an optimal pace.
   - Consistently displayed a positive and upbeat attitude to deliver excellent customer service.
-  - Demonstrated natural resilience in handling high-pressure situations, such as dealing to high-value customers or with customers experiencing losses to keep customer service level high.
+  - Demonstrated natural resilience in handling high-pressure situations, such as dealing to high-value customers to keep customer service standards high.
 
 ###### 2012-2015
 ### Store Manager
