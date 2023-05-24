@@ -26,19 +26,20 @@
   
   <img width="35" height="35" src="https://img.icons8.com/color/48/great-britain-circular.png" alt="great-britain-circular"/>
   <img width="35" height="35" src="https://img.icons8.com/color/96/france-circular.png" alt="france-circular"/>
+ 
   
  </div>
+ 
+ <br/>
 
-<!-- <h3 align="center">Contact me</h3> -->
+<h3 align="center">Contact me</h3>
 
-<!-- <div align="center">
+<div align="center">
 
   <a href='mailto:huynhchang.one@gmail.com' target="_blank" ><img width="40" height="40" src="https://img.icons8.com/color/48/circled-envelope.png" alt="circled-envelope"/></a>
   <a href='https://www.linkedin.com/in/chang-huynh-8950811b9/' target="_blank" ><img width="40" height="40" src="https://img.icons8.com/color/48/linkedin-circled--v1.png" alt="linkedin-circled--v1"/></a>
 
-</div> -->
- 
- <!-- --- -->
+</div>
 
 ---
 
@@ -88,12 +89,31 @@ Makers Academy is a prestigious coding bootcamp known for its immersive learning
 featuring a 16-week curriculum emphasising teamwork and collaboration through pair programming and engineering projects to consistently deliver high-quality code and solutions.
 
 Here are the highlights of what I have learned:
+  
+#### System Design
+- Designing, planning and organising full-stack projects.
+- Designing and working with relational and non-relational databases.
+- Implementing Model-View-Controller (MVC) pattern to separate concerns.
+- Adopting Agile methodologies for efficient project management and collaboration.
 
-#### Full-Stack Development
-- Planning and organising full-stack projects.
+#### Developement
+- Applying Object-Oriented Programming (OOP) to create modular and reusable code.
+- Applying KISS and DRY principles to ensure clarity and efficiency.
+- Implementing CRUD operations for data manipulation.
+- Defining HTTP endpoints to establish communication between client and server.
+- Incorporating Git and Github for version control and collaboration.
+- Building both front-end and back-end components of web applications.
+  
+#### Testing
+- Employing Test-Driven Development (TDD) to write more reliable and robust code.
+- Performing unit-tests, integration tests and end-to-end tests (e2e).
+- Using linters and aiming > 95% coverage to ensure high-quality code.
+  
+<!-- #### Full-Stack Development
+- Designing, planning and organising full-stack projects.
 - Building both front-end and back-end components of web applications.
 - Defining endpoints and making HTTP requests.
-- Working with databases.
+- Designing and working with both relational and non-relational databases.
 - Utilising Git and GitHub for version control and collaboration.
 - Problem-solving and debugging.
 - Deploying and maintaining software solutions.
@@ -101,7 +121,7 @@ Here are the highlights of what I have learned:
     - Object-Oriented Programming (OOP)
     - Test-Driven Development (TDD)
     - Model-View-Controller (MVC)
-    - Agile, XP
+    - Agile, XP -->
 <!-- - Designing a software architecture. -->
 <!-- - Performing unit-tests, integration tests and end-to-end tests (e2e). -->
 <!-- - Conducting code reviews for quality and adherence to coding standards. -->
