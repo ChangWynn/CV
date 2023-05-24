@@ -32,20 +32,20 @@
  
  <br/>
 
-<h3 align="center">Contact me</h3>
+<!-- <h3 align="center">Contact me</h3>
 
 <div align="center">
 
   <a href='mailto:huynhchang.one@gmail.com' target="_blank" ><img width="40" height="40" src="https://img.icons8.com/color/48/circled-envelope.png" alt="circled-envelope"/></a>
   <a href='https://www.linkedin.com/in/chang-huynh-8950811b9/' target="_blank" ><img width="40" height="40" src="https://img.icons8.com/color/48/linkedin-circled--v1.png" alt="linkedin-circled--v1"/></a>
 
-</div>
+</div> -->
 
 ---
 
  <div align="center">
 
-[Intro](#intro) | [Projects](#projects) | [Tech Experience](#tech-experience) | [Work Experience](#work-experience) | [Skills](#skills) |  [Education](#education) | [Hobbies](#hobbies) | [Languages](#languages)
+[Intro](#intro) | [Projects](#projects) | [Tech Experience](#tech-experience) | [Work Experience](#work-experience) | [Skills](#skills) |  [Education](#education) | [Hobbies](#hobbies)
 
 
 </div>
@@ -319,14 +319,3 @@ Algorithms and Data Structures and more.
 ![coding](https://img.shields.io/badge/%20-%23coding%20-4EA94B?style=for-the-badge)
 ![movies](https://img.shields.io/badge/%20-%23movies%20-4EA94B?style=for-the-badge)
 ![musicals](https://img.shields.io/badge/%20-%23musicals%20-4EA94B?style=for-the-badge)
-  
----
-
-<a name="languages"></a>
-## LANGUAGES
-
-![english](https://img.shields.io/badge/ENGLISH-Fluent-4EA94B?style=for-the-badge)
-  
-![french](https://img.shields.io/badge/FRENCH-Fluent-4EA94B?style=for-the-badge)
-  
-![vietnamese](https://img.shields.io/badge/VIETNAMESE-Intermediate-orange?style=for-the-badge)
