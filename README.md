@@ -2,6 +2,8 @@
   
   # CHANG HUYNH
   ## Software Engineer
+  
+
 
 <!--   ![codewars](https://img.shields.io/badge/Codewars-4kyu-blue?style=for-the-badge&logoColor=red&logo=codewars) -->
   
@@ -22,16 +24,19 @@
 <!--   ![git](https://img.shields.io/badge/GIT-F05032?style=flat&logoColor=white&logo=git)
   ![github](https://img.shields.io/badge/GITHUB-181717?style=flat&logoColor=white&logo=github) -->
   
+  <img width="35" height="35" src="https://img.icons8.com/color/48/great-britain-circular.png" alt="great-britain-circular"/>
+  <img width="35" height="35" src="https://img.icons8.com/color/96/france-circular.png" alt="france-circular"/>
+  
  </div>
 
-<h3 align="center">Contact me</h3>
+<!-- <h3 align="center">Contact me</h3> -->
 
-<div align="center">
+<!-- <div align="center">
 
   <a href='mailto:huynhchang.one@gmail.com' target="_blank" ><img width="40" height="40" src="https://img.icons8.com/color/48/circled-envelope.png" alt="circled-envelope"/></a>
   <a href='https://www.linkedin.com/in/chang-huynh-8950811b9/' target="_blank" ><img width="40" height="40" src="https://img.icons8.com/color/48/linkedin-circled--v1.png" alt="linkedin-circled--v1"/></a>
 
-</div>
+</div> -->
  
  <!-- --- -->
 
@@ -151,9 +156,9 @@ Tel and Com - *Troyes, France*
 ### Sales Associate
 Tel and Com - *Troyes, France*
 
-  - Developed strong problem-solving skills by implementing a digital solution to replace the pen and paper method for tracking customers' accessories orders, resulting in a more effective process, significantly improving productivity.
-  - Developed strong logical and analytical thinking skills in understanding and fulfilling user requirements, providing personalised customer service and making accurate product recommendations, resulting in a high-level of customer satisfaction.
-  - Showcased strong resilience in dealing with dissatisfied customers, addressing their requests and resolving issues while maintaining composure and calm demeanour, contributing to maintaining customers loyalty. 
+  - Demonstrated strong problem-solving skills by implementing a digital solution to replace the pen and paper method for tracking customers' accessories orders, resulting in a more effective process, significantly improving productivity.
+  - Developed excellent logical and analytical thinking skills in understanding and fulfilling user requirements, providing personalised customer service and making accurate product recommendations, resulting in a high-level of customer satisfaction.
+  - Displayed high resilience in dealing with dissatisfied customers, addressing their requests and resolving issues while maintaining composure and calm demeanour, contributing to maintaining customers loyalty. 
   
 <!--       - Demonstrated a keen teamwork mindset by working closely with coworkers to achieve collective sales targets, contributing to business revenue and profitability. -->
 <br/>
@@ -176,11 +181,13 @@ Tel and Com - *Troyes, France*
 <!--   - Demonstrated a fierce resilience in handling high-pressure situations such as dealing to high-value customers at the Metropolitan Mayfair Casino. -->
   
 ### Growth Mindset
-- Possess a self-driven and highly disciplined mindset with a strong commitment to setting and achieving objectives developed through training in various sport competitions such as a semi-marathon.
+- Possess a self-driven and highly disciplined mindset developed through training in various sport competitions such as a semi-marathon.
 - Genuine enthusiasm for learning and staying up-to-date with industry trends.
-- Currently learning advanced concepts of the React Framework and eager to explore technologies such as with Typescript, React Native, GraphQL, AWS and more.
+- Currently learning advanced concepts of the React Framework and eager to explore technologies such as with Typescript, React Native, GraphQL, AWS amd more.
 - Acknowledged for continual professional growth, leading to promotions to higher positions in both the retail and gaming industries.
 
+<!--   with a strong commitment to setting and achieving objectives -->
+  
 ### Communication
 - Demonstrated excellent communication skills in reporting relevant gaming activities to both the management and surveillance team at the Metropolitan Mayfair Casino.
 - Showcased proficiency in conveying technical concepts to non-technical individuals to effectively address customer needs and requirements at Tel and Com.
