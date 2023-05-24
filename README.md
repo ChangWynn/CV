@@ -83,8 +83,7 @@ I am excited to contribute to the tech community where I can leverage my skills 
 ###### January-May 2023 (London, UK)
 ### MAKERS ACADEMY - Software Engineer Bootcamp
 
-Makers Academy is a prestigious coding bootcamp known for its immersive learning environment,
-featuring a 16-week curriculum emphasising teamwork and collaboration through pair programming and engineering projects to consistently deliver high-quality code and solutions.
+Immersive bootcamp featuring a 16-week curriculum emphasising teamwork and collaboration through pair programming and engineering projects.
 
 Here are the highlights of what I have learned:
   
@@ -219,7 +218,7 @@ Tel and Com - *Troyes, France*
 ### Communication
 - Demonstrated excellent communication skills in reporting relevant gaming activities to both the management and surveillance team at the Metropolitan Mayfair Casino.
 - Proficient in conveying technical concepts to non-technical individuals, effectively addressing customer needs and requirements at Tel and Com.
-- Proctively engage with communication tools, such as Slack, by consistently interacting with my peers at Makers Academy. 
+- Actively engage with communication tools, such as Slack, by consistently interacting with my peers at Makers Academy. 
 
 ### Teamwork & Collaboration
 - Developed strong collaboration skills working alongside dealers or inspectors in the casino industry where these quality are crucial to ensure smooth gaming sessions for punters.
