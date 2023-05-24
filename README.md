@@ -174,7 +174,7 @@ Tel and Com - *Troyes, France*
 Tel and Com - *Troyes, France*
 
   - Demonstrated strong problem-solving skills by implementing a digital solution for tracking customers' accessories orders, significantly improving productivity.
-  - Developed excellent logical and analytical thinking skills in understanding and fulfilling user requirements, providing personalised customer service and making accurate product recommendations, resulting in an increase of the customer loyalty and satisfaction.
+  - Developed excellent logical and analytical thinking skills in understanding and fulfilling user requirements, providing personalised customer service and making accurate product recommendations, increasing customer's loyalty and satisfaction.
   - Displayed high resilience in dealing with dissatisfied customers, addressing their requests and resolving issues while maintaining composure and calm demeanour, contributing to maintaining customers loyalty. 
   
 <!--       - Demonstrated a keen teamwork mindset by working closely with coworkers to achieve collective sales targets, contributing to business revenue and profitability. -->
