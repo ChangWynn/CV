@@ -27,10 +27,9 @@
   <img width="35" height="35" src="https://img.icons8.com/color/48/great-britain-circular.png" alt="great-britain-circular"/>
   <img width="35" height="35" src="https://img.icons8.com/color/96/france-circular.png" alt="france-circular"/>
  
-  
- </div>
+</div>
  
- <br/>
+<br/>
 
 <!-- <h3 align="center">Contact me</h3>
 
@@ -43,10 +42,9 @@
 
 ---
 
- <div align="center">
+<div align="center">
 
-[Intro](#intro) | [Projects](#projects) | [Tech Experience](#tech-experience) | [Work Experience](#work-experience) | [Skills](#skills) |  [Education](#education) | [Hobbies](#hobbies)
-
+[Intro](#intro) | [Projects](#projects) | [Tech Experience](#tech-experience) | [Work Experience](#work-experience) | [Skills](#skills) |  [Education](#education) | [Hobbies](#hobbies) | [Contact](#contact)
 
 </div>
 
@@ -319,3 +317,18 @@ Algorithms and Data Structures and more.
 ![coding](https://img.shields.io/badge/%20-%23coding%20-4EA94B?style=for-the-badge)
 ![movies](https://img.shields.io/badge/%20-%23movies%20-4EA94B?style=for-the-badge)
 ![musicals](https://img.shields.io/badge/%20-%23musicals%20-4EA94B?style=for-the-badge)
+  
+---
+
+<a name="contact"></a>
+<div align='center'>
+  
+  
+
+  <a href='mailto:huynhchang.one@gmail.com' target="_blank" ><img width="40" height="40" src="https://img.icons8.com/color/48/circled-envelope.png" alt="circled-envelope"/></a>
+  <a href='https://www.linkedin.com/in/chang-huynh-8950811b9/' target="_blank" ><img width="40" height="40" src="https://img.icons8.com/color/48/linkedin-circled--v1.png" alt="linkedin-circled--v1"/></a>
+  
+  
+  #### CONTACT ME
+  
+</div
