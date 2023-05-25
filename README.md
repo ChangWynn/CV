@@ -190,23 +190,23 @@ Tel and Com - *Troyes, France*
 - Developed a digital solution for tracking customers' accessories orders during employment at Tel and Com.
 - Developed a method to rapidly calculate a Baccarat's 225 to 1 payout during employment at the Empire Casino. -->
   
-  ### Teamwork & Collaboration
-  
-  ```
-  I cultivated a strong teamwork mindset in previous roles, 
-  collaborating closely with colleagues   to achieve targets 
-  and contribute to overall team success at Tel and Com. 
-  
-  I've also developed effective collaboration skills while working 
-  alongside dealers or inspectors in the casino industry, 
-  ensuring smooth gaming sessions for punters. 
-  
-  I actively engaged in pair programming sessions at Makers Academy, 
-  making valuable contributions to engineering projects. 
-  Embracing the collaborative nature of software development, 
-  I actively participated in team-based decision-making processes 
-  throughout the development lifecycle.
-  ```
+### Teamwork & Collaboration
+
+```
+I cultivated a strong teamwork mindset in previous roles, 
+collaborating closely with colleagues   to achieve targets 
+and contribute to overall team success at Tel and Com. 
+
+I've also developed effective collaboration skills while working 
+alongside dealers or inspectors in the casino industry, 
+ensuring smooth gaming sessions for punters. 
+
+I actively engaged in pair programming sessions at Makers Academy, 
+making valuable contributions to engineering projects. 
+Embracing the collaborative nature of software development, 
+I actively participated in team-based decision-making processes 
+throughout the development lifecycle.
+```
   
 <!-- - Developed strong collaboration skills working alongside dealers or inspectors in the casino industry where these quality are crucial to ensure smooth gaming sessions for punters.
 - Cultivated a strong teamwork mindset as a sales associate to collectively achieve targets at Tel and Com.
@@ -214,20 +214,20 @@ Tel and Com - *Troyes, France*
   
   ### Communication
   
-  ```
-  During my time at Makers Academy, 
-  I demonstrated excellent verbal and written communication skills 
-  through various engineering projects, utilising communication tools such as Slack or Zoom 
-  to consistently interact and collaborate with peers, 
-  ensuring everyone remains informed and aligned.
+```
+During my time at Makers Academy, 
+I demonstrated excellent verbal and written communication skills 
+through various engineering projects, utilising communication tools such as Slack or Zoom 
+to consistently interact and collaborate with peers, 
+ensuring everyone remains informed and aligned.
   
-  Recognized the significance of clear and efficient communication, 
-  I proactively initiated calls and meetings to ensure effective collaboration 
-  and alignment among team members. 
+Recognized the significance of clear and efficient communication, 
+I proactively initiated calls and meetings to ensure effective collaboration 
+and alignment among team members. 
   
-  I have also proven to be proficient in conveying technical concepts to non-technical individuals, 
-  effectively addressing customer needs and requirements during my employment at Tel and Com. 
-  ```
+I have also proven to be proficient in conveying technical concepts to non-technical individuals, 
+effectively addressing customer needs and requirements during my employment at Tel and Com. 
+```
   
 <!-- - Demonstrated excellent communication skills in reporting relevant gaming activities to both the management and surveillance team at the Metropolitan Mayfair Casino.
 - Proficient in conveying technical concepts to non-technical individuals, effectively addressing customer needs and requirements at Tel and Com.
@@ -236,17 +236,17 @@ Tel and Com - *Troyes, France*
 
 ### Positive attitude
   
-  ```
-  I consistently embody a positive attitude in all my endeavours, 
-  cultivating a harmonious environment and uplifting those around me.
-  
-  This mindset has significantly contributed throughout my career
-  to providing memorable experiences for patrons and delivering exceptional customer service.
-  
-  In fact, during my employment at the Empire Casino, 
-  I was awarded the 'Role Model' title for excellent customer service, 
-  exemplary attitude and exceptional dealing skills.
-  ```
+```
+I consistently embody a positive attitude in all my endeavours, 
+cultivating a harmonious environment and uplifting those around me.
+
+This mindset has significantly contributed throughout my career
+to providing memorable experiences for patrons and delivering exceptional customer service.
+
+In fact, during my employment at the Empire Casino, 
+I was awarded the 'Role Model' title for excellent customer service, 
+exemplary attitude and exceptional dealing skills.
+```
   
 <!-- - Consistently displayed a positive and upbeat attitude across past experiences to ensure an enjoyable experience for patrons and deliver exceptional customer service.
 - Awarded the 'Role Model' title for excellent customer service, exemplary attitude and exceptional dealing skills during employment at the Empire Casino. -->
@@ -254,22 +254,22 @@ Tel and Com - *Troyes, France*
   
 ### Growth Mindset & resilience
   
-  ```
-  Training and participating in various sport competitions such as a semi-marathon 
-  has instilled in me a resilient and highly disciplined mindset.
-  
-  I understand the significance of setting achievable objectives towards a larger goal. 
-  Without objectives, it's easy to give up when faced with difficulties, 
-  whereas clear objectives provide the focus and determination needed to overcome challenges.
-  
-  I have a genuine enthusiasm for learning and an eagerness to improve.  
-  I'm current learning advanced concepts of the React Framework 
-  and I'm eager to explore other technologies 
-  such as with Typescript, React Native, GraphQL, AWS and more.
-  
-  My growth mindset and resilience has consistently led to my promotion 
-  to more senior roles in both the retail and gaming industries.
-  ```
+```
+Training and participating in various sport competitions such as a semi-marathon 
+has instilled in me a resilient and highly disciplined mindset.
+
+I understand the significance of setting achievable objectives towards a larger goal. 
+Without objectives, it's easy to give up when faced with difficulties, 
+whereas clear objectives provide the focus and determination needed to overcome challenges.
+
+I have a genuine enthusiasm for learning and an eagerness to improve.  
+I'm current learning advanced concepts of the React Framework 
+and I'm eager to explore other technologies 
+such as with Typescript, React Native, GraphQL, AWS and more.
+
+My growth mindset and resilience has consistently led to my promotion 
+to more senior roles in both the retail and gaming industries.
+```
   
 <!-- - Developed a self-driven and highly disciplined mindset developed through training in various sport competitions such as a semi-marathon.
 - Genuine enthusiasm for learning and eagerness to improve.
