@@ -194,12 +194,12 @@ Tel and Com - *Troyes, France*
 
 ```
 I cultivated a strong teamwork mindset in previous roles, 
-collaborating closely with colleagues   to achieve targets 
+collaborating closely with colleagues to achieve targets 
 and contribute to overall team success at Tel and Com. 
 
 I've also developed effective collaboration skills while working 
 alongside dealers or inspectors in the casino industry, 
-ensuring smooth gaming sessions for punters. 
+to ensure smooth gaming sessions for punters. 
 
 I actively engaged in pair programming sessions at Makers Academy, 
 making valuable contributions to engineering projects. 
