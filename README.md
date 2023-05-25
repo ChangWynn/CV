@@ -216,7 +216,8 @@ Tel and Com - *Troyes, France*
   ```
   During my time at Makers Academy, I demonstrated excellent verbal and written communication skills 
   through various engineering projects, utilising communication tools such as Slack or Zoom 
-  to consistently interact and collaborate with peers, ensuring everyone remains informed and aligned.
+  to consistently interact and collaborate with peers, 
+  ensuring everyone remains informed and aligned.
   
   Recognized the significance of clear and efficient communication, 
   I proactively initiated calls and meetings to ensure effective collaboration 
