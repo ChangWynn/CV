@@ -193,8 +193,9 @@ Tel and Com - *Troyes, France*
   ### Teamwork & Collaboration
   
   ```
-  I cultivated a strong teamwork mindset in previous roles, collaborating closely with colleagues 
-  to achieve targets and contribute to overall team success at Tel and Com. 
+  I cultivated a strong teamwork mindset in previous roles, 
+  collaborating closely with colleagues   to achieve targets 
+  and contribute to overall team success at Tel and Com. 
   
   I've also developed effective collaboration skills while working 
   alongside dealers or inspectors in the casino industry, 
@@ -214,7 +215,8 @@ Tel and Com - *Troyes, France*
   ### Communication
   
   ```
-  During my time at Makers Academy, I demonstrated excellent verbal and written communication skills 
+  During my time at Makers Academy, 
+  I demonstrated excellent verbal and written communication skills 
   through various engineering projects, utilising communication tools such as Slack or Zoom 
   to consistently interact and collaborate with peers, 
   ensuring everyone remains informed and aligned.
