@@ -173,8 +173,8 @@ Tel and Com - *Troyes, France*
 ### Sales Associate
 Tel and Com - *Troyes, France*
 
-  - Demonstrated strong problem-solving skills by implementing a digital solution for tracking customers' accessories orders, significantly improving productivity.
-  - Developed excellent logical and analytical thinking skills in understanding user requirements and making accurate product recommendations, increasing customer's loyalty and satisfaction.
+  - Demonstrated efficient problem-solving skills by implementing a digital solution for tracking customers' accessories orders, significantly improving productivity.
+  - Developed excellent logical and analytical thinking skills in interpreting user requirements and providing accurate product recommendations, increasing customer's loyalty and satisfaction.
   - Demonstrated high resilience in dealing with dissatisfied customers, addressing their requests and resolving issues while maintaining composure and calm demeanour, contributing to maintaining customers loyalty. 
   
 <!--       - Demonstrated a keen teamwork mindset by working closely with coworkers to achieve collective sales targets, contributing to business revenue and profitability. -->
