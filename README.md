@@ -218,12 +218,11 @@ throughout the development lifecycle.
 During my time at Makers Academy,
 I demonstrated excellent verbal and written communication skills
 through various engineering projects, utilising communication tools such as Slack or Zoom
-to consistently interact and collaborate with my peers,
-ensuring everyone remains informed and aligned.
+to consistently interact and collaborate with my peers.
   
-Recognized the significance of clear and efficient communication, 
-I proactively initiated calls and meetings to ensure effective collaboration
-and alignment among team members.
+Recognizing the significance of clear and efficient communication,
+I also proactively initiated calls and meetings
+to ensure effective collaboration and alignment among team members.
 
 I have also proven to be proficient in conveying technical concepts to non-technical individuals,
 effectively addressing customer needs and requirements during my employment at Tel and Com.
