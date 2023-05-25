@@ -212,21 +212,21 @@ throughout the development lifecycle.
 - Cultivated a strong teamwork mindset as a sales associate to collectively achieve targets at Tel and Com.
 - Actively engage in pair programming sessions and made valuable contributions to engineering projects at Makers Academy. -->
   
-  ### Communication
+### Communication
   
 ```
-During my time at Makers Academy, 
-I demonstrated excellent verbal and written communication skills 
-through various engineering projects, utilising communication tools such as Slack or Zoom 
-to consistently interact and collaborate with peers, 
+During my time at Makers Academy,
+I demonstrated excellent verbal and written communication skills
+through various engineering projects, utilising communication tools such as Slack or Zoom
+to consistently interact and collaborate with peers,
 ensuring everyone remains informed and aligned.
   
 Recognized the significance of clear and efficient communication, 
-I proactively initiated calls and meetings to ensure effective collaboration 
-and alignment among team members. 
-  
-I have also proven to be proficient in conveying technical concepts to non-technical individuals, 
-effectively addressing customer needs and requirements during my employment at Tel and Com. 
+I proactively initiated calls and meetings to ensure effective collaboration
+and alignment among team members.
+
+I have also proven to be proficient in conveying technical concepts to non-technical individuals,
+effectively addressing customer needs and requirements during my employment at Tel and Com.
 ```
   
 <!-- - Demonstrated excellent communication skills in reporting relevant gaming activities to both the management and surveillance team at the Metropolitan Mayfair Casino.
