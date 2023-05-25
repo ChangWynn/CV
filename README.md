@@ -89,7 +89,7 @@ Here are the highlights of what I have learned:
   
 #### System Design
 - Designing, planning and organising full-stack projects.
-- Designing and working with relational and non-relational databases.
+- Designing and working with SQL and noSQL databases.
 - Implementing Model-View-Controller (MVC) pattern to separate concerns.
 - Adopting Agile methodologies for efficient project management and collaboration.
 
@@ -154,15 +154,15 @@ Playboy Club/Metropolitan Mayfair - *London, UK*
 Empire Casino - *London, UK* <br/>
 Aspers Casino - *Newcastle, UK*
 
-  - Developed quick thinking ability and excellent problem-solving skills to provide fast and accurate payouts, maintaining gaming sessions at an optimal pace.
-  - Consistently displayed a positive and upbeat attitude to deliver excellent customer service.
+  - Developed quick thinking ability and excellent problem-solving skills to provide fast and accurate payouts, ensuring optimal game pace.
+  - Consistently displayed a positive and upbeat attitude, delivering excellent customer service.
   - Demonstrated natural resilience in handling high-pressure situations, such as dealing to high-value customers to keep customer service standards high.
 
 ###### 2012-2015
 ### Store Manager
 Tel and Com - *Troyes, France*
 
-  - Led a team of sales associates, providing training and performance evaluations to contribute to their professional development.
+  - Led a team of sales associates, providing training and performance evaluations, contributing to their professional development.
   - Demonstrated efficient analytical thinking and problem solving skills by analysing data and developing action plans to attract customers and generate business revenue. 
   - Led the store to consistently be the best regional branch for several weeks by implementing a scheme to reward loyal customers, resulting in a streak of overachieved targets.
 
@@ -175,7 +175,7 @@ Tel and Com - *Troyes, France*
 
   - Demonstrated strong problem-solving skills by implementing a digital solution for tracking customers' accessories orders, significantly improving productivity.
   - Developed excellent logical and analytical thinking skills in understanding user requirements and making accurate product recommendations, increasing customer's loyalty and satisfaction.
-  - Displayed high resilience in dealing with dissatisfied customers, addressing their requests and resolving issues while maintaining composure and calm demeanour, contributing to maintaining customers loyalty. 
+  - Demonstrated high resilience in dealing with dissatisfied customers, addressing their requests and resolving issues while maintaining composure and calm demeanour, contributing to maintaining customers loyalty. 
   
 <!--       - Demonstrated a keen teamwork mindset by working closely with coworkers to achieve collective sales targets, contributing to business revenue and profitability. -->
 <br/>
