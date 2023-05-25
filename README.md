@@ -218,7 +218,7 @@ throughout the development lifecycle.
 During my time at Makers Academy,
 I demonstrated excellent verbal and written communication skills
 through various engineering projects, utilising communication tools such as Slack or Zoom
-to consistently interact and collaborate with peers,
+to consistently interact and collaborate with my peers,
 ensuring everyone remains informed and aligned.
   
 Recognized the significance of clear and efficient communication, 
