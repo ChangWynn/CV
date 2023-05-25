@@ -203,7 +203,8 @@ Tel and Com - *Troyes, France*
     I actively engaged in pair programming sessions at Makers Academy, 
     making valuable contributions to engineering projects. 
     Embracing the collaborative nature of software development, 
-    I actively participated in team-based decision-making processes throughout the development lifecycle.
+    I actively participated in team-based decision-making processes 
+  throughout the development lifecycle.
   ```
   
 <!-- - Developed strong collaboration skills working alongside dealers or inspectors in the casino industry where these quality are crucial to ensure smooth gaming sessions for punters.
@@ -217,8 +218,9 @@ Tel and Com - *Troyes, France*
     through various engineering projects, utilising communication tools such as Slack or Zoom 
     to consistently interact and collaborate with peers, ensuring everyone remains informed and aligned.
   
-    Recognized the significance of clear and efficient communication, I proactively initiated calls and meetings 
-    to ensure effective collaboration and alignment among team members. 
+    Recognized the significance of clear and efficient communication, 
+  I proactively initiated calls and meetings to ensure effective collaboration 
+  and alignment among team members. 
   
     I have also proven to be proficient in conveying technical concepts to non-technical individuals, 
     effectively addressing customer needs and requirements during my employment at Tel and Com. 
