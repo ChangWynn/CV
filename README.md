@@ -324,14 +324,15 @@ I am currently learning advanced concepts of the React Framework and I intend to
 <a name="education"></a>
 ## EDUCATION
 
-### UDEMY COURSE CERTIFICATIONS
+### ONLINE COURSES
+- Framer Motion for React - *July 2023*
+- Firebase for React - *June 2023*
 - React, the complete guide - *May 2023*
 - JavaScript unit-testing with Jest and Vitest - *April 2023*
 - Testing Ruby with Rspec: The Complete Guide - *February 2023*
 - The Linux Command Line Bootcamp - *February 2023*
 - Learn to code with Ruby - *September 2022*
 - The complete JavaScript course - *October 2020*
-- Advanced CSS and SASS - *October 2020*
 - Modern HTML/CSS (including SASS) - *September 2020*
 
 In my wishlist: TypeScript, React Native, GraphQL, Electron.js, C#, 
