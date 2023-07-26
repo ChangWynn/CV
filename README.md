@@ -77,10 +77,10 @@ I am excited to contribute to the tech community where I can leverage my skills 
 
 | NAME | DESCRIPTION | TECH/TOOLS |
 |:----:|:-----------|:----------:|
-| [WMUZIC](https://wmuzic-3020e.web.app) | WORK IN PROGRESS - A music manager app where a user can upload its music files and listen to them. The app uses the Spotify API to collect title metadata and images. The backend rely on Firebase services and the app also includes animations made with the Framer-Motion library for React. |  React, Firebase Auth, Firebase Storage, Firebase Hosting, Framer-Motion
-|[YAHTZEE](https://github.com/ChangWynn/MAKERS-ACADEMY_yahtzee-project) | An adaptation of the classic dice game set in a cyberpunk universe with features including:<br/> <ul><li>leaderboard</li><li>local multiplayer</li><li>AI player</li> | React, MondoDB, Express, Node.JS, CSS, Jest, Cypress, Cakewalk, Helm, Synth1 |
-|[ACEBOOK](https://github.com/ChangWynn/MAKERS-ACADEMY_acebook-project) | A light version of the facebook application where users can:<br/> <ul><li>signup/login</li><li>post new messages and photos</li><li>like and comment</li><li>manage their accounts</li> | React, Node.Js, MongoDB, Express, JWT, CSS, Jest, Cypress |
-|[MAKERSBnB](https://github.com/ChangWynn/MAKERS_ACADEMY_makersBnB-project) | A clone of the AirBnB application where users can:<br/> <ul><li>signup/login</li><li>list or book a room</li><li>search available rooms by date</li><li>manage their bookings</li> | Ruby, Sinatra, PostgreSQL, CSS, Rspec |
+| [WMUZIC](https://wmuzic-3020e.web.app) <br/> Email:`test@test.com` <br /> Password:`123456`| <br/> WORK IN PROGRESS <br/> A music manager app where a user can: <br/> <ul><li>upload local music files to the cloud</li><li>Edit, Update and Delete files from the cloud</li><li>Play, Pause, Shuffle and Repeat songs</li><li>Search and navigate within a song</li></ul><br/> |  React, Firebase Auth, Firebase Storage, Firebase Hosting, Framer-Motion, Spotify API
+|[YAHTZEE](https://github.com/ChangWynn/MAKERS-ACADEMY_yahtzee-project) | <br/> An adaptation of the classic dice game set in a cyberpunk universe with features including:<br/> <ul><li>leaderboard</li><li>local multiplayer</li><li>AI player</li></ul><br/> | React, MondoDB, Express, Node.JS, CSS, Jest, Cypress, Cakewalk, Helm, Synth1 |
+|[ACEBOOK](https://github.com/ChangWynn/MAKERS-ACADEMY_acebook-project) | <br/> A light version of the facebook application where users can:<br/> <ul><li>signup/login</li><li>post new messages and photos</li><li>like and comment</li><li>manage their accounts</li></ul><br/>  | React, Node.Js, MongoDB, Express, JWT, CSS, Jest, Cypress |
+|[MAKERSBnB](https://github.com/ChangWynn/MAKERS_ACADEMY_makersBnB-project) | <br/> A clone of the AirBnB application where users can:<br/> <ul><li>signup/login</li><li>list or book a room</li><li>search available rooms by date</li><li>manage their bookings</li></ul><br/>  | Ruby, Sinatra, PostgreSQL, CSS, Rspec |
 
 ---
 
