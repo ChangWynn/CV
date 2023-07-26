@@ -7,22 +7,28 @@
 
 <!--   ![codewars](https://img.shields.io/badge/Codewars-4kyu-blue?style=for-the-badge&logoColor=red&logo=codewars) -->
   
-  ![javascript](https://img.shields.io/badge/JAVASCRIPT-f7df1e?style=flat&logoColor=white&logo=javascript)
-  ![html](https://img.shields.io/badge/HTML-E34F26?style=flat&logoColor=white&logo=html5)
-  ![css](https://img.shields.io/badge/CSS-1572B6?style=flat&logoColor=white&logo=css3) *
-  ![react](https://img.shields.io/badge/REACT-5ed3f3?style=flat&logoColor=white&logo=react)
-  ![nodedotjs](https://img.shields.io/badge/NODE.JS-339933?style=flat&logoColor=white&logo=nodedotjs)
-  ![express](https://img.shields.io/badge/EXPRESS-000000?style=flat&logoColor=white&logo=express)
-  ![mongodb](https://img.shields.io/badge/MONGODB-4EA94B?style=flat&logoColor=white&logo=mongodb)
-  
-  ![ruby](https://img.shields.io/badge/RUBY-CC342D?style=flat&logoColor=white&logo=ruby)
-  ![sinatra](https://img.shields.io/badge/SINATRA-000000?style=flat&logoColor=white&logo=rubysinatra)
-  ![postgresql](https://img.shields.io/badge/POSTGRESQL-316192?style=flat&logoColor=white&logo=postgresql) * 
-  ![rspec](https://img.shields.io/badge/RSPEC-fe405f?style=flat&logoColor=white&logo=rubygems)
-  ![jest](https://img.shields.io/badge/JEST-C21325?style=flat&logoColor=white&logo=jest) 
-  ![cypress](https://img.shields.io/badge/CYPRESS-1ec588?style=flat&logoColor=white&logo=cypress)
-<!--   ![git](https://img.shields.io/badge/GIT-F05032?style=flat&logoColor=white&logo=git)
-  ![github](https://img.shields.io/badge/GITHUB-181717?style=flat&logoColor=white&logo=github) -->
+![react](https://img.shields.io/badge/React-5ed3f3?style=flat&logoColor=white&logo=react) 
+![redux](https://img.shields.io/badge/Redux-764abc?style=flat&logoColor=white&logo=redux) *
+![javascript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat&logoColor=white&logo=javascript)
+![html](https://img.shields.io/badge/Html5-E34F26?style=flat&logoColor=white&logo=html5)
+![css](https://img.shields.io/badge/Css3-1572B6?style=flat&logoColor=white&logo=css3)
+![ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logoColor=white&logo=ruby) <br />
+![nodedotjs](https://img.shields.io/badge/Node.js-339933?style=flat&logoColor=white&logo=nodedotjs)
+![express](https://img.shields.io/badge/Express-000000?style=flat&logoColor=white&logo=express)
+![Firebase](https://img.shields.io/badge/Firebase-ffcc30?style=flat&logoColor=black&logo=firebase) *
+![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logoColor=white&logo=mongodb)
+![mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat&logoColor=white&logo=mongoose)
+![postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logoColor=white&logo=postgresql) <br />
+![jest](https://img.shields.io/badge/Jest-C21325?style=flat&logoColor=white&logo=jest)
+![testingLibrary](https://img.shields.io/badge/Testing_Library/React-fa4f49?style=flat&logoColor=white&logo=testinglibrary)
+![rspec](https://img.shields.io/badge/Rspec-fe405f?style=flat&logoColor=white&logo=rubygems) <br />
+![git](https://img.shields.io/badge/Git-F05032?style=flat&logoColor=white&logo=git)
+![github](https://img.shields.io/badge/Github-181717?style=flat&logoColor=white&logo=github) *
+![Jira](https://img.shields.io/badge/Jira-4f92ed?style=flat&logoColor=white&logo=jirasoftware) 
+![postman](https://img.shields.io/badge/Postman-f56933?style=flat&logoColor=white&logo=postman) <br />
+![Framer-Motion](https://img.shields.io/badge/Framer--Motion-ec3ab6?style=flat&logoColor=black&logo=framer)
+
+<p>* * *</p>
   
   <img width="35" height="35" src="https://img.icons8.com/color/48/great-britain-circular.png" alt="great-britain-circular"/>
   <img width="35" height="35" src="https://img.icons8.com/color/96/france-circular.png" alt="france-circular"/>
@@ -124,12 +130,15 @@ Here are the highlights of what I have learned:
 <!-- - Conducting code reviews for quality and adherence to coding standards. -->
 
 #### Technologies
-- **Frontend**: JavaScript, React, HTML, CSS, Ruby, ERB
-- **Backend**: Node.JS, Express, Ruby, Sinatra
-- **Database**: MongoDB, Mongoose, PostgreSQL, SQL
-- **Testing**: Rspec, Jest
-- **Version Control**: git, github
-- **Dev tools**: PostMan, TablePlus, Jira, Trello
+- **Languages**: `JavaScript` | `HTML` | `CSS` | `Ruby`
+- **Frameworks/Libraries**: `React` | `Redux` | `Mongoose` | `Framer-Motion`
+- **Backend**: `Node.js` | `Express` | `Firebase`
+- **Database**: `MongoDB` | `PostgreSQL` | `SQL` | `noSQL`
+- **Testing**: `Jest` | `Testing-Library/React` | `Rspec`
+- **Version Control**: `git` | `github`
+- **Dev tools**: `Jira` | `PostMan` | `TablePlus`
+
+- **Currently learning**: `React Native` | `Three.js`
 
 <br/>
 
@@ -325,18 +334,18 @@ I am currently learning advanced concepts of the React Framework and I intend to
 ## EDUCATION
 
 ### ONLINE COURSES
+
+- Testing React with Jest and Testing-Library - *July 2023*
 - Framer Motion for React - *July 2023*
 - Firebase for React - *June 2023*
 - React, the complete guide - *May 2023*
-- JavaScript unit-testing with Jest and Vitest - *April 2023*
-- Testing Ruby with Rspec: The Complete Guide - *February 2023*
+- Testing JavaScript with Jest - *April 2023*
+- Testing Ruby with Rspec - *February 2023*
 - The Linux Command Line Bootcamp - *February 2023*
 - Learn to code with Ruby - *September 2022*
 - The complete JavaScript course - *October 2020*
-- Modern HTML/CSS (including SASS) - *September 2020*
+- Modern HTML/CSS - *September 2020*
 
-In my wishlist: TypeScript, React Native, GraphQL, Electron.js, C#, 
-Algorithms and Data Structures and more.
 
 ### 2016 - CERUS CASINO ACADEMY - Manchester, UK
 - Casino Dealer Graduate
